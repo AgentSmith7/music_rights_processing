@@ -1,0 +1,54 @@
+id,statement_id,page_number,item_name,item_code,channel,units,unit_rate,gross_amount,royalty_rate,royalty_amount
+f3fa44a4-50e4-4470-b396-e0c36858baba,ae3377f3-6644-4591-a74a-0d48814f1e70,3,Domestic Earn.-Physical,N/A,Physical,1,318.11,318.11,0,388.33
+5337c484-aa9b-456e-91d6-db9f33ac3a12,ae3377f3-6644-4591-a74a-0d48814f1e70,3,Domestic Earn.-Digital,N/A,Digital,1,7462.21,7462.21,0,7462.21
+42e14de8-9dc7-43e8-9270-9029d1bbb298,ae3377f3-6644-4591-a74a-0d48814f1e70,3,Total Domestic Earnings,N/A,N/A,0,0,7780.32,0,7850.54
+aaea3a42-bc54-46db-9d74-c03d4d97c9b6,ae3377f3-6644-4591-a74a-0d48814f1e70,3,Foreign Earn.-Physical,N/A,Physical,1,15.53,15.53,0,22.31
+9dae3496-a4f1-4a3e-85dc-47c7a60967e3,ae3377f3-6644-4591-a74a-0d48814f1e70,3,Foreign Earn.-Digital,N/A,Digital,1,3174.09,3174.09,0,3174.09
+1a5c901b-f971-43cd-82b9-e05388dd078b,ae3377f3-6644-4591-a74a-0d48814f1e70,3,Total Foreign Earnings,N/A,N/A,0,0,3189.62,0,3196.4
+e103cdb2-2def-4aa1-ba94-d371ac388222,ae3377f3-6644-4591-a74a-0d48814f1e70,3,Other Income - Sync,N/A,Sync,1,0.0,5103.64,0,5103.64
+0e98cf7d-2662-4bed-a9aa-c89bef2421ff,ae3377f3-6644-4591-a74a-0d48814f1e70,3,Total Other Earnings,N/A,N/A,0,0,0.0,0,5103.64
+c65f9104-ecc0-4d90-bbcd-72829cf158c9,ae3377f3-6644-4591-a74a-0d48814f1e70,3,TOTAL EARNINGS,N/A,N/A,0,0,10969.94,0,16150.58
+011ec34d-9cd3-4956-9e46-1da2e369b390,ae3377f3-6644-4591-a74a-0d48814f1e70,4,AUTOMATIC PAYMENTS,N/A,N/A,1,0,16150.58,0,16150.58
+e7700376-36fe-42c9-b34f-a108413bf4f7,ae3377f3-6644-4591-a74a-0d48814f1e70,5,H1 2024,N/A,N/A,1,141.62,182.29,0,182.29
+a4c95730-9381-42bf-bdcb-e93287174eab,ae3377f3-6644-4591-a74a-0d48814f1e70,5,H2 2024,N/A,N/A,1,141.56,182.12,0,182.12
+d0fecef3-8937-4e5c-85cb-f45916e0874d,ae3377f3-6644-4591-a74a-0d48814f1e70,5,H1 2025,N/A,N/A,1,0.0,40.67,0,40.67
+bb1378ac-1932-4574-ac65-ef72927952d2,ae3377f3-6644-4591-a74a-0d48814f1e70,5,H2 2025,N/A,N/A,1,0.0,21.02,0,21.02
+1f446ccd-f1cd-484d-bb09-1ed4506c73ed,ae3377f3-6644-4591-a74a-0d48814f1e70,5,RESERVES,N/A,N/A,1,283.18,426.1,0,426.1
+3f4019cf-afe6-4593-96ee-410c6faef417,d8f8cac7-b177-4bd6-be7f-435670360f38,1,Doxology/Amen,30976-301-A,MU - Master Use Revenue,120,2.47,2.47,-0.044,-0.11
+a4d570e3-2a28-4f37-9b78-dfbc8a92f403,d8f8cac7-b177-4bd6-be7f-435670360f38,1,Doxology/Amen,30976-301-A,MU - Master Use Revenue,120,2.47,2.47,-0.5,-1.24
+cf8c1504-a69b-4020-8f92-9bc9b38e1672,d8f8cac7-b177-4bd6-be7f-435670360f38,1,Doxology/Amen,30976-301-A,MU - Master Use Revenue,369,10.14,10.14,-0.04,-0.45
+f006746c-568d-4553-91d6-4d70dcb495cd,d8f8cac7-b177-4bd6-be7f-435670360f38,1,Doxology/Amen,30976-301-A,MU - Master Use Revenue,369,10.14,10.14,-0.5,-5.07
+b8104ec3-ca01-4cb3-8b2a-c88c2f4f35af,d8f8cac7-b177-4bd6-be7f-435670360f38,1,Your Love Awakens Me,30976-302-A,MU - Master Use Revenue,115,2.36,2.36,-0.04,-0.09
+7d5973dd-64b9-4804-882f-f5804f5cf146,d8f8cac7-b177-4bd6-be7f-435670360f38,1,Your Love Awakens Me,30976-302-A,MU - Master Use Revenue,115,2.36,2.36,-0.5,-1.18
+ebfba505-53bd-4dde-be2d-6ec37462578a,d8f8cac7-b177-4bd6-be7f-435670360f38,1,Your Love Awakens Me,30976-302-A,MU - Master Use Revenue,406,14.6,14.6,-0.04,-0.64
+9b49f06d-d608-4606-9564-c63929051fd7,d8f8cac7-b177-4bd6-be7f-435670360f38,1,Your Love Awakens Me,30976-302-A,MU - Master Use Revenue,406,14.6,14.6,-0.5,-7.3
+b47a2e32-d5fd-4f9f-8c88-da756e5489b3,d8f8cac7-b177-4bd6-be7f-435670360f38,1,My All In All,30976-303-A,MU - Master Use Revenue,2,0.04,0.04,-0.5,0.0
+0ddb3dff-191c-45c0-b9f8-d0855938b94c,d8f8cac7-b177-4bd6-be7f-435670360f38,1,My All In All,30976-303-A,MU - Master Use Revenue,2,0.04,0.04,-0.1,0.0
+e666f267-7420-418c-92c7-5228070676be,d8f8cac7-b177-4bd6-be7f-435670360f38,1,The Secret Place,30976-305-A,MU - Master Use Revenue,1,0.02,0.02,-0.2,0.0
+f588252f-a13f-463d-a5b2-35e5412c3a44,d8f8cac7-b177-4bd6-be7f-435670360f38,1,The Secret Place,30976-305-A,MU - Master Use Revenue,1,0.02,0.02,-1.0,0.0
+e87a354b-e728-40ee-8439-755c6bec49b9,d8f8cac7-b177-4bd6-be7f-435670360f38,1,Better Than Life,30976-306-A,MU - Master Use Revenue,1,0.02,0.02,-0.2,0.0
+fd26fb44-93d6-430b-8ec0-090d1a05b0cc,d8f8cac7-b177-4bd6-be7f-435670360f38,1,Better Than Life,30976-306-A,MU - Master Use Revenue,1,0.02,0.02,-1.0,0.0
+58d9fba2-0031-4185-9b33-c220bcf7ba3c,d8f8cac7-b177-4bd6-be7f-435670360f38,1,Starmaker (Above The Earth),30976-307-A,MU - Master Use Revenue,3,0.06,0.06,-0.5,-0.03
+2e5b944a-3fa1-41c1-94d2-60a737757653,d8f8cac7-b177-4bd6-be7f-435670360f38,1,As It Is In Heaven,30976-311-A,MU - Master Use Revenue,2,0.04,0.04,-0.5,-0.02
+3bd76671-e29b-40d0-af9f-e3188edb3896,d8f8cac7-b177-4bd6-be7f-435670360f38,1,As It Is In Heaven,30976-311-A,MU - Master Use Revenue,11,0.06,0.06,-0.5,-0.03
+9bbde230-e598-4ecf-8cb8-8942fcf506fe,d8f8cac7-b177-4bd6-be7f-435670360f38,1,Yours Alone,39032-1813-A,FL - Foreign Digital/Physical,747,2.69,2.69,-0.04,-0.11
+9a27683d-0529-4ae2-8db0-e19a1802e368,d8f8cac7-b177-4bd6-be7f-435670360f38,1,Yours Alone,39032-1813-A,FL - Foreign Digital/Physical,1331,2.6,2.6,-0.5,-1.3
+2e7fbc54-eef7-4e9b-97d7-7ec05f60981e,d8f8cac7-b177-4bd6-be7f-435670360f38,2,Here With Me (Acoustic),40476-710-A,MU - Master Use Revenue,1,0.02,0.02,0.5,0.01
+28d70963-f017-4f70-97af-39525022fd8b,d8f8cac7-b177-4bd6-be7f-435670360f38,2,Here With Me (Acoustic),40476-710-A,MU - Master Use Revenue,1,0.02,0.02,0.1,0
+9289ac9a-85a3-44ec-b423-d3206d71de79,d8f8cac7-b177-4bd6-be7f-435670360f38,2,Children of God (Acoustic),40476-711-A,MU - Master Use Revenue,1,0.02,0.02,0.5,0.01
+9acf2d5b-f228-4f03-86e8-f92a7b62cce3,d8f8cac7-b177-4bd6-be7f-435670360f38,2,Children of God (Acoustic),40476-711-A,MU - Master Use Revenue,2,0.04,0.04,0.2,0
+ab36b594-8d46-4103-9b51-126eab3f2b78,d8f8cac7-b177-4bd6-be7f-435670360f38,2,Children of God (Acoustic),40476-711-A,MU - Master Use Revenue,2,0.04,0.04,0.1,0
+c7c0918d-3eda-477c-91b6-ab01a1f7b356,d8f8cac7-b177-4bd6-be7f-435670360f38,2,Doxology/Amen (Acoustic),40476-712-A,MU - Master Use Revenue,31,1.51,1.51,0.4,0.6
+e9bf0074-1361-4da4-9792-73526bee5c94,d8f8cac7-b177-4bd6-be7f-435670360f38,2,Doxology/Amen (Acoustic),40476-712-A,MU - Master Use Revenue,31,1.51,1.51,0.1,0.15
+44a47c03-9a66-4bcf-9a4a-287461026ee6,d8f8cac7-b177-4bd6-be7f-435670360f38,2,Doxology/Amen (Acoustic),40476-712-A,MU - Master Use Revenue,1,0.64,0.64,0.1,0.06
+e4d2fb18-4d65-4de2-9805-48d1f4447dbf,d8f8cac7-b177-4bd6-be7f-435670360f38,2,Stand In Awe (Acoustic),40476-715-A,MU - Master Use Revenue,1,0.02,0.02,0.4,0
+5c3b2114-7b6d-434e-b9fd-20db2e2148cc,d8f8cac7-b177-4bd6-be7f-435670360f38,2,Stand In Awe (Acoustic),40476-715-A,MU - Master Use Revenue,1,0.02,0.02,0.4,0
+bdab9df8-7ef8-4bc3-8049-db7ab01c6b85,d8f8cac7-b177-4bd6-be7f-435670360f38,2,Cannons,42552,CT - CBA Trade,1,1.85,1.85,0.4,0.74
+c3040fd2-6f4a-4e0a-8a15-d1657fdea705,d8f8cac7-b177-4bd6-be7f-435670360f38,2,Cannons,42552,CT - CBA Trade,1,1.85,1.85,0.45,0.83
+c3940b8d-22f6-4980-a872-412630ed6b70,d8f8cac7-b177-4bd6-be7f-435670360f38,2,Cannons,42552,CT - CBA Trade,1,1.85,1.85,0.1,0.18
+abd8612e-086a-4c20-b1b4-a84556c76364,d8f8cac7-b177-4bd6-be7f-435670360f38,2,A Must I Wait,42552-12980-A,MU - Master Use Revenue,1,0.02,0.02,0.1,0
+9f2d4ceb-2eb2-4ddb-b631-e41de281b415,d8f8cac7-b177-4bd6-be7f-435670360f38,2,A Must I Wait,42552-12980-A,MU - Master Use Revenue,1,0.02,0.02,0.5,0.01
+db1c765a-a9d0-4688-bccd-c570dd932ed1,d8f8cac7-b177-4bd6-be7f-435670360f38,2,Cannons,42552-12983-A,MU - Master Use Revenue,92,72.79,72.79,0.4,29.12
+706e2e10-0f96-4116-9ccd-beefa6b85b45,d8f8cac7-b177-4bd6-be7f-435670360f38,2,Cannons,42552-12983-A,MU - Master Use Revenue,92,72.79,72.79,0,0
+f652a398-4590-4b11-9352-395ec3cabb5c,d8f8cac7-b177-4bd6-be7f-435670360f38,2,Shining,42552-12984-A,MU - Master Use Revenue,22,2.79,2.79,0.5,1.4
+11d5bd32-b18a-4888-add1-38ccd152fabd,d8f8cac7-b177-4bd6-be7f-435670360f38,2,Shining,42552-12986-A,MU - Master Use Revenue,22,2.79,2.79,0.4,1

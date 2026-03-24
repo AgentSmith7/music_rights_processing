@@ -1,0 +1,9 @@
+# DotsOCR Extractor - GPU required
+torch>=2.0.0
+transformers>=4.40.0
+accelerate>=0.27.0
+pdf2image>=1.16.0
+Pillow>=10.0.0
+qwen-vl-utils>=0.0.2
+weave>=0.50.0
+beautifulsoup4>=4.12.0

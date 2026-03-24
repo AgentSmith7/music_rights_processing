@@ -1,0 +1,46 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+*.egg-info/
+dist/
+build/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Data files (large)
+*.pdf
+*.PDF
+*.jpg
+*.jpeg
+*.png
+*.gif
+
+# Output data (regeneratable)
+pymupdf/output/*.json
+pymupdf/data/extracted_pymupdf/
+dotsocr/data/converted_images/
+dotsocr/data/output*/
+dotsocr/data/visualizations/
+
+# Keep structure
+!pymupdf/output/.gitkeep
+!dotsocr/data/.gitkeep
+
+# Environment
+.env
+.env.local
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
