@@ -1,0 +1,198 @@
+{
+  "pdf_name": "2024-H2 - Charli XCX - FAE (Hurts Like Hell)(3-31-25)",
+  "pdf_path": "music_rights_sample_pdfs\\extracted\\pdfs-for-model-training\\2024-H2 - Charli XCX - FAE (Hurts Like Hell)(3-31-25).pdf",
+  "total_pages": 1,
+  "extracted_at": "2026-03-24T01:45:10.039064",
+  "extraction_method": "PyMuPDF (direct text extraction)",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "FAE GRP\nROYALTY STATEMENT\n24H2\nCharli XCX\nINCOME\nDIGITAL\n£1,207.83\nPremium Stream\n£1,141.11\nAd Funded Stream\n£62.78\nDownload (Track)\n£3.54\nCloud\n£0.39\nLICENSING\n£134.07\nGeneral Stream\n£126.56\nGeneral Stream (Video)\n£6.73\nBreakages\n£0.35\nDownload (Track)\n£0.18\nUser Generated Content (Video)\n£0.14\nBreakages (Video)\n£0.10\nNEIGHBOURING RIGHTS\n£3.22\nPrivate Copying\n£2.40\nBroadcast\n£0.83\nTOTAL INCOME\n£1,345.12\nCOSTS\nTOTAL COSTS\n£0.00\nNET AMOUNT\n£1,345.12\nAll amounts are in GBP\nAny questions, please contact \nstatements@themusicroyaltyco.uk\nRun No: 11\n21/02/2025 14:40:82\n",
+      "text_blocks": [
+        {
+          "bbox": [
+            539.4765625,
+            25.0,
+            580.0004272460938,
+            39.0625
+          ],
+          "text": "FAE GRP"
+        },
+        {
+          "bbox": [
+            111.23200225830078,
+            130.00001525878906,
+            380.0,
+            167.8240203857422
+          ],
+          "text": "ROYALTY STATEMENT"
+        },
+        {
+          "bbox": [
+            337.1806640625,
+            164.0,
+            579.9747924804688,
+            185.09375
+          ],
+          "text": "24H2\nCharli XCX"
+        },
+        {
+          "bbox": [
+            20.0,
+            205.09378051757812,
+            550.0000610351562,
+            226.36978149414062
+          ],
+          "text": "INCOME\nDIGITAL\n£1,207.83"
+        },
+        {
+          "bbox": [
+            110.0,
+            229.27378845214844,
+            549.9998779296875,
+            264.9197692871094
+          ],
+          "text": "Premium Stream\n£1,141.11\nAd Funded Stream\n£62.78"
+        },
+        {
+          "bbox": [
+            110.0,
+            264.9197692871094,
+            549.9998779296875,
+            300.5657653808594
+          ],
+          "text": "Download (Track)\n£3.54\nCloud\n£0.39"
+        },
+        {
+          "bbox": [
+            110.0,
+            320.3887634277344,
+            550.0000610351562,
+            338.1187744140625
+          ],
+          "text": "LICENSING\n£134.07"
+        },
+        {
+          "bbox": [
+            110.0,
+            341.53875732421875,
+            549.9998779296875,
+            359.36175537109375
+          ],
+          "text": "General Stream\n£126.56"
+        },
+        {
+          "bbox": [
+            110.0,
+            359.36175537109375,
+            549.9998779296875,
+            395.00775146484375
+          ],
+          "text": "General Stream (Video)\n£6.73\nBreakages\n£0.35"
+        },
+        {
+          "bbox": [
+            110.0,
+            395.00775146484375,
+            549.9998779296875,
+            413.45977783203125
+          ],
+          "text": "Download (Track)\n£0.18"
+        },
+        {
+          "bbox": [
+            110.0,
+            412.83074951171875,
+            549.9998779296875,
+            431.28277587890625
+          ],
+          "text": "User Generated Content (Video)\n£0.14"
+        },
+        {
+          "bbox": [
+            110.0,
+            430.65374755859375,
+            549.9998779296875,
+            449.10577392578125
+          ],
+          "text": "Breakages (Video)\n£0.10"
+        },
+        {
+          "bbox": [
+            110.0,
+            468.29974365234375,
+            550.0,
+            486.0297546386719
+          ],
+          "text": "NEIGHBOURING RIGHTS\n£3.22"
+        },
+        {
+          "bbox": [
+            110.0,
+            489.4497375488281,
+            549.9998779296875,
+            525.0958251953125
+          ],
+          "text": "Private Copying\n£2.40\nBroadcast\n£0.83"
+        },
+        {
+          "bbox": [
+            110.0,
+            544.9187622070312,
+            550.0000610351562,
+            562.6487426757812
+          ],
+          "text": "TOTAL INCOME\n£1,345.12"
+        },
+        {
+          "bbox": [
+            20.0,
+            605.5687866210938,
+            550.0,
+            626.8447875976562
+          ],
+          "text": "COSTS\nTOTAL COSTS\n£0.00"
+        },
+        {
+          "bbox": [
+            20.0,
+            669.248779296875,
+            550.0001220703125,
+            705.9087524414062
+          ],
+          "text": "NET AMOUNT\n£1,345.12\nAll amounts are in GBP"
+        },
+        {
+          "bbox": [
+            213.72999572753906,
+            760.0,
+            376.27001953125,
+            789.760009765625
+          ],
+          "text": "Any questions, please contact\nstatements@themusicroyaltyco.uk"
+        },
+        {
+          "bbox": [
+            10.0,
+            800.0000610351562,
+            84.75399780273438,
+            821.1600341796875
+          ],
+          "text": "Run No: 11\n21/02/2025 14:40:82"
+        }
+      ],
+      "tables": [],
+      "statement_info": {},
+      "char_count": 570,
+      "has_tables": false
+    }
+  ],
+  "summary": {
+    "total_pages": 1,
+    "total_tables": 0,
+    "total_characters": 570,
+    "pages_with_tables": 0,
+    "statement_info": {}
+  },
+  "full_text": "FAE GRP\nROYALTY STATEMENT\n24H2\nCharli XCX\nINCOME\nDIGITAL\n£1,207.83\nPremium Stream\n£1,141.11\nAd Funded Stream\n£62.78\nDownload (Track)\n£3.54\nCloud\n£0.39\nLICENSING\n£134.07\nGeneral Stream\n£126.56\nGeneral Stream (Video)\n£6.73\nBreakages\n£0.35\nDownload (Track)\n£0.18\nUser Generated Content (Video)\n£0.14\nBreakages (Video)\n£0.10\nNEIGHBOURING RIGHTS\n£3.22\nPrivate Copying\n£2.40\nBroadcast\n£0.83\nTOTAL INCOME\n£1,345.12\nCOSTS\nTOTAL COSTS\n£0.00\nNET AMOUNT\n£1,345.12\nAll amounts are in GBP\nAny questions, please contact \nstatements@themusicroyaltyco.uk\nRun No: 11\n21/02/2025 14:40:82\n"
+}

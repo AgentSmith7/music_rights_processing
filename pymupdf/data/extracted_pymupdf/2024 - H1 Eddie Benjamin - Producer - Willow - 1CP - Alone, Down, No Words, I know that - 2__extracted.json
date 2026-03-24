@@ -1,0 +1,516 @@
+{
+  "pdf_name": "2024 - H1 Eddie Benjamin - Producer - Willow - 1CP - Alone, Down, No Words, I know that - 2_",
+  "pdf_path": "music_rights_sample_pdfs\\extracted\\pdfs-for-model-training\\2024 - H1 Eddie Benjamin - Producer - Willow - 1CP - Alone, Down, No Words, I know that - 2_.pdf",
+  "total_pages": 4,
+  "extracted_at": "2026-03-24T01:45:09.911980",
+  "extraction_method": "PyMuPDF (direct text extraction)",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Overtone Music LLC\ngamma.\n8560 Sunset Blvd., Floor 4\nLos Angeles, CA 90069\nROYALTY STATEMENT\nTSZ 1H24 Eddie Benjamin - Producer - \nWillow - 1CP - Alone, Down, \nNo Words, I know that - 2%\nOPENING\nOPENING BALANCE\n$-14,955.96\nPAYMENTS\nPAYMENTS THIS PERIOD\n$0.00\nINCOME\nDIGITAL\n$465.65\nStreams\n$443.53\nDownloads\n$22.11\nPHYSICAL\n$78.45\nVinyl\n$78.45\nTOTAL INCOME\n$544.10\nCOSTS\nTOTAL COSTS\n$0.00\nTRANSACTIONS\nTOTAL TRANSACTIONS\n$0.00\nBALANCE\nCLOSING BALANCE\n$-14,411.87\nAll amounts are in USD\nThank you for being a valued partner of the gamma. community.\n",
+      "text_blocks": [
+        {
+          "bbox": [
+            20.0,
+            25.0,
+            580.0036010742188,
+            54.0625
+          ],
+          "text": "Overtone Music LLC\ngamma.\n8560 Sunset Blvd., Floor 4"
+        },
+        {
+          "bbox": [
+            470.705078125,
+            54.0625,
+            580.012939453125,
+            68.125
+          ],
+          "text": "Los Angeles, CA 90069"
+        },
+        {
+          "bbox": [
+            111.23200225830078,
+            130.00001525878906,
+            380.0,
+            167.8240203857422
+          ],
+          "text": "ROYALTY STATEMENT"
+        },
+        {
+          "bbox": [
+            305.07421875,
+            164.0,
+            584.0646362304688,
+            185.09375
+          ],
+          "text": "TSZ 1H24 Eddie Benjamin - Producer -"
+        },
+        {
+          "bbox": [
+            387.0009765625,
+            185.09375,
+            584.0651245117188,
+            206.1875
+          ],
+          "text": "Willow - 1CP - Alone, Down,"
+        },
+        {
+          "bbox": [
+            391.7822265625,
+            206.1875,
+            579.9828491210938,
+            227.28125
+          ],
+          "text": "No Words, I know that - 2%"
+        },
+        {
+          "bbox": [
+            20.0,
+            247.28128051757812,
+            550.0000610351562,
+            268.5572814941406
+          ],
+          "text": "OPENING\nOPENING BALANCE\n$-14,955.96"
+        },
+        {
+          "bbox": [
+            20.0,
+            300.4612731933594,
+            550.0,
+            321.7372741699219
+          ],
+          "text": "PAYMENTS\nPAYMENTS THIS PERIOD\n$0.00"
+        },
+        {
+          "bbox": [
+            20.0,
+            364.1412658691406,
+            550.0000610351562,
+            385.4172668457031
+          ],
+          "text": "INCOME\nDIGITAL\n$465.65"
+        },
+        {
+          "bbox": [
+            150.0,
+            388.3212585449219,
+            549.9998779296875,
+            423.9672546386719
+          ],
+          "text": "Streams\n$443.53\nDownloads\n$22.11"
+        },
+        {
+          "bbox": [
+            150.0,
+            443.7902526855469,
+            550.0,
+            461.520263671875
+          ],
+          "text": "PHYSICAL\n$78.45"
+        },
+        {
+          "bbox": [
+            150.0,
+            464.94024658203125,
+            549.9998779296875,
+            482.76324462890625
+          ],
+          "text": "Vinyl\n$78.45"
+        },
+        {
+          "bbox": [
+            150.0,
+            502.5862121582031,
+            550.0000610351562,
+            520.3162231445312
+          ],
+          "text": "TOTAL INCOME\n$544.10"
+        },
+        {
+          "bbox": [
+            20.0,
+            563.236328125,
+            550.0,
+            584.5123291015625
+          ],
+          "text": "COSTS\nTOTAL COSTS\n$0.00"
+        },
+        {
+          "bbox": [
+            20.0,
+            626.916259765625,
+            550.0,
+            648.1922607421875
+          ],
+          "text": "TRANSACTIONS\nTOTAL TRANSACTIONS\n$0.00"
+        },
+        {
+          "bbox": [
+            20.0,
+            690.5963134765625,
+            550.0000610351562,
+            711.872314453125
+          ],
+          "text": "BALANCE\nCLOSING BALANCE\n$-14,411.87"
+        },
+        {
+          "bbox": [
+            440.0199890136719,
+            714.5262451171875,
+            549.9999389648438,
+            729.40625
+          ],
+          "text": "All amounts are in USD"
+        },
+        {
+          "bbox": [
+            149.8312530517578,
+            757.4063110351562,
+            440.1690673828125,
+            774.5438232421875
+          ],
+          "text": "Thank you for being a valued partner of the gamma. community."
+        }
+      ],
+      "tables": [],
+      "statement_info": {},
+      "char_count": 548,
+      "has_tables": false
+    },
+    {
+      "page_number": 2,
+      "text": "Any questions, please contact royalties@thegamma.com\nRun No: 3\n04/02/2025 21:12:37\n",
+      "text_blocks": [
+        {
+          "bbox": [
+            161.5780029296875,
+            760.0,
+            428.42205810546875,
+            774.8800048828125
+          ],
+          "text": "Any questions, please contact royalties@thegamma.com"
+        },
+        {
+          "bbox": [
+            10.0,
+            800.0000610351562,
+            84.75399780273438,
+            821.1600341796875
+          ],
+          "text": "Run No: 3\n04/02/2025 21:12:37"
+        }
+      ],
+      "tables": [],
+      "statement_info": {},
+      "char_count": 83,
+      "has_tables": false
+    },
+    {
+      "page_number": 3,
+      "text": "gamma.\n8560 Sunset Blvd., Floor 4\nLos Angeles, CA 90069\nSUMMARY\nTITLE\nUNITS\nREVENUE\nTOP RELEASES\n360001: empathogen - LP\n720\n$46.87\n360003: empathogen - CD\n936\n$31.58\nTOP TRACKS\nQZSYP2350923: alone\n$286.47\nQZS7J2337748: alone (Official Visual)\n$44.49\nQZSYP2354500: alone (live in studio)\n$34.35\nQZTLA2484026: down\n$33.97\nQZTLA2436422: no words 1 & 2\n$33.61\nQZTLA2448182: I know that face.\n$32.62\nQZTLA2461351: down (Official Visualizer)\n$0.06\nQZTLA2441567: “I know that face.” (Official \nVisualizer)\n$0.06\nQZTLA2477785: no words 1 & 2 (Official \nVisualizer)\n$0.01\nTOP TERRITORIES\nUnited States\n$408.78\nUnited Kingdom\n$33.39\nCanada\n$12.68\nAustralia\n$11.96\nGermany\n$8.88\nFrance\n$8.49\nJapan\n$6.82\nBrazil\n$6.34\nNetherlands\n$3.92\nMexico\n$3.66\n",
+      "text_blocks": [
+        {
+          "bbox": [
+            454.6839904785156,
+            25.000003814697266,
+            580.0,
+            54.8800048828125
+          ],
+          "text": "gamma.\n8560 Sunset Blvd., Floor 4"
+        },
+        {
+          "bbox": [
+            470.00799560546875,
+            54.880008697509766,
+            580.0,
+            69.760009765625
+          ],
+          "text": "Los Angeles, CA 90069"
+        },
+        {
+          "bbox": [
+            110.0,
+            120.00001525878906,
+            242.83200073242188,
+            157.8240203857422
+          ],
+          "text": "SUMMARY"
+        },
+        {
+          "bbox": [
+            150.0,
+            173.7200164794922,
+            550.0,
+            191.45001220703125
+          ],
+          "text": "TITLE\nUNITS\nREVENUE"
+        },
+        {
+          "bbox": [
+            20.0,
+            211.4720458984375,
+            549.9999389648438,
+            231.0184326171875
+          ],
+          "text": "TOP RELEASES\n360001: empathogen - LP\n720\n$46.87"
+        },
+        {
+          "bbox": [
+            150.0,
+            227.92401123046875,
+            549.9999389648438,
+            246.37600708007812
+          ],
+          "text": "360003: empathogen - CD\n936\n$31.58"
+        },
+        {
+          "bbox": [
+            20.0,
+            260.97802734375,
+            549.9999389648438,
+            280.5244140625
+          ],
+          "text": "TOP TRACKS\nQZSYP2350923: alone\n$286.47"
+        },
+        {
+          "bbox": [
+            150.0,
+            277.42999267578125,
+            549.9999389648438,
+            295.8819885253906
+          ],
+          "text": "QZS7J2337748: alone (Official Visual)\n$44.49"
+        },
+        {
+          "bbox": [
+            150.0,
+            293.88201904296875,
+            549.9999389648438,
+            312.3340148925781
+          ],
+          "text": "QZSYP2354500: alone (live in studio)\n$34.35"
+        },
+        {
+          "bbox": [
+            150.0,
+            310.33404541015625,
+            549.9999389648438,
+            328.7860412597656
+          ],
+          "text": "QZTLA2484026: down\n$33.97"
+        },
+        {
+          "bbox": [
+            150.0,
+            326.7860107421875,
+            549.9999389648438,
+            345.2380065917969
+          ],
+          "text": "QZTLA2436422: no words 1 & 2\n$33.61"
+        },
+        {
+          "bbox": [
+            150.0,
+            343.2380065917969,
+            549.9999389648438,
+            361.69000244140625
+          ],
+          "text": "QZTLA2448182: I know that face.\n$32.62"
+        },
+        {
+          "bbox": [
+            150.0,
+            359.6900329589844,
+            549.9999389648438,
+            378.14202880859375
+          ],
+          "text": "QZTLA2461351: down (Official Visualizer)\n$0.06"
+        },
+        {
+          "bbox": [
+            150.0,
+            378.14202880859375,
+            549.9999389648438,
+            411.0460205078125
+          ],
+          "text": "QZTLA2441567: “I know that face.” (Official\nVisualizer)\n$0.06"
+        },
+        {
+          "bbox": [
+            150.0,
+            411.0460205078125,
+            549.9999389648438,
+            443.95001220703125
+          ],
+          "text": "QZTLA2477785: no words 1 & 2 (Official\nVisualizer)\n$0.01"
+        },
+        {
+          "bbox": [
+            20.0,
+            458.5520324707031,
+            549.9999389648438,
+            623.5
+          ],
+          "text": "TOP TERRITORIES\nUnited States\n$408.78\nUnited Kingdom\n$33.39\nCanada\n$12.68\nAustralia\n$11.96\nGermany\n$8.88\nFrance\n$8.49\nJapan\n$6.82\nBrazil\n$6.34\nNetherlands\n$3.92\nMexico\n$3.66"
+        }
+      ],
+      "tables": [],
+      "statement_info": {},
+      "char_count": 738,
+      "has_tables": false
+    },
+    {
+      "page_number": 4,
+      "text": "gamma.\n8560 Sunset Blvd., Floor 4\nLos Angeles, CA 90069\nSUMMARY\nTITLE\nUNITS\nREVENUE\nTOP SOURCES\nSpotify\n3,445,918\n$183.26\nApple Music\n1,279,561\n$149.09\nYouTube\n638,336\n$52.32\nVevo\n882,515\n$37.74\nAmazon Music\n324,200\n$31.55\nAMAZON.COM SERVICES, INC.\n508\n$20.36\nROUGH TRADE\n260\n$14.68\nBARNES & NOBLE\n280\n$10.88\nTidal\n39,290\n$4.70\nSoundCloud\n45,131\n$2.43\nTOP SUBSOURCES\nApple Direct-itunes streaming\n1,277,061\n$127.26\nSpotify - Direct US\n1,908,127\n$119.64\nAmped\n1,656\n$78.45\nSpotify - Direct International\n1,537,791\n$63.62\nVEVO\n882,515\n$37.74\nYouTube SRAV (Ads)\n369,669\n$32.15\nAmazon Music (Streaming)\n324,176\n$31.22\nYouTube SRAV (Subscriptions)\n205,276\n$19.96\nApple Direct-itunes (Albums)\n2,167\n$19.19\nTidal Direct (Streaming)\n39,290\n$4.70\n",
+      "text_blocks": [
+        {
+          "bbox": [
+            464.2120056152344,
+            24.99999237060547,
+            580.0001220703125,
+            56.45199203491211
+          ],
+          "text": "gamma.\n8560 Sunset Blvd., Floor 4"
+        },
+        {
+          "bbox": [
+            476.8479919433594,
+            56.45201873779297,
+            580.0,
+            72.90402221679688
+          ],
+          "text": "Los Angeles, CA 90069"
+        },
+        {
+          "bbox": [
+            110.0,
+            120.00001525878906,
+            242.83200073242188,
+            157.8240203857422
+          ],
+          "text": "SUMMARY"
+        },
+        {
+          "bbox": [
+            150.0,
+            173.7200164794922,
+            550.0,
+            191.45001220703125
+          ],
+          "text": "TITLE\nUNITS\nREVENUE"
+        },
+        {
+          "bbox": [
+            20.0,
+            211.4720458984375,
+            549.9999389648438,
+            294.1600341796875
+          ],
+          "text": "TOP SOURCES\nSpotify\n3,445,918\n$183.26\nApple Music\n1,279,561\n$149.09\nYouTube\n638,336\n$52.32\nVevo\n882,515\n$37.74\nAmazon Music\n324,200\n$31.55"
+        },
+        {
+          "bbox": [
+            150.0,
+            293.73199462890625,
+            549.9999389648438,
+            327.06402587890625
+          ],
+          "text": "AMAZON.COM SERVICES, INC.\n508\n$20.36\nROUGH TRADE\n260\n$14.68"
+        },
+        {
+          "bbox": [
+            150.0,
+            326.6360168457031,
+            549.9999389648438,
+            376.4200134277344
+          ],
+          "text": "BARNES & NOBLE\n280\n$10.88\nTidal\n39,290\n$4.70\nSoundCloud\n45,131\n$2.43"
+        },
+        {
+          "bbox": [
+            20.0,
+            392.5940246582031,
+            549.9999389648438,
+            412.1404113769531
+          ],
+          "text": "TOP SUBSOURCES\nApple Direct-itunes streaming\n1,277,061\n$127.26"
+        },
+        {
+          "bbox": [
+            150.0,
+            409.0460205078125,
+            549.9999389648438,
+            442.3780212402344
+          ],
+          "text": "Spotify - Direct US\n1,908,127\n$119.64\nAmped\n1,656\n$78.45"
+        },
+        {
+          "bbox": [
+            150.0,
+            441.95001220703125,
+            549.9999389648438,
+            475.2820129394531
+          ],
+          "text": "Spotify - Direct International\n1,537,791\n$63.62\nVEVO\n882,515\n$37.74"
+        },
+        {
+          "bbox": [
+            150.0,
+            474.8540344238281,
+            549.9999389648438,
+            493.3060302734375
+          ],
+          "text": "YouTube SRAV (Ads)\n369,669\n$32.15"
+        },
+        {
+          "bbox": [
+            150.0,
+            491.3060302734375,
+            549.9999389648438,
+            509.7580261230469
+          ],
+          "text": "Amazon Music (Streaming)\n324,176\n$31.22"
+        },
+        {
+          "bbox": [
+            150.0,
+            507.758056640625,
+            549.9999389648438,
+            526.2100219726562
+          ],
+          "text": "YouTube SRAV (Subscriptions)\n205,276\n$19.96"
+        },
+        {
+          "bbox": [
+            150.0,
+            524.2100219726562,
+            549.9999389648438,
+            542.6619873046875
+          ],
+          "text": "Apple Direct-itunes (Albums)\n2,167\n$19.19"
+        },
+        {
+          "bbox": [
+            150.0,
+            540.6619873046875,
+            549.9999389648438,
+            559.1139526367188
+          ],
+          "text": "Tidal Direct (Streaming)\n39,290\n$4.70"
+        }
+      ],
+      "tables": [],
+      "statement_info": {},
+      "char_count": 738,
+      "has_tables": false
+    }
+  ],
+  "summary": {
+    "total_pages": 4,
+    "total_tables": 0,
+    "total_characters": 2107,
+    "pages_with_tables": 0,
+    "statement_info": {}
+  },
+  "full_text": "Overtone Music LLC\ngamma.\n8560 Sunset Blvd., Floor 4\nLos Angeles, CA 90069\nROYALTY STATEMENT\nTSZ 1H24 Eddie Benjamin - Producer - \nWillow - 1CP - Alone, Down, \nNo Words, I know that - 2%\nOPENING\nOPENING BALANCE\n$-14,955.96\nPAYMENTS\nPAYMENTS THIS PERIOD\n$0.00\nINCOME\nDIGITAL\n$465.65\nStreams\n$443.53\nDownloads\n$22.11\nPHYSICAL\n$78.45\nVinyl\n$78.45\nTOTAL INCOME\n$544.10\nCOSTS\nTOTAL COSTS\n$0.00\nTRANSACTIONS\nTOTAL TRANSACTIONS\n$0.00\nBALANCE\nCLOSING BALANCE\n$-14,411.87\nAll amounts are in USD\nThank you for being a valued partner of the gamma. community.\n\n\n--- PAGE BREAK ---\n\nAny questions, please contact royalties@thegamma.com\nRun No: 3\n04/02/2025 21:12:37\n\n\n--- PAGE BREAK ---\n\ngamma.\n8560 Sunset Blvd., Floor 4\nLos Angeles, CA 90069\nSUMMARY\nTITLE\nUNITS\nREVENUE\nTOP RELEASES\n360001: empathogen - LP\n720\n$46.87\n360003: empathogen - CD\n936\n$31.58\nTOP TRACKS\nQZSYP2350923: alone\n$286.47\nQZS7J2337748: alone (Official Visual)\n$44.49\nQZSYP2354500: alone (live in studio)\n$34.35\nQZTLA2484026: down\n$33.97\nQZTLA2436422: no words 1 & 2\n$33.61\nQZTLA2448182: I know that face.\n$32.62\nQZTLA2461351: down (Official Visualizer)\n$0.06\nQZTLA2441567: “I know that face.” (Official \nVisualizer)\n$0.06\nQZTLA2477785: no words 1 & 2 (Official \nVisualizer)\n$0.01\nTOP TERRITORIES\nUnited States\n$408.78\nUnited Kingdom\n$33.39\nCanada\n$12.68\nAustralia\n$11.96\nGermany\n$8.88\nFrance\n$8.49\nJapan\n$6.82\nBrazil\n$6.34\nNetherlands\n$3.92\nMexico\n$3.66\n\n\n--- PAGE BREAK ---\n\ngamma.\n8560 Sunset Blvd., Floor 4\nLos Angeles, CA 90069\nSUMMARY\nTITLE\nUNITS\nREVENUE\nTOP SOURCES\nSpotify\n3,445,918\n$183.26\nApple Music\n1,279,561\n$149.09\nYouTube\n638,336\n$52.32\nVevo\n882,515\n$37.74\nAmazon Music\n324,200\n$31.55\nAMAZON.COM SERVICES, INC.\n508\n$20.36\nROUGH TRADE\n260\n$14.68\nBARNES & NOBLE\n280\n$10.88\nTidal\n39,290\n$4.70\nSoundCloud\n45,131\n$2.43\nTOP SUBSOURCES\nApple Direct-itunes streaming\n1,277,061\n$127.26\nSpotify - Direct US\n1,908,127\n$119.64\nAmped\n1,656\n$78.45\nSpotify - Direct International\n1,537,791\n$63.62\nVEVO\n882,515\n$37.74\nYouTube SRAV (Ads)\n369,669\n$32.15\nAmazon Music (Streaming)\n324,176\n$31.22\nYouTube SRAV (Subscriptions)\n205,276\n$19.96\nApple Direct-itunes (Albums)\n2,167\n$19.19\nTidal Direct (Streaming)\n39,290\n$4.70\n"
+}

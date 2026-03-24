@@ -1,0 +1,207 @@
+{
+  "pdf_name": "2022-12 - Charli XCX - Kollective",
+  "pdf_path": "music_rights_sample_pdfs\\extracted\\pdfs-for-model-training\\2022-12 - Charli XCX - Kollective.pdf",
+  "total_pages": 1,
+  "extracted_at": "2026-03-24T01:45:06.309117",
+  "extraction_method": "PyMuPDF (direct text extraction)",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Statement Summary — December 2022\nAccount:\nAitchison, Charlotte Emma • 67009\nContract:\nCharli XCX - Neighbouring Rights • 533486\nCurrency:\nGBP\nOPENING BALANCE\n790.31\nCLOSING BALANCE\n58,558.11\nPayments\n-790.31\nNet Revenue\n44,858.22\nGross Revenue\n47,620.38\nCommission\n-2,762.17\nDue to rounding, you may see a variance of up to 2 cents\nAdjustments\n14,268.39\nAdjustment\n14,348.76\nCommission Adjustment\n-80.37\nVAT\n-568.50\n1 of 1\n",
+      "text_blocks": [
+        {
+          "bbox": [
+            50.0,
+            115.0000228881836,
+            330.0199890136719,
+            132.7750244140625
+          ],
+          "text": "Statement Summary — December 2022"
+        },
+        {
+          "bbox": [
+            50.0,
+            147.77500915527344,
+            251.2680206298828,
+            158.44000244140625
+          ],
+          "text": "Account:\nAitchison, Charlotte Emma • 67009"
+        },
+        {
+          "bbox": [
+            50.0,
+            166.4399871826172,
+            283.9019775390625,
+            177.10498046875
+          ],
+          "text": "Contract:\nCharli XCX - Neighbouring Rights • 533486"
+        },
+        {
+          "bbox": [
+            50.0,
+            185.1050262451172,
+            122.91899871826172,
+            195.77001953125
+          ],
+          "text": "Currency:\nGBP"
+        },
+        {
+          "bbox": [
+            399.5379943847656,
+            175.12498474121094,
+            462.1820068359375,
+            182.2349853515625
+          ],
+          "text": "OPENING BALANCE"
+        },
+        {
+          "bbox": [
+            429.8030090332031,
+            184.73501586914062,
+            462.6820068359375,
+            197.77001953125
+          ],
+          "text": "790.31"
+        },
+        {
+          "bbox": [
+            482.6820068359375,
+            175.12498474121094,
+            544.780029296875,
+            182.2349853515625
+          ],
+          "text": "CLOSING BALANCE"
+        },
+        {
+          "bbox": [
+            497.71600341796875,
+            184.73501586914062,
+            545.280029296875,
+            197.77001953125
+          ],
+          "text": "58,558.11"
+        },
+        {
+          "bbox": [
+            50.0,
+            243.76998901367188,
+            545.280029296875,
+            255.6199951171875
+          ],
+          "text": "Payments\n-790.31"
+        },
+        {
+          "bbox": [
+            50.0,
+            283.1199645996094,
+            545.280029296875,
+            294.969970703125
+          ],
+          "text": "Net Revenue\n44,858.22"
+        },
+        {
+          "bbox": [
+            50.0,
+            307.4700012207031,
+            545.280029296875,
+            318.135009765625
+          ],
+          "text": "Gross Revenue\n47,620.38"
+        },
+        {
+          "bbox": [
+            50.0,
+            330.6350402832031,
+            545.280029296875,
+            341.300048828125
+          ],
+          "text": "Commission\n-2,762.17"
+        },
+        {
+          "bbox": [
+            50.0,
+            353.7999572753906,
+            285.9889831542969,
+            364.4649658203125
+          ],
+          "text": "Due to rounding, you may see a variance of up to 2 cents"
+        },
+        {
+          "bbox": [
+            50.0,
+            391.9650573730469,
+            545.2799682617188,
+            403.8150634765625
+          ],
+          "text": "Adjustments\n14,268.39"
+        },
+        {
+          "bbox": [
+            50.0,
+            416.3149719238281,
+            545.280029296875,
+            426.97998046875
+          ],
+          "text": "Adjustment\n14,348.76"
+        },
+        {
+          "bbox": [
+            50.0,
+            439.4800109863281,
+            545.280029296875,
+            450.14501953125
+          ],
+          "text": "Commission Adjustment\n-80.37"
+        },
+        {
+          "bbox": [
+            50.0,
+            477.6449890136719,
+            545.280029296875,
+            489.4949951171875
+          ],
+          "text": "VAT\n-568.50"
+        },
+        {
+          "bbox": [
+            289.44281005859375,
+            813.3579711914062,
+            305.83721923828125,
+            821.8899536132812
+          ],
+          "text": "1 of 1"
+        }
+      ],
+      "tables": [],
+      "statement_info": {
+        "client_name": "Aitchison, Charlotte Emma • 67009",
+        "currency": "GBP",
+        "contract": "Charli XCX - Neighbouring Rights • 533486",
+        "amounts": {
+          "gross_amount": 47620.38,
+          "commission": 2762.17,
+          "balance": 790.31
+        }
+      },
+      "char_count": 424,
+      "has_tables": false
+    }
+  ],
+  "summary": {
+    "total_pages": 1,
+    "total_tables": 0,
+    "total_characters": 424,
+    "pages_with_tables": 0,
+    "statement_info": {
+      "client_name": "Aitchison, Charlotte Emma • 67009",
+      "currency": "GBP",
+      "contract": "Charli XCX - Neighbouring Rights • 533486",
+      "amounts": {
+        "gross_amount": 47620.38,
+        "commission": 2762.17,
+        "balance": 790.31
+      }
+    }
+  },
+  "full_text": "Statement Summary — December 2022\nAccount:\nAitchison, Charlotte Emma • 67009\nContract:\nCharli XCX - Neighbouring Rights • 533486\nCurrency:\nGBP\nOPENING BALANCE\n790.31\nCLOSING BALANCE\n58,558.11\nPayments\n-790.31\nNet Revenue\n44,858.22\nGross Revenue\n47,620.38\nCommission\n-2,762.17\nDue to rounding, you may see a variance of up to 2 cents\nAdjustments\n14,268.39\nAdjustment\n14,348.76\nCommission Adjustment\n-80.37\nVAT\n-568.50\n1 of 1\n"
+}

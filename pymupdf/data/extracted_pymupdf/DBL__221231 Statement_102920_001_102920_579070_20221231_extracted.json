@@ -1,0 +1,745 @@
+{
+  "pdf_name": "DBL__221231 Statement_102920_001_102920_579070_20221231",
+  "pdf_path": "music_rights_sample_pdfs\\extracted\\pdfs-for-model-training\\DBL__221231 Statement_102920_001_102920_579070_20221231.pdf",
+  "total_pages": 5,
+  "extracted_at": "2026-03-24T01:53:50.935041",
+  "extraction_method": "PyMuPDF (direct text extraction)",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "%%CC_DOCTYPE|COVER_PAGE\nDEMON BOY LLC\nC/O LAPOLT LAW PC\n9000 SUNSET BLVD, STE 800\nWEST HOLLYWOOD CA  90069\nDEMON BOY LLC - 579070\nFriday, 24 March 2023 - 15:53\nPrint run ID: 48995\nStatement\nContract\nFrom period\nTo period\nPayment\nmethod\nCheck/wire ref.\nAmount\nCollated\n    102920-001\n102920\n07/01/2022\n12/31/2022\nCollated by\nDate\nTime\n",
+      "text_blocks": [
+        {
+          "bbox": [
+            0.0,
+            1.8772969245910645,
+            157.8999786376953,
+            11.877297401428223
+          ],
+          "text": "%%CC_DOCTYPE|COVER_PAGE"
+        },
+        {
+          "bbox": [
+            368.5,
+            125.17728424072266,
+            509.1500244140625,
+            162.1772918701172
+          ],
+          "text": "DEMON BOY LLC\nC/O LAPOLT LAW PC\n9000 SUNSET BLVD, STE 800\nWEST HOLLYWOOD CA  90069"
+        },
+        {
+          "bbox": [
+            185.39999389648438,
+            91.21360778808594,
+            381.57403564453125,
+            107.21361541748047
+          ],
+          "text": "DEMON BOY LLC - 579070"
+        },
+        {
+          "bbox": [
+            53.849998474121094,
+            125.17728424072266,
+            190.1499786376953,
+            135.1772918701172
+          ],
+          "text": "Friday, 24 March 2023 - 15:53"
+        },
+        {
+          "bbox": [
+            53.849998474121094,
+            152.1772918701172,
+            141.59999084472656,
+            162.1772918701172
+          ],
+          "text": "Print run ID: 48995"
+        },
+        {
+          "bbox": [
+            25.350000381469727,
+            214.07725524902344,
+            344.82000732421875,
+            224.07725524902344
+          ],
+          "text": "Statement\nContract\nFrom period\nTo period\nPayment"
+        },
+        {
+          "bbox": [
+            302.95001220703125,
+            226.07725524902344,
+            342.07000732421875,
+            236.07725524902344
+          ],
+          "text": "method"
+        },
+        {
+          "bbox": [
+            367.3500061035156,
+            214.07725524902344,
+            576.9800415039062,
+            224.07725524902344
+          ],
+          "text": "Check/wire ref.\nAmount\nCollated"
+        },
+        {
+          "bbox": [
+            19.299999237060547,
+            240.57725524902344,
+            290.800048828125,
+            250.57725524902344
+          ],
+          "text": "102920-001\n102920\n07/01/2022\n12/31/2022"
+        },
+        {
+          "bbox": [
+            78.4000015258789,
+            680.9273071289062,
+            480.05999755859375,
+            690.9273071289062
+          ],
+          "text": "Collated by\nDate\nTime"
+        }
+      ],
+      "tables": [
+        {
+          "table_index": 0,
+          "bbox": [
+            13.75,
+            209.3499755859375,
+            579.7000122070312,
+            250.3499755859375
+          ],
+          "headers": [
+            "Statement",
+            "Contract",
+            "From period",
+            "To period",
+            "Payment\nmethod",
+            "Check/wire ref.",
+            "Amount",
+            "Collated"
+          ],
+          "rows": [
+            [
+              "102920-001",
+              "102920",
+              "07/01/2022",
+              "12/31/2022",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ],
+          "row_count": 1
+        },
+        {
+          "table_index": 1,
+          "bbox": [
+            13.75,
+            676.2000122070312,
+            552.9333292643229,
+            739.9500122070312
+          ],
+          "headers": [
+            "Collated by",
+            "Date",
+            "Time"
+          ],
+          "rows": [
+            [
+              "",
+              "",
+              ""
+            ]
+          ],
+          "row_count": 1
+        }
+      ],
+      "statement_info": {
+        "contract": "From period"
+      },
+      "char_count": 334,
+      "has_tables": true
+    },
+    {
+      "page_number": 2,
+      "text": "Vendor:\nDEMON BOY LLC\nContract: QUINTON GRIGGS (QVE) - SUMMARY\n   Vendor #:\n579070\n   Contract #: 102920\nRef #: 001\n  ROYALTY SUMMARY STATEMENT\n  Period: 07/01/2022 to 12/31/2022\n%%CC_DOCTYPE|SUMMARY_PAGE\nDEMON BOY LLC\nC/O LAPOLT LAW PC\n9000 SUNSET BLVD, STE 800\nWEST HOLLYWOOD CA  90069\n            For questions, contact us at:\n            Royalties@wmg.com\n            877-343-7784\n     Amount                         Page No.\nOpening Balance\n     266,387.49-\nTotal Earnings\n           0.00 \n-\nTotal Recoupable Costs\n           0.00 \n-\nTotal 3rd Party Charges\n           0.00 \n-\nBalance before Transfers\n     266,387.49-\nTotal Transfers (Transfers from other statements)\n     266,387.49 \n    2\nEnding Balance (Recouped/-Unrecouped)\n           0.00 \nPage 1 of 4\nAll amounts expressed in USD\n",
+      "text_blocks": [
+        {
+          "bbox": [
+            82.19999694824219,
+            15.627296447753906,
+            211.16001892089844,
+            25.627296447753906
+          ],
+          "text": "Vendor:\nDEMON BOY LLC"
+        },
+        {
+          "bbox": [
+            82.19999694824219,
+            41.127296447753906,
+            299.4000549316406,
+            51.127296447753906
+          ],
+          "text": "Contract: QUINTON GRIGGS (QVE) - SUMMARY"
+        },
+        {
+          "bbox": [
+            346.3500061035156,
+            15.627296447753906,
+            444.3500671386719,
+            25.627296447753906
+          ],
+          "text": "Vendor #:\n579070"
+        },
+        {
+          "bbox": [
+            346.3500061035156,
+            41.127296447753906,
+            512.300048828125,
+            51.127296447753906
+          ],
+          "text": "Contract #: 102920\nRef #: 001"
+        },
+        {
+          "bbox": [
+            537.7000122070312,
+            15.627296447753906,
+            703.4202880859375,
+            25.627296447753906
+          ],
+          "text": "ROYALTY SUMMARY STATEMENT"
+        },
+        {
+          "bbox": [
+            537.7000122070312,
+            41.127296447753906,
+            700.8002319335938,
+            51.127296447753906
+          ],
+          "text": "Period: 07/01/2022 to 12/31/2022"
+        },
+        {
+          "bbox": [
+            141.75,
+            1.2772603034973145,
+            315.050048828125,
+            11.277260780334473
+          ],
+          "text": "%%CC_DOCTYPE|SUMMARY_PAGE"
+        },
+        {
+          "bbox": [
+            68.05000305175781,
+            92.12726593017578,
+            208.7000274658203,
+            138.1272735595703
+          ],
+          "text": "DEMON BOY LLC\nC/O LAPOLT LAW PC\n9000 SUNSET BLVD, STE 800\nWEST HOLLYWOOD CA  90069"
+        },
+        {
+          "bbox": [
+            536.9000244140625,
+            92.12726593017578,
+            698.8499755859375,
+            102.12726593017578
+          ],
+          "text": "For questions, contact us at:"
+        },
+        {
+          "bbox": [
+            548.25,
+            106.27725982666016,
+            675.4496459960938,
+            128.2772674560547
+          ],
+          "text": "Royalties@wmg.com\n877-343-7784"
+        },
+        {
+          "bbox": [
+            481.20001220703125,
+            177.82728576660156,
+            643.1600341796875,
+            187.82728576660156
+          ],
+          "text": "Amount                         Page No."
+        },
+        {
+          "bbox": [
+            97.80000305175781,
+            201.82728576660156,
+            537.150146484375,
+            211.82728576660156
+          ],
+          "text": "Opening Balance\n266,387.49-"
+        },
+        {
+          "bbox": [
+            97.80000305175781,
+            225.82728576660156,
+            622.2000122070312,
+            235.82728576660156
+          ],
+          "text": "Total Earnings\n0.00\n-"
+        },
+        {
+          "bbox": [
+            97.80000305175781,
+            249.82728576660156,
+            622.2000122070312,
+            259.8272705078125
+          ],
+          "text": "Total Recoupable Costs\n0.00\n-"
+        },
+        {
+          "bbox": [
+            97.80000305175781,
+            273.8272705078125,
+            622.2000122070312,
+            283.8272705078125
+          ],
+          "text": "Total 3rd Party Charges\n0.00\n-"
+        },
+        {
+          "bbox": [
+            97.80000305175781,
+            297.8272705078125,
+            537.150146484375,
+            307.8272705078125
+          ],
+          "text": "Balance before Transfers\n266,387.49-"
+        },
+        {
+          "bbox": [
+            97.80000305175781,
+            321.8272705078125,
+            622.1998901367188,
+            331.8272705078125
+          ],
+          "text": "Total Transfers (Transfers from other statements)\n266,387.49\n2"
+        },
+        {
+          "bbox": [
+            97.80000305175781,
+            345.8272705078125,
+            537.1500854492188,
+            355.8272705078125
+          ],
+          "text": "Ending Balance (Recouped/-Unrecouped)\n0.00"
+        },
+        {
+          "bbox": [
+            362.8500061035156,
+            554.7545166015625,
+            406.79705810546875,
+            563.7545166015625
+          ],
+          "text": "Page 1 of 4"
+        },
+        {
+          "bbox": [
+            113.4000015258789,
+            528.6773071289062,
+            261.90997314453125,
+            538.6773071289062
+          ],
+          "text": "All amounts expressed in USD"
+        }
+      ],
+      "tables": [],
+      "statement_info": {
+        "period_start": "07/01/2022",
+        "period_end": "12/31/2022",
+        "client_name": "DEMON BOY LLC",
+        "contract": "QUINTON GRIGGS (QVE) - SUMMARY",
+        "amounts": {
+          "total": 3.0,
+          "balance": 266387.49
+        }
+      },
+      "char_count": 793,
+      "has_tables": false
+    },
+    {
+      "page_number": 3,
+      "text": "Vendor:\nDEMON BOY LLC\nContract: QUINTON GRIGGS (QVE) - SUMMARY\n   Vendor #:\n579070\n   Contract #: 102920\nRef #: 001\n  CROSS RECOUPMENT & TRANSFERS\n  Period: 07/01/2022 to 12/31/2022\nCROSS RECOUPMENT\nContract Number and Percentage\nContract Name\nStatement No.\nAmount\nCross-Recoupment Journal to 102197 @ 100%         \nQUINTON GRIGGS (QVE) \n0000102920-001\n      266,387.49 \nTOTAL CROSS RECOUPMENT\n         266,387.49\nPage 2 of 4\n",
+      "text_blocks": [
+        {
+          "bbox": [
+            82.19999694824219,
+            15.627296447753906,
+            211.16001892089844,
+            25.627296447753906
+          ],
+          "text": "Vendor:\nDEMON BOY LLC"
+        },
+        {
+          "bbox": [
+            82.19999694824219,
+            41.127296447753906,
+            299.4000549316406,
+            51.127296447753906
+          ],
+          "text": "Contract: QUINTON GRIGGS (QVE) - SUMMARY"
+        },
+        {
+          "bbox": [
+            346.3500061035156,
+            15.627296447753906,
+            444.3500671386719,
+            25.627296447753906
+          ],
+          "text": "Vendor #:\n579070"
+        },
+        {
+          "bbox": [
+            346.3500061035156,
+            41.127296447753906,
+            512.300048828125,
+            51.127296447753906
+          ],
+          "text": "Contract #: 102920\nRef #: 001"
+        },
+        {
+          "bbox": [
+            537.7000122070312,
+            15.627296447753906,
+            715.3403930664062,
+            25.627296447753906
+          ],
+          "text": "CROSS RECOUPMENT & TRANSFERS"
+        },
+        {
+          "bbox": [
+            537.7000122070312,
+            41.127296447753906,
+            700.8002319335938,
+            51.127296447753906
+          ],
+          "text": "Period: 07/01/2022 to 12/31/2022"
+        },
+        {
+          "bbox": [
+            24.100000381469727,
+            98.32727813720703,
+            127.8499984741211,
+            108.32727813720703
+          ],
+          "text": "CROSS RECOUPMENT"
+        },
+        {
+          "bbox": [
+            24.100000381469727,
+            122.32727813720703,
+            724.2499389648438,
+            144.32728576660156
+          ],
+          "text": "Contract Number and Percentage\nContract Name\nStatement No.\nAmount\nCross-Recoupment Journal to 102197 @ 100%\nQUINTON GRIGGS (QVE)\n0000102920-001\n266,387.49"
+        },
+        {
+          "bbox": [
+            26.899999618530273,
+            158.32728576660156,
+            718.0302734375,
+            168.32728576660156
+          ],
+          "text": "TOTAL CROSS RECOUPMENT\n266,387.49"
+        },
+        {
+          "bbox": [
+            362.8500061035156,
+            554.7545166015625,
+            406.79705810546875,
+            563.7545166015625
+          ],
+          "text": "Page 2 of 4"
+        }
+      ],
+      "tables": [],
+      "statement_info": {
+        "period_start": "07/01/2022",
+        "period_end": "12/31/2022",
+        "client_name": "DEMON BOY LLC",
+        "contract": "QUINTON GRIGGS (QVE) - SUMMARY"
+      },
+      "char_count": 426,
+      "has_tables": false
+    },
+    {
+      "page_number": 4,
+      "text": "Vendor:\nDEMON BOY LLC\nContract: QUINTON GRIGGS (QVE) - SUMMARY\n   Vendor #:\n579070\n   Contract #: 102920\nRef #: 001\n  RESERVES SCHEDULE\n  Period: 07/01/2022 to 12/31/2022\nPERIOD TAKEN\n  PERIOD RELEASE\nH2 2023\nH1 2024\nH2 2024\nH1 2025\nTOTAL\n GROSS RESERVES\n               0.00\n               0.00\n               0.00\n               0.00\n               0.00\n  3rd Party Reserves   \n               0.00\n               0.00\n               0.00\n               0.00\n               0.00\n NET ARTIST RESERVES\n               0.00\n               0.00\n               0.00\n               0.00\n               0.00\nPage 3 of 4\n",
+      "text_blocks": [
+        {
+          "bbox": [
+            82.19999694824219,
+            15.627296447753906,
+            211.16001892089844,
+            25.627296447753906
+          ],
+          "text": "Vendor:\nDEMON BOY LLC"
+        },
+        {
+          "bbox": [
+            82.19999694824219,
+            41.127296447753906,
+            299.4000549316406,
+            51.127296447753906
+          ],
+          "text": "Contract: QUINTON GRIGGS (QVE) - SUMMARY"
+        },
+        {
+          "bbox": [
+            346.3500061035156,
+            15.627296447753906,
+            444.3500671386719,
+            25.627296447753906
+          ],
+          "text": "Vendor #:\n579070"
+        },
+        {
+          "bbox": [
+            346.3500061035156,
+            41.127296447753906,
+            512.300048828125,
+            51.127296447753906
+          ],
+          "text": "Contract #: 102920\nRef #: 001"
+        },
+        {
+          "bbox": [
+            537.7000122070312,
+            15.627296447753906,
+            644.240234375,
+            25.627296447753906
+          ],
+          "text": "RESERVES SCHEDULE"
+        },
+        {
+          "bbox": [
+            537.7000122070312,
+            41.127296447753906,
+            700.8002319335938,
+            51.127296447753906
+          ],
+          "text": "Period: 07/01/2022 to 12/31/2022"
+        },
+        {
+          "bbox": [
+            478.6000061035156,
+            101.32727813720703,
+            551.320068359375,
+            111.32727813720703
+          ],
+          "text": "PERIOD TAKEN"
+        },
+        {
+          "bbox": [
+            12.75,
+            125.32727813720703,
+            723.81005859375,
+            135.32728576660156
+          ],
+          "text": "PERIOD RELEASE\nH2 2023\nH1 2024\nH2 2024\nH1 2025\nTOTAL"
+        },
+        {
+          "bbox": [
+            12.75,
+            161.32728576660156,
+            723.71044921875,
+            171.32728576660156
+          ],
+          "text": "GROSS RESERVES\n0.00\n0.00\n0.00\n0.00\n0.00"
+        },
+        {
+          "bbox": [
+            12.75,
+            185.32728576660156,
+            723.71044921875,
+            195.32728576660156
+          ],
+          "text": "3rd Party Reserves\n0.00\n0.00\n0.00\n0.00\n0.00"
+        },
+        {
+          "bbox": [
+            12.75,
+            209.32728576660156,
+            723.71044921875,
+            219.32728576660156
+          ],
+          "text": "NET ARTIST RESERVES\n0.00\n0.00\n0.00\n0.00\n0.00"
+        },
+        {
+          "bbox": [
+            362.8500061035156,
+            554.7545166015625,
+            406.79705810546875,
+            563.7545166015625
+          ],
+          "text": "Page 3 of 4"
+        }
+      ],
+      "tables": [],
+      "statement_info": {
+        "period_start": "07/01/2022",
+        "period_end": "12/31/2022",
+        "client_name": "DEMON BOY LLC",
+        "contract": "QUINTON GRIGGS (QVE) - SUMMARY"
+      },
+      "char_count": 612,
+      "has_tables": false
+    },
+    {
+      "page_number": 5,
+      "text": "Vendor:\nDEMON BOY LLC\nContract: QUINTON GRIGGS (QVE) - SUMMARY\n   Vendor #:\n579070\n   Contract #: 102920\nRef #: 001\n  DIGITAL EARNINGS SUMMARY\n  Period: 07/01/2022 to 12/31/2022\nALL DIGITAL\nUS\nINT'L\nWORLDWIDE\nEARNINGS\n            0.00 \n            0.00 \n            0.00 \nEquity Proceeds\n            0.00 \n            0.00 \n            0.00 \nDownloads\n            0.00 \n            0.00 \n            0.00 \nStreams - Subscription\n            0.00 \n            0.00 \n            0.00 \nStreams - Ad Supported\n            0.00 \n            0.00 \n            0.00 \nStreams - Ephemeral\n            0.00 \n            0.00 \n            0.00 \nRingtones / Ringbacks\n            0.00 \n            0.00 \n            0.00 \nBREAKAGE\n            0.00 \n            0.00 \n            0.00 \nDownloads\n            0.00 \n            0.00 \n            0.00 \nStreams - Subscription\n            0.00 \n            0.00 \n            0.00 \nStreams - Ad Supported\n            0.00 \n            0.00 \n            0.00 \nRingtones / Ringbacks\n            0.00 \n            0.00 \n            0.00 \nTOTAL\n            0.00 \n            0.00 \n            0.00 \nPage 4 of 4\n",
+      "text_blocks": [
+        {
+          "bbox": [
+            82.19999694824219,
+            15.627296447753906,
+            211.16001892089844,
+            25.627296447753906
+          ],
+          "text": "Vendor:\nDEMON BOY LLC"
+        },
+        {
+          "bbox": [
+            82.19999694824219,
+            41.127296447753906,
+            299.4000549316406,
+            51.127296447753906
+          ],
+          "text": "Contract: QUINTON GRIGGS (QVE) - SUMMARY"
+        },
+        {
+          "bbox": [
+            346.3500061035156,
+            15.627296447753906,
+            444.3500671386719,
+            25.627296447753906
+          ],
+          "text": "Vendor #:\n579070"
+        },
+        {
+          "bbox": [
+            346.3500061035156,
+            41.127296447753906,
+            512.300048828125,
+            51.127296447753906
+          ],
+          "text": "Contract #: 102920\nRef #: 001"
+        },
+        {
+          "bbox": [
+            537.7000122070312,
+            15.627296447753906,
+            690.6101684570312,
+            25.627296447753906
+          ],
+          "text": "DIGITAL EARNINGS SUMMARY"
+        },
+        {
+          "bbox": [
+            537.7000122070312,
+            41.127296447753906,
+            700.8002319335938,
+            51.127296447753906
+          ],
+          "text": "Period: 07/01/2022 to 12/31/2022"
+        },
+        {
+          "bbox": [
+            34.0,
+            92.50909423828125,
+            753.4150390625,
+            110.50909423828125
+          ],
+          "text": "ALL DIGITAL\nUS\nINT'L\nWORLDWIDE"
+        },
+        {
+          "bbox": [
+            36.849998474121094,
+            126.76819610595703,
+            751.3599853515625,
+            140.7681884765625
+          ],
+          "text": "EARNINGS\n0.00\n0.00\n0.00"
+        },
+        {
+          "bbox": [
+            39.650001525878906,
+            160.1772918701172,
+            751.1497192382812,
+            240.9272918701172
+          ],
+          "text": "Equity Proceeds\n0.00\n0.00\n0.00\nDownloads\n0.00\n0.00\n0.00\nStreams - Subscription\n0.00\n0.00\n0.00\nStreams - Ad Supported\n0.00\n0.00\n0.00\nStreams - Ephemeral\n0.00\n0.00\n0.00\nRingtones / Ringbacks\n0.00\n0.00\n0.00"
+        },
+        {
+          "bbox": [
+            36.849998474121094,
+            268.3681640625,
+            751.3599853515625,
+            282.3681640625
+          ],
+          "text": "BREAKAGE\n0.00\n0.00\n0.00"
+        },
+        {
+          "bbox": [
+            39.650001525878906,
+            301.7772521972656,
+            751.1497192382812,
+            354.2272644042969
+          ],
+          "text": "Downloads\n0.00\n0.00\n0.00\nStreams - Subscription\n0.00\n0.00\n0.00\nStreams - Ad Supported\n0.00\n0.00\n0.00\nRingtones / Ringbacks\n0.00\n0.00\n0.00"
+        },
+        {
+          "bbox": [
+            36.849998474121094,
+            381.6681823730469,
+            751.3599853515625,
+            395.6681823730469
+          ],
+          "text": "TOTAL\n0.00\n0.00\n0.00"
+        },
+        {
+          "bbox": [
+            362.8500061035156,
+            554.7545166015625,
+            406.79705810546875,
+            563.7545166015625
+          ],
+          "text": "Page 4 of 4"
+        }
+      ],
+      "tables": [],
+      "statement_info": {
+        "period_start": "07/01/2022",
+        "period_end": "12/31/2022",
+        "client_name": "DEMON BOY LLC",
+        "contract": "QUINTON GRIGGS (QVE) - SUMMARY",
+        "amounts": {
+          "total": 0.0
+        }
+      },
+      "char_count": 1139,
+      "has_tables": false
+    }
+  ],
+  "summary": {
+    "total_pages": 5,
+    "total_tables": 2,
+    "total_characters": 3304,
+    "pages_with_tables": 1,
+    "statement_info": {
+      "contract": "From period",
+      "period_start": "07/01/2022",
+      "period_end": "12/31/2022",
+      "client_name": "DEMON BOY LLC",
+      "amounts": {
+        "total": 3.0,
+        "balance": 266387.49
+      }
+    }
+  },
+  "full_text": "%%CC_DOCTYPE|COVER_PAGE\nDEMON BOY LLC\nC/O LAPOLT LAW PC\n9000 SUNSET BLVD, STE 800\nWEST HOLLYWOOD CA  90069\nDEMON BOY LLC - 579070\nFriday, 24 March 2023 - 15:53\nPrint run ID: 48995\nStatement\nContract\nFrom period\nTo period\nPayment\nmethod\nCheck/wire ref.\nAmount\nCollated\n    102920-001\n102920\n07/01/2022\n12/31/2022\nCollated by\nDate\nTime\n\n\n--- PAGE BREAK ---\n\nVendor:\nDEMON BOY LLC\nContract: QUINTON GRIGGS (QVE) - SUMMARY\n   Vendor #:\n579070\n   Contract #: 102920\nRef #: 001\n  ROYALTY SUMMARY STATEMENT\n  Period: 07/01/2022 to 12/31/2022\n%%CC_DOCTYPE|SUMMARY_PAGE\nDEMON BOY LLC\nC/O LAPOLT LAW PC\n9000 SUNSET BLVD, STE 800\nWEST HOLLYWOOD CA  90069\n            For questions, contact us at:\n            Royalties@wmg.com\n            877-343-7784\n     Amount                         Page No.\nOpening Balance\n     266,387.49-\nTotal Earnings\n           0.00 \n-\nTotal Recoupable Costs\n           0.00 \n-\nTotal 3rd Party Charges\n           0.00 \n-\nBalance before Transfers\n     266,387.49-\nTotal Transfers (Transfers from other statements)\n     266,387.49 \n    2\nEnding Balance (Recouped/-Unrecouped)\n           0.00 \nPage 1 of 4\nAll amounts expressed in USD\n\n\n--- PAGE BREAK ---\n\nVendor:\nDEMON BOY LLC\nContract: QUINTON GRIGGS (QVE) - SUMMARY\n   Vendor #:\n579070\n   Contract #: 102920\nRef #: 001\n  CROSS RECOUPMENT & TRANSFERS\n  Period: 07/01/2022 to 12/31/2022\nCROSS RECOUPMENT\nContract Number and Percentage\nContract Name\nStatement No.\nAmount\nCross-Recoupment Journal to 102197 @ 100%         \nQUINTON GRIGGS (QVE) \n0000102920-001\n      266,387.49 \nTOTAL CROSS RECOUPMENT\n         266,387.49\nPage 2 of 4\n\n\n--- PAGE BREAK ---\n\nVendor:\nDEMON BOY LLC\nContract: QUINTON GRIGGS (QVE) - SUMMARY\n   Vendor #:\n579070\n   Contract #: 102920\nRef #: 001\n  RESERVES SCHEDULE\n  Period: 07/01/2022 to 12/31/2022\nPERIOD TAKEN\n  PERIOD RELEASE\nH2 2023\nH1 2024\nH2 2024\nH1 2025\nTOTAL\n GROSS RESERVES\n               0.00\n               0.00\n               0.00\n               0.00\n               0.00\n  3rd Party Reserves   \n               0.00\n               0.00\n               0.00\n               0.00\n               0.00\n NET ARTIST RESERVES\n               0.00\n               0.00\n               0.00\n               0.00\n               0.00\nPage 3 of 4\n\n\n--- PAGE BREAK ---\n\nVendor:\nDEMON BOY LLC\nContract: QUINTON GRIGGS (QVE) - SUMMARY\n   Vendor #:\n579070\n   Contract #: 102920\nRef #: 001\n  DIGITAL EARNINGS SUMMARY\n  Period: 07/01/2022 to 12/31/2022\nALL DIGITAL\nUS\nINT'L\nWORLDWIDE\nEARNINGS\n            0.00 \n            0.00 \n            0.00 \nEquity Proceeds\n            0.00 \n            0.00 \n            0.00 \nDownloads\n            0.00 \n            0.00 \n            0.00 \nStreams - Subscription\n            0.00 \n            0.00 \n            0.00 \nStreams - Ad Supported\n            0.00 \n            0.00 \n            0.00 \nStreams - Ephemeral\n            0.00 \n            0.00 \n            0.00 \nRingtones / Ringbacks\n            0.00 \n            0.00 \n            0.00 \nBREAKAGE\n            0.00 \n            0.00 \n            0.00 \nDownloads\n            0.00 \n            0.00 \n            0.00 \nStreams - Subscription\n            0.00 \n            0.00 \n            0.00 \nStreams - Ad Supported\n            0.00 \n            0.00 \n            0.00 \nRingtones / Ringbacks\n            0.00 \n            0.00 \n            0.00 \nTOTAL\n            0.00 \n            0.00 \n            0.00 \nPage 4 of 4\n"
+}

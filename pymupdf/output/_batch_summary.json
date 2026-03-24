@@ -1,0 +1,226 @@
+{
+  "processed_at": "2026-03-24T07:05:38.577480+00:00",
+  "total_files": 21,
+  "successful": 21,
+  "failed": 0,
+  "total_pages": 2722,
+  "elapsed_seconds": 351.53,
+  "pages_per_second": 7.74,
+  "config": {
+    "doc_workers": 4,
+    "page_workers": 4,
+    "timeout_per_pdf": 600
+  },
+  "results": [
+    {
+      "status": "success",
+      "file": "011443398 - AWAL.pdf",
+      "output": "music_rights\\output\\011443398 - AWAL.json",
+      "pages": 24,
+      "key_values": 150,
+      "tables": 8,
+      "amounts": 683,
+      "dates": 457
+    },
+    {
+      "status": "success",
+      "file": "2017-06 - Charli XCX - PRS.PDF",
+      "output": "music_rights\\output\\2017-06 - Charli XCX - PRS.json",
+      "pages": 102,
+      "key_values": 1358,
+      "tables": 201,
+      "amounts": 284,
+      "dates": 2297
+    },
+    {
+      "status": "success",
+      "file": "2022-12 - Charli XCX - Kollective.pdf",
+      "output": "music_rights\\output\\2022-12 - Charli XCX - Kollective.json",
+      "pages": 1,
+      "key_values": 10,
+      "tables": 0,
+      "amounts": 10,
+      "dates": 1
+    },
+    {
+      "status": "success",
+      "file": "2022-H2 - Ape Drums - Fools Gold (5-17-23).pdf",
+      "output": "music_rights\\output\\2022-H2 - Ape Drums - Fools Gold (5-17-23).json",
+      "pages": 5,
+      "key_values": 72,
+      "tables": 1,
+      "amounts": 46,
+      "dates": 53
+    },
+    {
+      "status": "success",
+      "file": "2023-Q2 - Ape Drums - Hipgnosis.pdf",
+      "output": "music_rights\\output\\2023-Q2 - Ape Drums - Hipgnosis.json",
+      "pages": 12,
+      "key_values": 165,
+      "tables": 12,
+      "amounts": 290,
+      "dates": 28
+    },
+    {
+      "status": "success",
+      "file": "2024 - H1 Eddie Benjamin - Producer - Willow - 1CP - Alone, Down, No Words, I know that - 2_.pdf",
+      "output": "music_rights\\output\\2024 - H1 Eddie Benjamin - Producer - Willow - 1CP - Alone, Down, No Words, I know that - 2_.json",
+      "pages": 4,
+      "key_values": 48,
+      "tables": 0,
+      "amounts": 45,
+      "dates": 1
+    },
+    {
+      "status": "success",
+      "file": "2024-H2 - Ape Drums - Dim Mak (Wicked).pdf",
+      "output": "music_rights\\output\\2024-H2 - Ape Drums - Dim Mak (Wicked).json",
+      "pages": 1,
+      "key_values": 5,
+      "tables": 0,
+      "amounts": 3,
+      "dates": 0
+    },
+    {
+      "status": "success",
+      "file": "2024-H2 - Charli XCX - FAE (Hurts Like Hell)(3-31-25).pdf",
+      "output": "music_rights\\output\\2024-H2 - Charli XCX - FAE (Hurts Like Hell)(3-31-25).json",
+      "pages": 1,
+      "key_values": 16,
+      "tables": 0,
+      "amounts": 16,
+      "dates": 1
+    },
+    {
+      "status": "success",
+      "file": "2025-07 - Troye Sivan - APRA Aus (7-15-25).pdf",
+      "output": "music_rights\\output\\2025-07 - Troye Sivan - APRA Aus (7-15-25).json",
+      "pages": 156,
+      "key_values": 1879,
+      "tables": 2,
+      "amounts": 2570,
+      "dates": 468
+    },
+    {
+      "status": "success",
+      "file": "2025-09 - Charli XCX - MCPS (9-15-25).pdf",
+      "output": "music_rights\\output\\2025-09 - Charli XCX - MCPS (9-15-25).json",
+      "pages": 51,
+      "key_values": 505,
+      "tables": 0,
+      "amounts": 194,
+      "dates": 222
+    },
+    {
+      "status": "success",
+      "file": "2025-H1 - Charli XCX - WMG UK main summary (10-2-25).pdf",
+      "output": "music_rights\\output\\2025-H1 - Charli XCX - WMG UK main summary (10-2-25).json",
+      "pages": 6,
+      "key_values": 38,
+      "tables": 7,
+      "amounts": 172,
+      "dates": 12
+    },
+    {
+      "status": "success",
+      "file": "2025-H1 - Charli XCX - WMG US video (10-2-25).pdf",
+      "output": "music_rights\\output\\2025-H1 - Charli XCX - WMG US video (10-2-25).json",
+      "pages": 425,
+      "key_values": 17078,
+      "tables": 343,
+      "amounts": 8343,
+      "dates": 857
+    },
+    {
+      "status": "success",
+      "file": "BKI__200630 0003_EPA_SUMM_S00440113_011-012_0001229533_20200630.pdf",
+      "output": "music_rights\\output\\BKI__200630 0003_EPA_SUMM_S00440113_011-012_0001229533_20200630.json",
+      "pages": 13,
+      "key_values": 172,
+      "tables": 1,
+      "amounts": 99,
+      "dates": 25
+    },
+    {
+      "status": "success",
+      "file": "DBL__221231 Statement_102920_001_102920_579070_20221231.pdf",
+      "output": "music_rights\\output\\DBL__221231 Statement_102920_001_102920_579070_20221231.json",
+      "pages": 5,
+      "key_values": 39,
+      "tables": 1,
+      "amounts": 3,
+      "dates": 16
+    },
+    {
+      "status": "success",
+      "file": "DRU00600_DRU00600_2024Q2_Stmt.pdf",
+      "output": "music_rights\\output\\DRU00600_DRU00600_2024Q2_Stmt.json",
+      "pages": 77,
+      "key_values": 1125,
+      "tables": 0,
+      "amounts": 6273,
+      "dates": 74
+    },
+    {
+      "status": "success",
+      "file": "KPMusic__200630 BMG Statement (123318).pdf",
+      "output": "music_rights\\output\\KPMusic__200630 BMG Statement (123318).json",
+      "pages": 155,
+      "key_values": 1524,
+      "tables": 0,
+      "amounts": 8623,
+      "dates": 317
+    },
+    {
+      "status": "success",
+      "file": "SPL__240930 andrew_luce-andrew_luce_james_jr-09_2024-520562.pdf",
+      "output": "music_rights\\output\\SPL__240930 andrew_luce-andrew_luce_james_jr-09_2024-520562.json",
+      "pages": 5,
+      "key_values": 45,
+      "tables": 1,
+      "amounts": 26,
+      "dates": 0
+    },
+    {
+      "status": "success",
+      "file": "Statement _ AFM SAG AFTRA 4.28.23 SRF.pdf",
+      "output": "music_rights\\output\\Statement _ AFM SAG AFTRA 4.28.23 SRF.json",
+      "pages": 1,
+      "key_values": 0,
+      "tables": 0,
+      "amounts": 0,
+      "dates": 0
+    },
+    {
+      "status": "success",
+      "file": "Too_Raww__LLC_548439_December_2024_collection_summary.pdf",
+      "output": "music_rights\\output\\Too_Raww__LLC_548439_December_2024_collection_summary.json",
+      "pages": 1,
+      "key_values": 12,
+      "tables": 1,
+      "amounts": 28,
+      "dates": 1
+    },
+    {
+      "status": "success",
+      "file": "UML 2022.03.31 BMI - 550940255.pdf",
+      "output": "music_rights\\output\\UML 2022.03.31 BMI - 550940255.json",
+      "pages": 14,
+      "key_values": 350,
+      "tables": 19,
+      "amounts": 412,
+      "dates": 1
+    },
+    {
+      "status": "success",
+      "file": "UML__241231 2024DEC_1576878_1403085.pdf",
+      "output": "music_rights\\output\\UML__241231 2024DEC_1576878_1403085.json",
+      "pages": 1663,
+      "key_values": 20595,
+      "tables": 4,
+      "amounts": 53324,
+      "dates": 1652
+    }
+  ]
+}

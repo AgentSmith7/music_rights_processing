@@ -1,0 +1,45 @@
+{
+  "pdf_name": "Statement _ AFM SAG AFTRA 4.28.23 SRF",
+  "pdf_path": "music_rights_sample_pdfs\\extracted\\pdfs-for-model-training\\Statement _ AFM SAG AFTRA 4.28.23 SRF.pdf",
+  "total_pages": 1,
+  "extracted_at": "2026-03-24T01:55:07.954858",
+  "extraction_method": "PyMuPDF (direct text extraction)",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "\u0000\u0000\u0001\u0002\u0003\u0001\u0002\u0004\u0005\u0007\u0000\u0007\b\u0004\u0002\u0007\t\n\u000b\f\r\f\u000e\u000f\u000e\u0010\f\u0007\u0011\u0007\t\u0012\n\u0007\u000b\t\u0013\u0007\t\u0012\u0014\u0015\t\n\u0016\f\f\u0017\u0018\b\u0001\u0001\u0019\u0019\u0019\u001a\r\u001b\u000f\u0018\r\u001c\r\u001b\f\u001d\r\u001b\u001e\u0010\u001f\u001a \u001d\u001c\u0001\t!! \u001e\u0010\f\u0001\u000b\f\r\f\u000e\u000f\u000e\u0010\f\"\u0010 #\n$\t\u0019\n%\t%&$'(\u0004$)*\u0018#\u0002\u0007\u0002\u0004+\u0007,+\u0002\u0003)\r\u0010#\n\u0014\n\u0002-%./\n\u0019(\u0004$(\u0004$)\u001b\f#\u000b\u0015\n\u0000\u0001\u0000",
+      "text_blocks": [
+        {
+          "bbox": [
+            25.511699676513672,
+            -58.19987487792969,
+            411.8686218261719,
+            101.70011901855469
+          ],
+          "text": "��\u0001\u0002\u0003\u0001\u0002\u0004\u0005��\u0007\b\u0004\u0002�\n\u000e\u000f\u000e\u0010\f�\u0011�\t\u0012\n�\u000b\t\u0013�\t\u0012\u0014\u0015"
+        },
+        {
+          "bbox": [
+            25.511871337890625,
+            696.2999877929688,
+            590.0281982421875,
+            856.2002563476562
+          ],
+          "text": "\u0016\f\f\u0017\u0018\b\u0001\u0001\u0019\u0019\u0019\u001a\r\u001b\u000f\u0018\r\u001c\r\u001b\f\u001d\r\u001b\u001e\u0010\u001f\u001a \u001d\u001c\u0001\t!! \u001e\u0010\f\u0001\u000b\f\r\f\u000e\u000f\u000e\u0010\f\"\u0010 #\n$\t\u0019\n%\t%&$'(\u0004$)*\u0018#\u0002\u0007\u0002\u0004+\u0007,+\u0002\u0003)\r\u0010#\n\u0014\n\u0002-%./\n\u0019(\u0004$(\u0004$)\u001b\f#\u000b\u0015\n�\u0001�"
+        }
+      ],
+      "tables": [],
+      "statement_info": {},
+      "char_count": 155,
+      "has_tables": false
+    }
+  ],
+  "summary": {
+    "total_pages": 1,
+    "total_tables": 0,
+    "total_characters": 155,
+    "pages_with_tables": 0,
+    "statement_info": {}
+  },
+  "full_text": "\u0000\u0000\u0001\u0002\u0003\u0001\u0002\u0004\u0005\u0007\u0000\u0007\b\u0004\u0002\u0007\t\n\u000b\f\r\f\u000e\u000f\u000e\u0010\f\u0007\u0011\u0007\t\u0012\n\u0007\u000b\t\u0013\u0007\t\u0012\u0014\u0015\t\n\u0016\f\f\u0017\u0018\b\u0001\u0001\u0019\u0019\u0019\u001a\r\u001b\u000f\u0018\r\u001c\r\u001b\f\u001d\r\u001b\u001e\u0010\u001f\u001a \u001d\u001c\u0001\t!! \u001e\u0010\f\u0001\u000b\f\r\f\u000e\u000f\u000e\u0010\f\"\u0010 #\n$\t\u0019\n%\t%&$'(\u0004$)*\u0018#\u0002\u0007\u0002\u0004+\u0007,+\u0002\u0003)\r\u0010#\n\u0014\n\u0002-%./\n\u0019(\u0004$(\u0004$)\u001b\f#\u000b\u0015\n\u0000\u0001\u0000"
+}

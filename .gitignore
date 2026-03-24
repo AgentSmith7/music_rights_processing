@@ -17,24 +17,16 @@ build/
 *.swp
 *.swo
 
-# Data files (large)
-*.pdf
-*.PDF
+# Image files (converted from PDFs)
 *.jpg
 *.jpeg
 *.png
 *.gif
 
-# Output data (regeneratable)
-pymupdf/output/*.json
-pymupdf/data/extracted_pymupdf/
+# DotsOCR data (large, GPU-generated)
 dotsocr/data/converted_images/
 dotsocr/data/output*/
 dotsocr/data/visualizations/
-
-# Keep structure
-!pymupdf/output/.gitkeep
-!dotsocr/data/.gitkeep
 
 # Environment
 .env

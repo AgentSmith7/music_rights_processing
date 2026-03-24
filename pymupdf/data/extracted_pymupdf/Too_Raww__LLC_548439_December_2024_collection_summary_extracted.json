@@ -1,0 +1,333 @@
+{
+  "pdf_name": "Too_Raww__LLC_548439_December_2024_collection_summary",
+  "pdf_path": "music_rights_sample_pdfs\\extracted\\pdfs-for-model-training\\Too_Raww__LLC_548439_December_2024_collection_summary.pdf",
+  "total_pages": 1,
+  "extracted_at": "2026-03-24T01:55:08.033365",
+  "extraction_method": "PyMuPDF (direct text extraction)",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Kollective Neighbouring Rights Limited\n2 Canal Reach\nLondon, N1C 4DB\nCollection Summary — December 2024\nAccount:\n Too Raww, LLC · 781746\nContract:\n Michael Stevenson (Tyga) - Neighbouring Rights · 548439\nCurrency:\n USD\nCOLLECTION SOCIETY\nCOUNTRY\nPRE-WHT\nWHT\nGROSS REVENUE\nCLIENT\nSHARE %\nNET REVENUE\nGRAMEX FI\nFinland\n13.72\n0.00\n13.72\n85.0\n11.67\nGRAMO\nNorway\n510.13\n0.00\n510.13\n85.0\n433.61\nIPF (Slovenia)\nSlovenia\n378.38\n-18.92\n359.46\n85.0\n305.54\nPPL\nUnited Kingdom\n180.66\n0.00\n180.66\n85.0\n153.56\nSENA\nNetherlands\n638.04\n0.00\n638.04\n85.0\n542.33\nSPEDIDAM\nFrance\n106.59\n-14.39\n92.20\n85.0\n78.37\nSTOART\nPoland\n1,293.54\n-258.71\n1,034.83\n85.0\n879.61\nSWISSPERFORM\nSwitzerland\n23.81\n0.00\n23.81\n85.0\n20.24\nSoundExchange\nUSA\n11,382.20\n0.00\n11,382.20\n85.0\n9,674.87\nTotal\n14,527.07\n-292.01\n14,235.05\n12,099.80\n Values are displayed to two decimal places, so small amounts may round to 0.00. Download your Revenue Detail CSV from the Statements page to see more decimal places.\n1 of 1\n",
+      "text_blocks": [
+        {
+          "bbox": [
+            60.60203552246094,
+            53.27332305908203,
+            194.02073669433594,
+            61.807952880859375
+          ],
+          "text": "Kollective Neighbouring Rights Limited"
+        },
+        {
+          "bbox": [
+            60.60203552246094,
+            67.07756805419922,
+            109.50990295410156,
+            75.61219787597656
+          ],
+          "text": "2 Canal Reach"
+        },
+        {
+          "bbox": [
+            60.60203552246094,
+            78.48108673095703,
+            118.92320251464844,
+            87.01571655273438
+          ],
+          "text": "London, N1C 4DB"
+        },
+        {
+          "bbox": [
+            73.80610656738281,
+            117.20500946044922,
+            297.03887939453125,
+            131.4293975830078
+          ],
+          "text": "Collection Summary — December 2024"
+        },
+        {
+          "bbox": [
+            73.80610656738281,
+            146.9021759033203,
+            200.72360229492188,
+            155.43679809570312
+          ],
+          "text": "Account:\nToo Raww, LLC · 781746"
+        },
+        {
+          "bbox": [
+            73.80610656738281,
+            163.10716247558594,
+            315.8870849609375,
+            171.64178466796875
+          ],
+          "text": "Contract:\nMichael Stevenson (Tyga) - Neighbouring Rights · 548439"
+        },
+        {
+          "bbox": [
+            73.80610656738281,
+            179.31216430664062,
+            131.64952087402344,
+            187.84678649902344
+          ],
+          "text": "Currency:\nUSD"
+        },
+        {
+          "bbox": [
+            64.20314025878906,
+            220.6468963623047,
+            528.8482666015625,
+            235.5614776611328
+          ],
+          "text": "COLLECTION SOCIETY\nCOUNTRY\nPRE-WHT\nWHT\nGROSS REVENUE\nCLIENT\nSHARE %\nNET REVENUE"
+        },
+        {
+          "bbox": [
+            64.20314025878906,
+            246.53286743164062,
+            529.0271606445312,
+            255.06748962402344
+          ],
+          "text": "GRAMEX FI\nFinland\n13.72\n0.00\n13.72\n85.0\n11.67"
+        },
+        {
+          "bbox": [
+            64.20314025878906,
+            265.73876953125,
+            529.0512084960938,
+            274.2734069824219
+          ],
+          "text": "GRAMO\nNorway\n510.13\n0.00\n510.13\n85.0\n433.61"
+        },
+        {
+          "bbox": [
+            64.20314025878906,
+            284.9447021484375,
+            529.204833984375,
+            293.4793395996094
+          ],
+          "text": "IPF (Slovenia)\nSlovenia\n378.38\n-18.92\n359.46\n85.0\n305.54"
+        },
+        {
+          "bbox": [
+            64.20314025878906,
+            304.150634765625,
+            529.0247802734375,
+            312.6852722167969
+          ],
+          "text": "PPL\nUnited Kingdom\n180.66\n0.00\n180.66\n85.0\n153.56"
+        },
+        {
+          "bbox": [
+            64.20314025878906,
+            323.3565368652344,
+            529.04638671875,
+            331.89117431640625
+          ],
+          "text": "SENA\nNetherlands\n638.04\n0.00\n638.04\n85.0\n542.33"
+        },
+        {
+          "bbox": [
+            64.20314025878906,
+            342.5624694824219,
+            529.0271606445312,
+            351.09710693359375
+          ],
+          "text": "SPEDIDAM\nFrance\n106.59\n-14.39\n92.20\n85.0\n78.37"
+        },
+        {
+          "bbox": [
+            64.20314025878906,
+            361.76837158203125,
+            529.0512084960938,
+            370.3030090332031
+          ],
+          "text": "STOART\nPoland\n1,293.54\n-258.71\n1,034.83\n85.0\n879.61"
+        },
+        {
+          "bbox": [
+            64.20314025878906,
+            380.97430419921875,
+            529.204833984375,
+            389.5089416503906
+          ],
+          "text": "SWISSPERFORM\nSwitzerland\n23.81\n0.00\n23.81\n85.0\n20.24"
+        },
+        {
+          "bbox": [
+            64.20314025878906,
+            400.1802062988281,
+            529.0271606445312,
+            408.71484375
+          ],
+          "text": "SoundExchange\nUSA\n11,382.20\n0.00\n11,382.20\n85.0\n9,674.87"
+        },
+        {
+          "bbox": [
+            64.20314025878906,
+            419.3861389160156,
+            529.406494140625,
+            427.9207763671875
+          ],
+          "text": "Total\n14,527.07\n-292.01\n14,235.05\n12,099.80"
+        },
+        {
+          "bbox": [
+            67.20407104492188,
+            439.67535400390625,
+            509.7768249511719,
+            446.676513671875
+          ],
+          "text": "Values are displayed to two decimal places, so small amounts may round to 0.00. Download your Revenue Detail CSV from the Statements page to see more decimal places."
+        },
+        {
+          "bbox": [
+            287.77203369140625,
+            806.7181396484375,
+            305.4822692871094,
+            815.2527465820312
+          ],
+          "text": "1 of 1"
+        }
+      ],
+      "tables": [
+        {
+          "table_index": 0,
+          "bbox": [
+            59.39452803134918,
+            215.11768531799316,
+            534.469462803432,
+            432.90228576660155
+          ],
+          "headers": [
+            "COLLECTION SOCIETY",
+            "COUNTRY",
+            "PRE-WHT",
+            "WHT",
+            "GROSS REVENUE",
+            "CLIENT\nSHARE %",
+            "NET REVENUE"
+          ],
+          "rows": [
+            [
+              "GRAMEX FI",
+              "Finland",
+              "13.72",
+              "0.00",
+              "13.72",
+              "85.0",
+              "11.67"
+            ],
+            [
+              "GRAMO",
+              "Norway",
+              "510.13",
+              "0.00",
+              "510.13",
+              "85.0",
+              "433.61"
+            ],
+            [
+              "IPF (Slovenia)",
+              "Slovenia",
+              "378.38",
+              "-18.92",
+              "359.46",
+              "85.0",
+              "305.54"
+            ],
+            [
+              "PPL",
+              "United Kingdom",
+              "180.66",
+              "0.00",
+              "180.66",
+              "85.0",
+              "153.56"
+            ],
+            [
+              "SENA",
+              "Netherlands",
+              "638.04",
+              "0.00",
+              "638.04",
+              "85.0",
+              "542.33"
+            ],
+            [
+              "SPEDIDAM",
+              "France",
+              "106.59",
+              "-14.39",
+              "92.20",
+              "85.0",
+              "78.37"
+            ],
+            [
+              "STOART",
+              "Poland",
+              "1,293.54",
+              "-258.71",
+              "1,034.83",
+              "85.0",
+              "879.61"
+            ],
+            [
+              "SWISSPERFORM",
+              "Switzerland",
+              "23.81",
+              "0.00",
+              "23.81",
+              "85.0",
+              "20.24"
+            ],
+            [
+              "SoundExchange",
+              "USA",
+              "11,382.20",
+              "0.00",
+              "11,382.20",
+              "85.0",
+              "9,674.87"
+            ],
+            [
+              "Total",
+              "",
+              "14,527.07",
+              "-292.01",
+              "14,235.05",
+              "",
+              "12,099.80"
+            ]
+          ],
+          "row_count": 10
+        }
+      ],
+      "statement_info": {
+        "client_name": "SHARE %",
+        "currency": "USD",
+        "contract": "Michael Stevenson (Tyga) - Neighbouring Rights · 548439",
+        "amounts": {
+          "total": 14527.07
+        }
+      },
+      "char_count": 971,
+      "has_tables": true
+    }
+  ],
+  "summary": {
+    "total_pages": 1,
+    "total_tables": 1,
+    "total_characters": 971,
+    "pages_with_tables": 1,
+    "statement_info": {
+      "client_name": "SHARE %",
+      "currency": "USD",
+      "contract": "Michael Stevenson (Tyga) - Neighbouring Rights · 548439",
+      "amounts": {
+        "total": 14527.07
+      }
+    }
+  },
+  "full_text": "Kollective Neighbouring Rights Limited\n2 Canal Reach\nLondon, N1C 4DB\nCollection Summary — December 2024\nAccount:\n Too Raww, LLC · 781746\nContract:\n Michael Stevenson (Tyga) - Neighbouring Rights · 548439\nCurrency:\n USD\nCOLLECTION SOCIETY\nCOUNTRY\nPRE-WHT\nWHT\nGROSS REVENUE\nCLIENT\nSHARE %\nNET REVENUE\nGRAMEX FI\nFinland\n13.72\n0.00\n13.72\n85.0\n11.67\nGRAMO\nNorway\n510.13\n0.00\n510.13\n85.0\n433.61\nIPF (Slovenia)\nSlovenia\n378.38\n-18.92\n359.46\n85.0\n305.54\nPPL\nUnited Kingdom\n180.66\n0.00\n180.66\n85.0\n153.56\nSENA\nNetherlands\n638.04\n0.00\n638.04\n85.0\n542.33\nSPEDIDAM\nFrance\n106.59\n-14.39\n92.20\n85.0\n78.37\nSTOART\nPoland\n1,293.54\n-258.71\n1,034.83\n85.0\n879.61\nSWISSPERFORM\nSwitzerland\n23.81\n0.00\n23.81\n85.0\n20.24\nSoundExchange\nUSA\n11,382.20\n0.00\n11,382.20\n85.0\n9,674.87\nTotal\n14,527.07\n-292.01\n14,235.05\n12,099.80\n Values are displayed to two decimal places, so small amounts may round to 0.00. Download your Revenue Detail CSV from the Statements page to see more decimal places.\n1 of 1\n"
+}

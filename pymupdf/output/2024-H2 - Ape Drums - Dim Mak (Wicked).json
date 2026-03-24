@@ -1,0 +1,72 @@
+{
+  "document_id": "42b4c241-382d-4cba-85f4-9389e579e217",
+  "filename": "2024-H2 - Ape Drums - Dim Mak (Wicked).pdf",
+  "extracted_at": "2026-03-24T06:59:47.321831Z",
+  "page_count": 1,
+  "full_text": "Ape Drums's Royalty Statement\n2024H2: APDR - Ape Drums\nDate\nAug 05, 2025\nRecipient\nApe Drums\nStatement ID\n52413\nOpening Balance\n$70.29\nDigital Income\n$0.73\nClosing Balance\n$71.02\nPage 1 of 1\n",
+  "text_by_page": [
+    "Ape Drums's Royalty Statement\n2024H2: APDR - Ape Drums\nDate\nAug 05, 2025\nRecipient\nApe Drums\nStatement ID\n52413\nOpening Balance\n$70.29\nDigital Income\n$0.73\nClosing Balance\n$71.02\nPage 1 of 1\n"
+  ],
+  "key_value_pairs": [
+    {
+      "key": "Date",
+      "value": "Aug 05, 2025",
+      "page": 1,
+      "bbox": null
+    },
+    {
+      "key": "Statement ID",
+      "value": "52413",
+      "page": 1,
+      "bbox": null
+    },
+    {
+      "key": "Opening Balance",
+      "value": "$70.29",
+      "page": 1,
+      "bbox": null
+    },
+    {
+      "key": "Digital Income",
+      "value": "$0.73",
+      "page": 1,
+      "bbox": null
+    },
+    {
+      "key": "Closing Balance",
+      "value": "$71.02",
+      "page": 1,
+      "bbox": null
+    }
+  ],
+  "tables": [],
+  "detected_amounts": [
+    {
+      "value": 70.29,
+      "raw": "$70.29",
+      "context": "$70.29",
+      "page": 1
+    },
+    {
+      "value": 0.73,
+      "raw": "$0.73",
+      "context": "$0.73",
+      "page": 1
+    },
+    {
+      "value": 71.02,
+      "raw": "$71.02",
+      "context": "$71.02",
+      "page": 1
+    }
+  ],
+  "detected_dates": [],
+  "extraction_metadata": {
+    "extractor_version": "1.1.0",
+    "pymupdf_version": "1.27.2.2",
+    "source_path": "C:\\Users\\risha\\cursorprojects\\WeaveAssignment\\music_rights_sample_pdfs\\extracted\\pdfs-for-model-training\\2024-H2 - Ape Drums - Dim Mak (Wicked).pdf",
+    "file_size_bytes": 46375,
+    "parallel_extraction": false,
+    "workers": 1
+  }
+}

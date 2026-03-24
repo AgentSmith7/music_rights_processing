@@ -1,0 +1,151 @@
+{
+  "document_id": "26131a88-e5ec-47d6-a829-4f3823f7eb98",
+  "filename": "2022-12 - Charli XCX - Kollective.pdf",
+  "extracted_at": "2026-03-24T06:59:47.302828Z",
+  "page_count": 1,
+  "full_text": "Statement Summary — December 2022\nAccount:\nAitchison, Charlotte Emma • 67009\nContract:\nCharli XCX - Neighbouring Rights • 533486\nCurrency:\nGBP\nOPENING BALANCE\n790.31\nCLOSING BALANCE\n58,558.11\nPayments\n-790.31\nNet Revenue\n44,858.22\nGross Revenue\n47,620.38\nCommission\n-2,762.17\nDue to rounding, you may see a variance of up to 2 cents\nAdjustments\n14,268.39\nAdjustment\n14,348.76\nCommission Adjustment\n-80.37\nVAT\n-568.50\n1 of 1\n",
+  "text_by_page": [
+    "Statement Summary — December 2022\nAccount:\nAitchison, Charlotte Emma • 67009\nContract:\nCharli XCX - Neighbouring Rights • 533486\nCurrency:\nGBP\nOPENING BALANCE\n790.31\nCLOSING BALANCE\n58,558.11\nPayments\n-790.31\nNet Revenue\n44,858.22\nGross Revenue\n47,620.38\nCommission\n-2,762.17\nDue to rounding, you may see a variance of up to 2 cents\nAdjustments\n14,268.39\nAdjustment\n14,348.76\nCommission Adjustment\n-80.37\nVAT\n-568.50\n1 of 1\n"
+  ],
+  "key_value_pairs": [
+    {
+      "key": "OPENING BALANCE",
+      "value": "790.31",
+      "page": 1,
+      "bbox": null
+    },
+    {
+      "key": "CLOSING BALANCE",
+      "value": "58,558.11",
+      "page": 1,
+      "bbox": null
+    },
+    {
+      "key": "Payments",
+      "value": "-790.31",
+      "page": 1,
+      "bbox": null
+    },
+    {
+      "key": "Net Revenue",
+      "value": "44,858.22",
+      "page": 1,
+      "bbox": null
+    },
+    {
+      "key": "Gross Revenue",
+      "value": "47,620.38",
+      "page": 1,
+      "bbox": null
+    },
+    {
+      "key": "Commission",
+      "value": "-2,762.17",
+      "page": 1,
+      "bbox": null
+    },
+    {
+      "key": "Adjustments",
+      "value": "14,268.39",
+      "page": 1,
+      "bbox": null
+    },
+    {
+      "key": "Adjustment",
+      "value": "14,348.76",
+      "page": 1,
+      "bbox": null
+    },
+    {
+      "key": "Commission Adjustment",
+      "value": "-80.37",
+      "page": 1,
+      "bbox": null
+    },
+    {
+      "key": "VAT",
+      "value": "-568.50",
+      "page": 1,
+      "bbox": null
+    }
+  ],
+  "tables": [],
+  "detected_amounts": [
+    {
+      "value": 790.31,
+      "raw": "790.31",
+      "context": "790.31",
+      "page": 1
+    },
+    {
+      "value": 58558.11,
+      "raw": "58,558.11",
+      "context": "58,558.11",
+      "page": 1
+    },
+    {
+      "value": 790.31,
+      "raw": "790.31",
+      "context": "-790.31",
+      "page": 1
+    },
+    {
+      "value": 44858.22,
+      "raw": "44,858.22",
+      "context": "44,858.22",
+      "page": 1
+    },
+    {
+      "value": 47620.38,
+      "raw": "47,620.38",
+      "context": "47,620.38",
+      "page": 1
+    },
+    {
+      "value": 2762.17,
+      "raw": "2,762.17",
+      "context": "-2,762.17",
+      "page": 1
+    },
+    {
+      "value": 14268.39,
+      "raw": "14,268.39",
+      "context": "14,268.39",
+      "page": 1
+    },
+    {
+      "value": 14348.76,
+      "raw": "14,348.76",
+      "context": "14,348.76",
+      "page": 1
+    },
+    {
+      "value": 80.37,
+      "raw": "80.37",
+      "context": "-80.37",
+      "page": 1
+    },
+    {
+      "value": 568.5,
+      "raw": "568.50",
+      "context": "-568.50",
+      "page": 1
+    }
+  ],
+  "detected_dates": [
+    {
+      "value": "2022-12-01",
+      "raw": "December 2022",
+      "context": "Statement Summary — December 2022",
+      "page": 1
+    }
+  ],
+  "extraction_metadata": {
+    "extractor_version": "1.1.0",
+    "pymupdf_version": "1.27.2.2",
+    "source_path": "C:\\Users\\risha\\cursorprojects\\WeaveAssignment\\music_rights_sample_pdfs\\extracted\\pdfs-for-model-training\\2022-12 - Charli XCX - Kollective.pdf",
+    "file_size_bytes": 24601,
+    "parallel_extraction": false,
+    "workers": 1
+  }
+}

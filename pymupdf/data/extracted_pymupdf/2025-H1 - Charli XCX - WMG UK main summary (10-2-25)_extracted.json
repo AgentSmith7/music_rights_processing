@@ -1,0 +1,2509 @@
+{
+  "pdf_name": "2025-H1 - Charli XCX - WMG UK main summary (10-2-25)",
+  "pdf_path": "music_rights_sample_pdfs\\extracted\\pdfs-for-model-training\\2025-H1 - Charli XCX - WMG UK main summary (10-2-25).pdf",
+  "total_pages": 6,
+  "extracted_at": "2026-03-24T01:45:47.941750",
+  "extraction_method": "PyMuPDF (direct text extraction)",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Warner Music UK\n27 Wrights Lane\nLondon\nW8 5SW\nRoyalty Statement Summary\nRoyalty Statement Summary For Period: 01/25 - 06/25\nBalance B/fwd\n367,352.95\nPayments\n(367,352.95)\nStudio Costs\n(5,020.05)\nVideo Costs\n(155,494.92)\nAdjustments\n86,195.91\nRoyalty Earnings\nAs Per Attached Statement\n562,153.99\nRelease Prior Period  01/24 - 06/24\n2,094.21\nTotal Release Prior Period\n2,094.21\nTotal Chargeable\n(226,661.05)\nReserves\nReserve Current Period\n(18,683.72)\nC/O LEFTBRAIN\nCHARLI XCX INC\n1301 N BROADWAY\nSTE 32003\nLOS ANGELES, CA\nBalance (£) - payable/(unrecouped)\n244,820.11\nRe.: 19263  CHARLI XCX\nRoyalty balances under £100, €125, US$150 will not be paid and will be carried forward to your next royalty statement.\nBalance Transfer\n235.74\n",
+      "text_blocks": [
+        {
+          "bbox": [
+            15.180000305175781,
+            19.284221649169922,
+            104.06704711914062,
+            29.844221115112305
+          ],
+          "text": "Warner Music UK"
+        },
+        {
+          "bbox": [
+            15.180000305175781,
+            36.28422164916992,
+            98.22737884521484,
+            46.84421920776367
+          ],
+          "text": "27 Wrights Lane"
+        },
+        {
+          "bbox": [
+            15.180000305175781,
+            55.56418991088867,
+            52.60816192626953,
+            66.12419128417969
+          ],
+          "text": "London"
+        },
+        {
+          "bbox": [
+            15.180000305175781,
+            72.5641860961914,
+            59.039207458496094,
+            83.12419128417969
+          ],
+          "text": "W8 5SW"
+        },
+        {
+          "bbox": [
+            15.180000305175781,
+            129.22422790527344,
+            160.12657165527344,
+            139.7842254638672
+          ],
+          "text": "Royalty Statement Summary"
+        },
+        {
+          "bbox": [
+            15.180000305175781,
+            300.1292724609375,
+            266.7415771484375,
+            309.7292785644531
+          ],
+          "text": "Royalty Statement Summary For Period: 01/25 - 06/25"
+        },
+        {
+          "bbox": [
+            15.180000305175781,
+            329.08929443359375,
+            574.9384155273438,
+            338.6893005371094
+          ],
+          "text": "Balance B/fwd\n367,352.95"
+        },
+        {
+          "bbox": [
+            15.180000305175781,
+            343.8892822265625,
+            574.9520263671875,
+            353.4892883300781
+          ],
+          "text": "Payments\n(367,352.95)"
+        },
+        {
+          "bbox": [
+            15.180000305175781,
+            358.68927001953125,
+            574.9368286132812,
+            368.2892761230469
+          ],
+          "text": "Studio Costs\n(5,020.05)"
+        },
+        {
+          "bbox": [
+            15.180000305175781,
+            373.4892883300781,
+            574.9520263671875,
+            383.08929443359375
+          ],
+          "text": "Video Costs\n(155,494.92)"
+        },
+        {
+          "bbox": [
+            15.180000305175781,
+            388.2892761230469,
+            574.9407958984375,
+            397.8892822265625
+          ],
+          "text": "Adjustments\n86,195.91"
+        },
+        {
+          "bbox": [
+            15.180000305175781,
+            403.08929443359375,
+            93.73681640625,
+            412.6893005371094
+          ],
+          "text": "Royalty Earnings"
+        },
+        {
+          "bbox": [
+            24.239999771118164,
+            417.5788269042969,
+            582.5784301757812,
+            427.5788269042969
+          ],
+          "text": "As Per Attached Statement\n562,153.99"
+        },
+        {
+          "bbox": [
+            24.239999771118164,
+            485.4388122558594,
+            512.5800170898438,
+            498.59881591796875
+          ],
+          "text": "Release Prior Period  01/24 - 06/24\n2,094.21"
+        },
+        {
+          "bbox": [
+            15.079999923706055,
+            506.749267578125,
+            582.7432250976562,
+            519.5092163085938
+          ],
+          "text": "Total Release Prior Period\n2,094.21"
+        },
+        {
+          "bbox": [
+            15.180000305175781,
+            438.3492736816406,
+            586.85205078125,
+            447.94927978515625
+          ],
+          "text": "Total Chargeable\n(226,661.05)"
+        },
+        {
+          "bbox": [
+            15.180000305175781,
+            453.1492919921875,
+            58.520809173583984,
+            462.7492980957031
+          ],
+          "text": "Reserves"
+        },
+        {
+          "bbox": [
+            24.239999771118164,
+            467.6388244628906,
+            581.014404296875,
+            477.6388244628906
+          ],
+          "text": "Reserve Current Period\n(18,683.72)"
+        },
+        {
+          "bbox": [
+            24.540000915527344,
+            167.7427215576172,
+            107.66699981689453,
+            178.7427215576172
+          ],
+          "text": "C/O LEFTBRAIN"
+        },
+        {
+          "bbox": [
+            24.540000915527344,
+            150.4626922607422,
+            112.5510025024414,
+            161.4626922607422
+          ],
+          "text": "CHARLI XCX INC"
+        },
+        {
+          "bbox": [
+            24.540000915527344,
+            185.02268981933594,
+            127.23600006103516,
+            196.02268981933594
+          ],
+          "text": "1301 N BROADWAY"
+        },
+        {
+          "bbox": [
+            24.540000915527344,
+            202.30271911621094,
+            79.572998046875,
+            213.30271911621094
+          ],
+          "text": "STE 32003"
+        },
+        {
+          "bbox": [
+            24.540000915527344,
+            219.5826873779297,
+            122.9679946899414,
+            230.5826873779297
+          ],
+          "text": "LOS ANGELES, CA"
+        },
+        {
+          "bbox": [
+            15.180000305175781,
+            738.029296875,
+            583.5784301757812,
+            747.6292724609375
+          ],
+          "text": "Balance (£) - payable/(unrecouped)\n244,820.11"
+        },
+        {
+          "bbox": [
+            12.300000190734863,
+            269.8827209472656,
+            138.23899841308594,
+            280.8827209472656
+          ],
+          "text": "Re.: 19263  CHARLI XCX"
+        },
+        {
+          "bbox": [
+            82.81999969482422,
+            752.091064453125,
+            502.1239013671875,
+            760.091064453125
+          ],
+          "text": "Royalty balances under £100, €125, US$150 will not be paid and will be carried forward to your next royalty statement."
+        },
+        {
+          "bbox": [
+            15.180000305175781,
+            524.749267578125,
+            574.9368286132812,
+            534.3492431640625
+          ],
+          "text": "Balance Transfer\n235.74"
+        }
+      ],
+      "tables": [
+        {
+          "table_index": 0,
+          "bbox": [
+            9.199999888737997,
+            14.1800537109375,
+            584.3333231608073,
+            428.84002685546875
+          ],
+          "headers": [
+            "Warner Music UK",
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "rows": [
+            [
+              "27 Wrights Lane",
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            [
+              "London",
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            [
+              "W8 5SW",
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            [
+              "",
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            [
+              "",
+              null,
+              null,
+              "",
+              null,
+              null,
+              null
+            ],
+            [
+              "",
+              null,
+              null,
+              "",
+              null,
+              null,
+              null
+            ],
+            [
+              "Royalty Statement Summary",
+              null,
+              null,
+              "",
+              null,
+              null,
+              null
+            ],
+            [
+              "",
+              null,
+              "",
+              "",
+              null,
+              null,
+              null
+            ],
+            [
+              "",
+              "CHARLI XCX INC",
+              null,
+              null,
+              "",
+              null,
+              null
+            ],
+            [
+              "",
+              "C/O LEFTBRAIN",
+              null,
+              null,
+              "",
+              null,
+              null
+            ],
+            [
+              "",
+              "1301 N BROADWAY",
+              null,
+              null,
+              "",
+              null,
+              null
+            ],
+            [
+              "",
+              "STE 32003",
+              null,
+              null,
+              "",
+              null,
+              null
+            ],
+            [
+              "",
+              "LOS ANGELES, CA",
+              null,
+              null,
+              "",
+              null,
+              null
+            ],
+            [
+              "",
+              null,
+              null,
+              null,
+              null,
+              null,
+              ""
+            ],
+            [
+              "",
+              null,
+              null,
+              null,
+              null,
+              null,
+              ""
+            ],
+            [
+              "Re.: 19263 CHARLI XCX",
+              null,
+              null,
+              null,
+              null,
+              null,
+              ""
+            ],
+            [
+              "",
+              null,
+              null,
+              null,
+              null,
+              null,
+              ""
+            ],
+            [
+              "Royalty Statement Summary For Period: 01/25 - 06/25",
+              null,
+              null,
+              null,
+              null,
+              "",
+              null
+            ],
+            [
+              "",
+              null,
+              null,
+              null,
+              null,
+              "",
+              null
+            ],
+            [
+              "Balance B/fwd",
+              null,
+              null,
+              null,
+              null,
+              "367,352.95",
+              null
+            ],
+            [
+              "Payments",
+              null,
+              null,
+              null,
+              null,
+              "(367,352.95)",
+              null
+            ],
+            [
+              "Studio Costs",
+              null,
+              null,
+              null,
+              null,
+              "(5,020.05)",
+              null
+            ],
+            [
+              "Video Costs",
+              null,
+              null,
+              null,
+              null,
+              "(155,494.92)",
+              null
+            ],
+            [
+              "Adjustments",
+              null,
+              null,
+              null,
+              null,
+              "86,195.91",
+              null
+            ],
+            [
+              "Royalty Earnings",
+              null,
+              null,
+              null,
+              null,
+              null,
+              ""
+            ],
+            [
+              "As Per Attached Statement",
+              null,
+              null,
+              null,
+              null,
+              null,
+              "562,153.99"
+            ]
+          ],
+          "row_count": 26
+        },
+        {
+          "table_index": 1,
+          "bbox": [
+            9.199999888737997,
+            434.5000305175781,
+            588.6199951171875,
+            535.7000122070312
+          ],
+          "headers": [
+            "Total Chargeable",
+            null,
+            null,
+            "(226,661.05)"
+          ],
+          "rows": [
+            [
+              "Reserves",
+              null,
+              null,
+              ""
+            ],
+            [
+              "Reserve Current Period",
+              null,
+              null,
+              "(18,683.72)"
+            ],
+            [
+              "Release Prior Period 01/24 - 06/24",
+              "2,094.21",
+              null,
+              null
+            ],
+            [
+              "Total Release Prior Period",
+              "2,094.21",
+              null,
+              null
+            ],
+            [
+              "Balance Transfer",
+              null,
+              "235.74",
+              null
+            ]
+          ],
+          "row_count": 5
+        },
+        {
+          "table_index": 2,
+          "bbox": [
+            9.199999888737997,
+            734.1800537109375,
+            584.3333231608073,
+            747.7300415039062
+          ],
+          "headers": [
+            "Balance (£) - payable/(unrecouped)",
+            "244,820.11"
+          ],
+          "rows": [],
+          "row_count": 0
+        }
+      ],
+      "statement_info": {},
+      "char_count": 734,
+      "has_tables": true
+    },
+    {
+      "page_number": 2,
+      "text": "Warner Music UK\nRe.: 19263  CHARLI XCX\nDate\nDescription\nSupplier\nAmount\nPayments\n31/03/2025\nRoyalty Payment - 07/24 - 12/24\nCHARLOTTE AITCHISON T/A \n(367,352.95)\nTotal Payments\n(367,352.95)\nStudio Costs\n01/01/2025\n[429571] - Charli XCX - EASYFUN co-produci\nKARMA ARTISTS MANAGEME\n(125.00)\n01/01/2025\n[554169] - Charli XCX - Deaton Chris Antho\nDEATON CHRIS ANTHONY\n(2,937.03)\n01/01/2025\n[559868] - Charli XCX - Deaton Chris Antho\nDEATON CHRIS ANTHONY\n(1,958.02)\nTotal Studio Costs\n(5,020.05)\nVideo Costs\n12/06/2025\n[641921] - Charli XCX 'party 4 U' Video Ha\nBARCLAYCARD BOOKINGS\n(488.48)\n27/05/2025\n[642012] - CHARLI XCX 'PARTY 4 U' MUSIC VI\nCADENCE UNLIMITED INC\n(104,794.27)\n22/05/2025\n[642068] - Chris Horan - Stylist - Charli \nTHE WALL GROUP LA LLC\n(11,429.44)\n15/05/2025\n[642069] - Yasmin Istanbouli - Make up - C\nTHE WALL GROUP LA LLC\n(914.35)\n02/06/2025\n[642398] - Matt Bens - Hair - Charli XCX -\nGREAT BOWERY INC DBA CA\n(914.36)\n23/06/2025\n[642540] - Steph Stone - Nail Artist - Cha\nFORWARD ARTISTS\n(443.80)\n28/05/2025\n[642817] - Charli XCX ' Party 4 u' Music V\nCADENCE UNLIMITED INC\n(34,931.42)\n02/06/2025\n[643149] - Matt Bens - Hair - Charli XCX -\nGREAT BOWERY INC DBA CA\n(86.41)\n03/06/2025\n[643266] - Flight Reimbursement Matt Ben's\nGREAT BOWERY INC DBA CA\n(560.81)\n05/06/2025\n[643308] - Artist and Hair Stylist Cars | \nROYAL ELITE CLUB\n(931.58)\nTotal Video Costs\n(155,494.92)\nAdjustments\n01/01/2025\n22421 Chargeable earnings correction\n3,340.18\n01/01/2025\n23678 Chargeable earnings correction\n18,767.01\n01/01/2025\nBleachers - Rollercoaster 2H24 feat income\n130.24\n30/06/2025\nDavid Guetta - DSM Oct 24 - Mar 25\n8,356.01\n01/01/2025\nIcona Pop - I Love It 2H24 feat income\n29,608.35\n01/01/2025\nIggy Azalea - Fancy 2H24 feat income\n13,529.35\n01/01/2025\nLil Xan - Moonlight 2H24 feat income\n49.61\n01/01/2025\nMiike Snow - For U 2H24 feat income\n1,978.73\n30/06/2025\nTFIOS US Income 2H24\n1,743.04\n01/01/2025\nTiesto - Hot In It 2H24 feat income\n8,693.39\nTotal Adjustments\n86,195.91\nBalance Transfer\n30/06/2025\nBalance Trf from 24409 (Rita Ora)\n166.48\n30/06/2025\nBalance Trf from 24948 (Clean Bandit)\n69.26\nTotal Balance Transfer\n235.74\nTOTAL COSTS\n(441,436.27)\n",
+      "text_blocks": [
+        {
+          "bbox": [
+            12.300000190734863,
+            18.379112243652344,
+            109.26768493652344,
+            29.899112701416016
+          ],
+          "text": "Warner Music UK"
+        },
+        {
+          "bbox": [
+            12.300000190734863,
+            63.00657653808594,
+            149.68800354003906,
+            75.00657653808594
+          ],
+          "text": "Re.: 19263  CHARLI XCX"
+        },
+        {
+          "bbox": [
+            12.300000190734863,
+            98.18927001953125,
+            491.84161376953125,
+            108.8893051147461
+          ],
+          "text": "Date\nDescription\nSupplier\nAmount"
+        },
+        {
+          "bbox": [
+            12.300000190734863,
+            115.18927001953125,
+            57.78160858154297,
+            124.78926849365234
+          ],
+          "text": "Payments"
+        },
+        {
+          "bbox": [
+            21.360000610351562,
+            131.87881469726562,
+            580.5000610351562,
+            142.97885131835938
+          ],
+          "text": "31/03/2025\nRoyalty Payment - 07/24 - 12/24\nCHARLOTTE AITCHISON T/A\n(367,352.95)"
+        },
+        {
+          "bbox": [
+            12.300000190734863,
+            160.66925048828125,
+            580.1720581054688,
+            171.46926879882812
+          ],
+          "text": "Total Payments\n(367,352.95)"
+        },
+        {
+          "bbox": [
+            12.300000190734863,
+            177.80926513671875,
+            71.1224136352539,
+            187.40927124023438
+          ],
+          "text": "Studio Costs"
+        },
+        {
+          "bbox": [
+            21.360000610351562,
+            194.49880981445312,
+            580.5000610351562,
+            205.59884643554688
+          ],
+          "text": "01/01/2025\n[429571] - Charli XCX - EASYFUN co-produci\nKARMA ARTISTS MANAGEME\n(125.00)"
+        },
+        {
+          "bbox": [
+            21.360000610351562,
+            211.49880981445312,
+            580.5000610351562,
+            222.59884643554688
+          ],
+          "text": "01/01/2025\n[554169] - Charli XCX - Deaton Chris Antho\nDEATON CHRIS ANTHONY\n(2,937.03)"
+        },
+        {
+          "bbox": [
+            21.360000610351562,
+            228.49880981445312,
+            580.5000610351562,
+            239.59884643554688
+          ],
+          "text": "01/01/2025\n[559868] - Charli XCX - Deaton Chris Antho\nDEATON CHRIS ANTHONY\n(1,958.02)"
+        },
+        {
+          "bbox": [
+            12.300000190734863,
+            257.289306640625,
+            580.1567993164062,
+            268.0892639160156
+          ],
+          "text": "Total Studio Costs\n(5,020.05)"
+        },
+        {
+          "bbox": [
+            12.300000190734863,
+            274.42926025390625,
+            68.0536117553711,
+            284.0292663574219
+          ],
+          "text": "Video Costs"
+        },
+        {
+          "bbox": [
+            21.360000610351562,
+            291.1188049316406,
+            580.5000610351562,
+            302.2188415527344
+          ],
+          "text": "12/06/2025\n[641921] - Charli XCX 'party 4 U' Video Ha\nBARCLAYCARD BOOKINGS\n(488.48)"
+        },
+        {
+          "bbox": [
+            21.360000610351562,
+            308.1188049316406,
+            580.5000610351562,
+            319.2188415527344
+          ],
+          "text": "27/05/2025\n[642012] - CHARLI XCX 'PARTY 4 U' MUSIC VI\nCADENCE UNLIMITED INC\n(104,794.27)"
+        },
+        {
+          "bbox": [
+            21.360000610351562,
+            325.11883544921875,
+            580.5000610351562,
+            336.21881103515625
+          ],
+          "text": "22/05/2025\n[642068] - Chris Horan - Stylist - Charli\nTHE WALL GROUP LA LLC\n(11,429.44)"
+        },
+        {
+          "bbox": [
+            21.360000610351562,
+            342.11883544921875,
+            580.5000610351562,
+            353.21881103515625
+          ],
+          "text": "15/05/2025\n[642069] - Yasmin Istanbouli - Make up - C\nTHE WALL GROUP LA LLC\n(914.35)"
+        },
+        {
+          "bbox": [
+            21.360000610351562,
+            359.11883544921875,
+            580.5000610351562,
+            370.21881103515625
+          ],
+          "text": "02/06/2025\n[642398] - Matt Bens - Hair - Charli XCX -\nGREAT BOWERY INC DBA CA\n(914.36)"
+        },
+        {
+          "bbox": [
+            21.360000610351562,
+            376.11883544921875,
+            580.5000610351562,
+            387.21881103515625
+          ],
+          "text": "23/06/2025\n[642540] - Steph Stone - Nail Artist - Cha\nFORWARD ARTISTS\n(443.80)"
+        },
+        {
+          "bbox": [
+            21.360000610351562,
+            393.11883544921875,
+            580.5000610351562,
+            404.21881103515625
+          ],
+          "text": "28/05/2025\n[642817] - Charli XCX ' Party 4 u' Music V\nCADENCE UNLIMITED INC\n(34,931.42)"
+        },
+        {
+          "bbox": [
+            21.360000610351562,
+            410.11883544921875,
+            580.5000610351562,
+            421.21881103515625
+          ],
+          "text": "02/06/2025\n[643149] - Matt Bens - Hair - Charli XCX -\nGREAT BOWERY INC DBA CA\n(86.41)"
+        },
+        {
+          "bbox": [
+            21.360000610351562,
+            427.11883544921875,
+            580.5000610351562,
+            438.21881103515625
+          ],
+          "text": "03/06/2025\n[643266] - Flight Reimbursement Matt Ben's\nGREAT BOWERY INC DBA CA\n(560.81)"
+        },
+        {
+          "bbox": [
+            21.360000610351562,
+            444.11883544921875,
+            580.5000610351562,
+            455.21881103515625
+          ],
+          "text": "05/06/2025\n[643308] - Artist and Hair Stylist Cars |\nROYAL ELITE CLUB\n(931.58)"
+        },
+        {
+          "bbox": [
+            12.300000190734863,
+            472.9092712402344,
+            580.1720581054688,
+            483.70928955078125
+          ],
+          "text": "Total Video Costs\n(155,494.92)"
+        },
+        {
+          "bbox": [
+            12.300000190734863,
+            490.0492858886719,
+            69.11921691894531,
+            499.6492919921875
+          ],
+          "text": "Adjustments"
+        },
+        {
+          "bbox": [
+            21.360000610351562,
+            506.7388000488281,
+            580.5000610351562,
+            517.8388671875
+          ],
+          "text": "01/01/2025\n22421 Chargeable earnings correction\n3,340.18"
+        },
+        {
+          "bbox": [
+            21.360000610351562,
+            523.7388305664062,
+            580.5000610351562,
+            534.8388671875
+          ],
+          "text": "01/01/2025\n23678 Chargeable earnings correction\n18,767.01"
+        },
+        {
+          "bbox": [
+            21.360000610351562,
+            540.7388305664062,
+            580.5,
+            551.8388671875
+          ],
+          "text": "01/01/2025\nBleachers - Rollercoaster 2H24 feat income\n130.24"
+        },
+        {
+          "bbox": [
+            21.360000610351562,
+            557.7388305664062,
+            580.5000610351562,
+            568.8388671875
+          ],
+          "text": "30/06/2025\nDavid Guetta - DSM Oct 24 - Mar 25\n8,356.01"
+        },
+        {
+          "bbox": [
+            21.360000610351562,
+            574.7388305664062,
+            580.5000610351562,
+            585.8388671875
+          ],
+          "text": "01/01/2025\nIcona Pop - I Love It 2H24 feat income\n29,608.35"
+        },
+        {
+          "bbox": [
+            21.360000610351562,
+            591.7388305664062,
+            580.5000610351562,
+            602.8388671875
+          ],
+          "text": "01/01/2025\nIggy Azalea - Fancy 2H24 feat income\n13,529.35"
+        },
+        {
+          "bbox": [
+            21.360000610351562,
+            608.7388305664062,
+            580.5,
+            619.8388671875
+          ],
+          "text": "01/01/2025\nLil Xan - Moonlight 2H24 feat income\n49.61"
+        },
+        {
+          "bbox": [
+            21.360000610351562,
+            625.7388305664062,
+            580.5000610351562,
+            636.8388671875
+          ],
+          "text": "01/01/2025\nMiike Snow - For U 2H24 feat income\n1,978.73"
+        },
+        {
+          "bbox": [
+            21.360000610351562,
+            642.7388305664062,
+            580.5000610351562,
+            653.8388671875
+          ],
+          "text": "30/06/2025\nTFIOS US Income 2H24\n1,743.04"
+        },
+        {
+          "bbox": [
+            21.360000610351562,
+            659.7388305664062,
+            580.5000610351562,
+            670.8388671875
+          ],
+          "text": "01/01/2025\nTiesto - Hot In It 2H24 feat income\n8,693.39"
+        },
+        {
+          "bbox": [
+            12.300000190734863,
+            688.529296875,
+            580.1608276367188,
+            699.3292846679688
+          ],
+          "text": "Total Adjustments\n86,195.91"
+        },
+        {
+          "bbox": [
+            12.300000190734863,
+            705.6692504882812,
+            91.39441680908203,
+            715.2692260742188
+          ],
+          "text": "Balance Transfer"
+        },
+        {
+          "bbox": [
+            21.360000610351562,
+            722.3588256835938,
+            580.5,
+            733.4588623046875
+          ],
+          "text": "30/06/2025\nBalance Trf from 24409 (Rita Ora)\n166.48"
+        },
+        {
+          "bbox": [
+            21.360000610351562,
+            739.3588256835938,
+            580.5,
+            750.4588623046875
+          ],
+          "text": "30/06/2025\nBalance Trf from 24948 (Clean Bandit)\n69.26"
+        },
+        {
+          "bbox": [
+            12.300000190734863,
+            768.1492919921875,
+            580.1567993164062,
+            778.9492797851562
+          ],
+          "text": "Total Balance Transfer\n235.74"
+        },
+        {
+          "bbox": [
+            12.300000190734863,
+            790.9492797851562,
+            580.112060546875,
+            801.6492309570312
+          ],
+          "text": "TOTAL COSTS\n(441,436.27)"
+        }
+      ],
+      "tables": [
+        {
+          "table_index": 0,
+          "bbox": [
+            7.199999809265137,
+            14.1800537109375,
+            585.5800170898438,
+            802.5840087890625
+          ],
+          "headers": [
+            "Warner Music UK",
+            null,
+            null,
+            "",
+            null
+          ],
+          "rows": [
+            [
+              "",
+              null,
+              null,
+              null,
+              null
+            ],
+            [
+              "Re.: 19263 CHARLI XCX",
+              null,
+              null,
+              null,
+              null
+            ],
+            [
+              "",
+              null,
+              null,
+              "",
+              null
+            ],
+            [
+              "Date",
+              "Description",
+              "Supplier",
+              null,
+              "Amount"
+            ],
+            [
+              "Payments",
+              null,
+              "",
+              null,
+              ""
+            ],
+            [
+              "31/03/2025",
+              "Royalty Payment - 07/24 - 12/24",
+              "CHARLOTTE AITCHISON T/A",
+              null,
+              "(367,352.95)"
+            ],
+            [
+              "",
+              "",
+              "",
+              null,
+              ""
+            ],
+            [
+              "Total Payments",
+              null,
+              "",
+              null,
+              "(367,352.95)"
+            ],
+            [
+              "Studio Costs",
+              null,
+              "",
+              null,
+              ""
+            ],
+            [
+              "01/01/2025",
+              "[429571] - Charli XCX - EASYFUN co-produci",
+              "KARMA ARTISTS MANAGEME",
+              null,
+              "(125.00)"
+            ],
+            [
+              "01/01/2025",
+              "[554169] - Charli XCX - Deaton Chris Antho",
+              "DEATON CHRIS ANTHONY",
+              null,
+              "(2,937.03)"
+            ],
+            [
+              "01/01/2025",
+              "[559868] - Charli XCX - Deaton Chris Antho",
+              "DEATON CHRIS ANTHONY",
+              null,
+              "(1,958.02)"
+            ],
+            [
+              "",
+              "",
+              "",
+              null,
+              ""
+            ],
+            [
+              "Total Studio Costs",
+              null,
+              "",
+              null,
+              "(5,020.05)"
+            ],
+            [
+              "Video Costs",
+              null,
+              "",
+              null,
+              ""
+            ],
+            [
+              "12/06/2025",
+              "[641921] - Charli XCX 'party 4 U' Video Ha",
+              "BARCLAYCARD BOOKINGS",
+              null,
+              "(488.48)"
+            ],
+            [
+              "27/05/2025",
+              "[642012] - CHARLI XCX 'PARTY 4 U' MUSIC VI",
+              "CADENCE UNLIMITED INC",
+              null,
+              "(104,794.27)"
+            ],
+            [
+              "22/05/2025",
+              "[642068] - Chris Horan - Stylist - Charli",
+              "THE WALL GROUP LA LLC",
+              null,
+              "(11,429.44)"
+            ],
+            [
+              "15/05/2025",
+              "[642069] - Yasmin Istanbouli - Make up - C",
+              "THE WALL GROUP LA LLC",
+              null,
+              "(914.35)"
+            ],
+            [
+              "02/06/2025",
+              "[642398] - Matt Bens - Hair - Charli XCX -",
+              "GREAT BOWERY INC DBA CA",
+              null,
+              "(914.36)"
+            ],
+            [
+              "23/06/2025",
+              "[642540] - Steph Stone - Nail Artist - Cha",
+              "FORWARD ARTISTS",
+              null,
+              "(443.80)"
+            ],
+            [
+              "28/05/2025",
+              "[642817] - Charli XCX ' Party 4 u' Music V",
+              "CADENCE UNLIMITED INC",
+              null,
+              "(34,931.42)"
+            ],
+            [
+              "02/06/2025",
+              "[643149] - Matt Bens - Hair - Charli XCX -",
+              "GREAT BOWERY INC DBA CA",
+              null,
+              "(86.41)"
+            ],
+            [
+              "03/06/2025",
+              "[643266] - Flight Reimbursement Matt Ben's",
+              "GREAT BOWERY INC DBA CA",
+              null,
+              "(560.81)"
+            ],
+            [
+              "05/06/2025",
+              "[643308] - Artist and Hair Stylist Cars |",
+              "ROYAL ELITE CLUB",
+              null,
+              "(931.58)"
+            ],
+            [
+              "",
+              "",
+              "",
+              null,
+              ""
+            ],
+            [
+              "Total Video Costs",
+              null,
+              "",
+              null,
+              "(155,494.92)"
+            ],
+            [
+              "Adjustments",
+              null,
+              "",
+              null,
+              ""
+            ],
+            [
+              "01/01/2025",
+              "22421 Chargeable earnings correction",
+              "",
+              null,
+              "3,340.18"
+            ],
+            [
+              "01/01/2025",
+              "23678 Chargeable earnings correction",
+              "",
+              null,
+              "18,767.01"
+            ],
+            [
+              "01/01/2025",
+              "Bleachers - Rollercoaster 2H24 feat income",
+              "",
+              null,
+              "130.24"
+            ],
+            [
+              "30/06/2025",
+              "David Guetta - DSM Oct 24 - Mar 25",
+              "",
+              null,
+              "8,356.01"
+            ],
+            [
+              "01/01/2025",
+              "Icona Pop - I Love It 2H24 feat income",
+              "",
+              null,
+              "29,608.35"
+            ],
+            [
+              "01/01/2025",
+              "Iggy Azalea - Fancy 2H24 feat income",
+              "",
+              null,
+              "13,529.35"
+            ],
+            [
+              "01/01/2025",
+              "Lil Xan - Moonlight 2H24 feat income",
+              "",
+              null,
+              "49.61"
+            ],
+            [
+              "01/01/2025",
+              "Miike Snow - For U 2H24 feat income",
+              "",
+              null,
+              "1,978.73"
+            ],
+            [
+              "30/06/2025",
+              "TFIOS US Income 2H24",
+              "",
+              null,
+              "1,743.04"
+            ],
+            [
+              "01/01/2025",
+              "Tiesto - Hot In It 2H24 feat income",
+              "",
+              null,
+              "8,693.39"
+            ],
+            [
+              "",
+              "",
+              "",
+              null,
+              ""
+            ],
+            [
+              "Total Adjustments",
+              null,
+              "",
+              null,
+              "86,195.91"
+            ],
+            [
+              "Balance Transfer",
+              null,
+              "",
+              null,
+              ""
+            ],
+            [
+              "30/06/2025",
+              "Balance Trf from 24409 (Rita Ora)",
+              "",
+              null,
+              "166.48"
+            ],
+            [
+              "30/06/2025",
+              "Balance Trf from 24948 (Clean Bandit)",
+              "",
+              null,
+              "69.26"
+            ],
+            [
+              "",
+              "",
+              "",
+              null,
+              ""
+            ],
+            [
+              "Total Balance Transfer",
+              null,
+              "",
+              null,
+              "235.74"
+            ],
+            [
+              "",
+              "",
+              "",
+              null,
+              ""
+            ],
+            [
+              "TOTAL COSTS",
+              null,
+              "",
+              null,
+              "(441,436.27)"
+            ]
+          ],
+          "row_count": 47
+        }
+      ],
+      "statement_info": {},
+      "char_count": 2162,
+      "has_tables": true
+    },
+    {
+      "page_number": 3,
+      "text": "Warner Music UK\n27 Wrights Lane\nLondon\nW8 5SW\nRoyalty Statement Summary\nCHARLI XCX INC\nC/O LEFTBRAIN\n1301 N BROADWAY\nSTE 32003\nLOS ANGELES, CA\nRe.: 19263  CHARLI XCX\nChargeable Producers/Roys for the period 01/25 - 06/25\n19924\nARIEL RECHTSHAID (CHARLI XCX)\n(749.10)\n20680\nPATRIK BERGER (CHARLI XCX)\n(146.38)\n20720\nRICH COSTEY (CHARLI XCX)\n(125.02)\n20805\nJOAKIM AHLUND (CHARLI XCX)\n(288.80)\n21012\nDAVE BASCOMBE (CHARLI XCX)\n(42.45)\n21018\nNEIL COMBER (CHARLI XCX)\n(279.14)\n21028\nSPIKE STENT (CHARLI XCX)\n(337.96)\n21047\nBLOOD DIAMONDS (CHARLI XCX)\n(8.37)\n21419\nSERBAN GHENEA (CHARLI XCX LP2)\n(139.05)\n21454\nPAUL WHITE (CHARLI XCX)\n(181.24)\n21630\nJEZUS MILLION (CHARLI XCX)\n(169.45)\n21640\nYEASAYER (CHARLI XCX)\n(55.51)\n21687\nPATRIK BERGER (CHARLI XCX LP2)\n(469.17)\n21743\nNAUGHTY BOY (CHARLI XCX LP2)\n(58.75)\n22074\nJARRAD ROGERS (CHARLI XCX LP2)\n(179.06)\n22123\nGREG KURSTIN (CHARLI XCX LP2)\n(108.78)\n22144\nJUSTIN RAISEN (CHARLI XCX)\n(69.65)\n22150\nSTEVE MAC (CHARLI XCX LP2)\n(2,381.83)\n22154\nBENNY BLANCO (CHARLI XCX)\n(104.01)\n22159\nROBERT ORTON (MIXING CHARLI XCX LP2)\n(5,519.88)\n22162\nJOHN HILL (CHARLI XCX LP2)\n(122.94)\n22167\nROSTAM BATMANGLIJ (CHARLI XCX)\n(61.98)\n22169\nUNLEVINED PRODUCTIONS LLC (CASHMERE CAT PROD CHARLI X\n(645.21)\n22188\nARIEL RECHTSHAID (CHARLI XCX LP2)\n(149.21)\n22190\nDAVE SCHIFFMAN (CHARLI XCX LP2)\n(44.04)\n22308\nSPIKE STENT (CHARLI XCX LP2)\n(114.31)\n22357\nNOONIE BAO (CHARLI XCX LP2)\n(110.80)\n22375\nODESZA (CHARLI XCX)\n(9.19)\n22400\nCHRISTIAN OLSSON (CHARLI XCX LP2)\n(17.80)\n22421\nSTARGATE (CHARLI XCX LP2)\n(488.35)\n",
+      "text_blocks": [
+        {
+          "bbox": [
+            12.300000190734863,
+            19.284221649169922,
+            101.18704223632812,
+            29.844221115112305
+          ],
+          "text": "Warner Music UK"
+        },
+        {
+          "bbox": [
+            12.300000190734863,
+            36.28422164916992,
+            95.34737396240234,
+            46.84421920776367
+          ],
+          "text": "27 Wrights Lane"
+        },
+        {
+          "bbox": [
+            12.300000190734863,
+            64.78421783447266,
+            49.72816467285156,
+            75.34422302246094
+          ],
+          "text": "London"
+        },
+        {
+          "bbox": [
+            12.300000190734863,
+            81.78421783447266,
+            56.159202575683594,
+            92.34422302246094
+          ],
+          "text": "W8 5SW"
+        },
+        {
+          "bbox": [
+            12.300000190734863,
+            132.7842254638672,
+            157.24656677246094,
+            143.34422302246094
+          ],
+          "text": "Royalty Statement Summary"
+        },
+        {
+          "bbox": [
+            12.300000190734863,
+            166.44273376464844,
+            100.31100463867188,
+            177.44273376464844
+          ],
+          "text": "CHARLI XCX INC"
+        },
+        {
+          "bbox": [
+            12.300000190734863,
+            183.44273376464844,
+            95.427001953125,
+            194.44273376464844
+          ],
+          "text": "C/O LEFTBRAIN"
+        },
+        {
+          "bbox": [
+            12.300000190734863,
+            200.44273376464844,
+            114.99600219726562,
+            211.44273376464844
+          ],
+          "text": "1301 N BROADWAY"
+        },
+        {
+          "bbox": [
+            12.300000190734863,
+            217.44273376464844,
+            67.3330078125,
+            228.44273376464844
+          ],
+          "text": "STE 32003"
+        },
+        {
+          "bbox": [
+            12.300000190734863,
+            234.44273376464844,
+            110.72798919677734,
+            245.44273376464844
+          ],
+          "text": "LOS ANGELES, CA"
+        },
+        {
+          "bbox": [
+            12.300000190734863,
+            268.4427185058594,
+            138.23899841308594,
+            279.4427185058594
+          ],
+          "text": "Re.: 19263  CHARLI XCX"
+        },
+        {
+          "bbox": [
+            12.300000190734863,
+            302.7842102050781,
+            298.5746154785156,
+            313.3442077636719
+          ],
+          "text": "Chargeable Producers/Roys for the period 01/25 - 06/25"
+        },
+        {
+          "bbox": [
+            28.239999771118164,
+            330.08270263671875,
+            584.340087890625,
+            813.78271484375
+          ],
+          "text": "19924\nARIEL RECHTSHAID (CHARLI XCX)\n(749.10)\n20680\nPATRIK BERGER (CHARLI XCX)\n(146.38)\n20720\nRICH COSTEY (CHARLI XCX)\n(125.02)\n20805\nJOAKIM AHLUND (CHARLI XCX)\n(288.80)\n21012\nDAVE BASCOMBE (CHARLI XCX)\n(42.45)\n21018\nNEIL COMBER (CHARLI XCX)\n(279.14)\n21028\nSPIKE STENT (CHARLI XCX)\n(337.96)\n21047\nBLOOD DIAMONDS (CHARLI XCX)\n(8.37)\n21419\nSERBAN GHENEA (CHARLI XCX LP2)\n(139.05)\n21454\nPAUL WHITE (CHARLI XCX)\n(181.24)\n21630\nJEZUS MILLION (CHARLI XCX)\n(169.45)\n21640\nYEASAYER (CHARLI XCX)\n(55.51)\n21687\nPATRIK BERGER (CHARLI XCX LP2)\n(469.17)\n21743\nNAUGHTY BOY (CHARLI XCX LP2)\n(58.75)\n22074\nJARRAD ROGERS (CHARLI XCX LP2)\n(179.06)\n22123\nGREG KURSTIN (CHARLI XCX LP2)\n(108.78)\n22144\nJUSTIN RAISEN (CHARLI XCX)\n(69.65)\n22150\nSTEVE MAC (CHARLI XCX LP2)\n(2,381.83)\n22154\nBENNY BLANCO (CHARLI XCX)\n(104.01)\n22159\nROBERT ORTON (MIXING CHARLI XCX LP2)\n(5,519.88)\n22162\nJOHN HILL (CHARLI XCX LP2)\n(122.94)\n22167\nROSTAM BATMANGLIJ (CHARLI XCX)\n(61.98)\n22169\nUNLEVINED PRODUCTIONS LLC (CASHMERE CAT PROD CHARLI XC\n(645.21)\n22188\nARIEL RECHTSHAID (CHARLI XCX LP2)\n(149.21)\n22190\nDAVE SCHIFFMAN (CHARLI XCX LP2)\n(44.04)\n22308\nSPIKE STENT (CHARLI XCX LP2)\n(114.31)\n22357\nNOONIE BAO (CHARLI XCX LP2)\n(110.80)\n22375\nODESZA (CHARLI XCX)\n(9.19)\n22400\nCHRISTIAN OLSSON (CHARLI XCX LP2)\n(17.80)\n22421\nSTARGATE (CHARLI XCX LP2)\n(488.35)"
+        }
+      ],
+      "tables": [
+        {
+          "table_index": 0,
+          "bbox": [
+            7.199999809265137,
+            14.1800537109375,
+            585.719970703125,
+            815.02001953125
+          ],
+          "headers": [
+            "Warner Music UK",
+            null,
+            null,
+            "",
+            null
+          ],
+          "rows": [
+            [
+              "27 Wrights Lane",
+              null,
+              null,
+              null,
+              null
+            ],
+            [
+              "London",
+              null,
+              null,
+              null,
+              null
+            ],
+            [
+              "W8 5SW",
+              null,
+              null,
+              "",
+              null
+            ],
+            [
+              "",
+              null,
+              null,
+              "",
+              null
+            ],
+            [
+              "",
+              null,
+              null,
+              "",
+              null
+            ],
+            [
+              "Royalty Statement Summary",
+              null,
+              null,
+              "",
+              null
+            ],
+            [
+              "",
+              null,
+              null,
+              "",
+              null
+            ],
+            [
+              "CHARLI XCX INC",
+              null,
+              null,
+              "",
+              null
+            ],
+            [
+              "C/O LEFTBRAIN",
+              null,
+              null,
+              "",
+              null
+            ],
+            [
+              "1301 N BROADWAY",
+              null,
+              null,
+              "",
+              null
+            ],
+            [
+              "STE 32003",
+              null,
+              null,
+              "",
+              null
+            ],
+            [
+              "LOS ANGELES, CA",
+              null,
+              null,
+              "",
+              null
+            ],
+            [
+              "",
+              null,
+              null,
+              "",
+              null
+            ],
+            [
+              "Re.: 19263 CHARLI XCX",
+              null,
+              null,
+              "",
+              null
+            ],
+            [
+              "",
+              null,
+              null,
+              "",
+              null
+            ],
+            [
+              "Chargeable Producers/Roys for the period 01/25 - 06/25",
+              null,
+              null,
+              "",
+              null
+            ],
+            [
+              "",
+              null,
+              null,
+              "",
+              null
+            ],
+            [
+              "19924",
+              "ARIEL RECHTSHAID (CHARLI XCX)",
+              "",
+              null,
+              "(749.10)"
+            ],
+            [
+              "20680",
+              "PATRIK BERGER (CHARLI XCX)",
+              "",
+              null,
+              "(146.38)"
+            ],
+            [
+              "20720",
+              "RICH COSTEY (CHARLI XCX)",
+              "",
+              null,
+              "(125.02)"
+            ],
+            [
+              "20805",
+              "JOAKIM AHLUND (CHARLI XCX)",
+              "",
+              null,
+              "(288.80)"
+            ],
+            [
+              "21012",
+              "DAVE BASCOMBE (CHARLI XCX)",
+              "",
+              null,
+              "(42.45)"
+            ],
+            [
+              "21018",
+              "NEIL COMBER (CHARLI XCX)",
+              "",
+              null,
+              "(279.14)"
+            ],
+            [
+              "21028",
+              "SPIKE STENT (CHARLI XCX)",
+              "",
+              null,
+              "(337.96)"
+            ],
+            [
+              "21047",
+              "BLOOD DIAMONDS (CHARLI XCX)",
+              "",
+              null,
+              "(8.37)"
+            ],
+            [
+              "21419",
+              "SERBAN GHENEA (CHARLI XCX LP2)",
+              "",
+              null,
+              "(139.05)"
+            ],
+            [
+              "21454",
+              "PAUL WHITE (CHARLI XCX)",
+              "",
+              null,
+              "(181.24)"
+            ],
+            [
+              "21630",
+              "JEZUS MILLION (CHARLI XCX)",
+              "",
+              null,
+              "(169.45)"
+            ],
+            [
+              "21640",
+              "YEASAYER (CHARLI XCX)",
+              "",
+              null,
+              "(55.51)"
+            ],
+            [
+              "21687",
+              "PATRIK BERGER (CHARLI XCX LP2)",
+              "",
+              null,
+              "(469.17)"
+            ],
+            [
+              "21743",
+              "NAUGHTY BOY (CHARLI XCX LP2)",
+              "",
+              null,
+              "(58.75)"
+            ],
+            [
+              "22074",
+              "JARRAD ROGERS (CHARLI XCX LP2)",
+              "",
+              null,
+              "(179.06)"
+            ],
+            [
+              "22123",
+              "GREG KURSTIN (CHARLI XCX LP2)",
+              "",
+              null,
+              "(108.78)"
+            ],
+            [
+              "22144",
+              "JUSTIN RAISEN (CHARLI XCX)",
+              "",
+              null,
+              "(69.65)"
+            ],
+            [
+              "22150",
+              "STEVE MAC (CHARLI XCX LP2)",
+              "",
+              null,
+              "(2,381.83)"
+            ],
+            [
+              "22154",
+              "BENNY BLANCO (CHARLI XCX)",
+              "",
+              null,
+              "(104.01)"
+            ],
+            [
+              "22159",
+              "ROBERT ORTON (MIXING CHARLI XCX LP2)",
+              "",
+              null,
+              "(5,519.88)"
+            ],
+            [
+              "22162",
+              "JOHN HILL (CHARLI XCX LP2)",
+              "",
+              null,
+              "(122.94)"
+            ],
+            [
+              "22167",
+              "ROSTAM BATMANGLIJ (CHARLI XCX)",
+              "",
+              null,
+              "(61.98)"
+            ],
+            [
+              "22169",
+              "UNLEVINED PRODUCTIONS LLC (CASHMERE CAT PROD CHARLI",
+              "X",
+              null,
+              "(645.21)"
+            ],
+            [
+              "22188",
+              "ARIEL RECHTSHAID (CHARLI XCX LP2)",
+              "",
+              null,
+              "(149.21)"
+            ],
+            [
+              "22190",
+              "DAVE SCHIFFMAN (CHARLI XCX LP2)",
+              "",
+              null,
+              "(44.04)"
+            ],
+            [
+              "22308",
+              "SPIKE STENT (CHARLI XCX LP2)",
+              "",
+              null,
+              "(114.31)"
+            ],
+            [
+              "22357",
+              "NOONIE BAO (CHARLI XCX LP2)",
+              "",
+              null,
+              "(110.80)"
+            ],
+            [
+              "22375",
+              "ODESZA (CHARLI XCX)",
+              "",
+              null,
+              "(9.19)"
+            ],
+            [
+              "22400",
+              "CHRISTIAN OLSSON (CHARLI XCX LP2)",
+              "",
+              null,
+              "(17.80)"
+            ],
+            [
+              "22421",
+              "STARGATE (CHARLI XCX LP2)",
+              "",
+              null,
+              "(488.35)"
+            ]
+          ],
+          "row_count": 47
+        }
+      ],
+      "statement_info": {},
+      "char_count": 1535,
+      "has_tables": true
+    },
+    {
+      "page_number": 4,
+      "text": "22467\nYOUNG & SICK (NICK VAN HOFWEGEN)(CHARLI XCX LP2)\n(6.70)\n22615\nSTEFAN GRASLUND (CHARLI XCX)\n(2,362.24)\n22717\nMARKUS KRUNEGARD (CHARLI XCX LP2)\n(51.13)\n22732\nPATRIK BERGER (CHARLI XCX LP2 BOOM CLAP)\n(9,447.51)\n22935\nSTARGATE & CASHMERE CAT (CHARLI XCX)\n(247.33)\n23065\nSOPHIE (CHARLI XCX LP3)\n(2,065.22)\n23076\nGREG KURSTIN (CHARLI XCX - EXPLODE)\n(42.16)\n23124\nJODIE HARSH (CHARLI XCX LP3)\n(41.51)\n23150\nHANNAH DIAMOND (CHARLI XCX LP3)\n(9.89)\n23255\nROB ORTON (CHARLI XCX LP3)\n(631.98)\n23287\nA.G. COOK PRODUCING CHARLI XCX N1A\n(18,992.32)\n23565\nLIL YACHTY (FEAT CHARLI XCX)\n(12,226.40)\n23602\nGEOFF SWAN (CHARLI XCX LP3)\n(4,198.69)\n23678\nEASYFUN (CHARLI XCX)\n(3,833.18)\n23761\nCASS LOWE (PROD CHARLI XCX)\n(4,166.06)\n23863\nPATRIK BERGER (CHARLI XCX LP3)\n(460.24)\n23866\nDANNY HARLE (CHARLI XCX LP3)\n(2,984.90)\n23962\nABRA (FEAT. CHARLI XCX LP3)\n(1,224.16)\n23970\nJERKER HANSSON (PROD CHARLI XCX)\n(4,997.87)\n23974\nSPIKE STENT (MIXING CHARLI XCX)\n(20,393.50)\n24151\nGEOFF SWAN (CHARLI XCX LP3)\n(58.94)\n24260\nERIK MADRID (MIX CHARLI XCX LP3)\n(46.32)\n24360\nJACK & COKE (PROD CHARLI XCX LP3)\n(114.26)\n24368\nCARLY RAE JEPSEN (FEAT. CHARLI XCX LP3)\n(257.61)\n24369\nÖ (PROD CHARLI XCX LP3)\n(586.32)\n24373\nMYKKI BLANCO (FEAT. CHARLI XCX LP3)\n(169.51)\n24374\nDAVID GAMSON (PROD CHARLI XCX LP3)\n(84.76)\n24375\nDORIAN ELECTRA (FEAT. CHARLI XCX LP3)\n(127.13)\n24376\nCUPCAKKE (FEAT. CHARLI XCX LP3)\n(166.43)\n24377\nBROOKE CANDY (FEAT. CHARLI XCX LP3)\n(166.43)\n24378\nUMRU (PROD CHARLI XCX N1A)\n(83.44)\n24379\nCAROLINE POLACHEK (FEAT. CHARLI XCX LP3)\n(167.58)\n24380\nMO (FEAT. CHARLI XCX LP3)\n(170.89)\n24393\nA.G COOK (PROD. CHARLI XCX POP2)\n(5,942.35)\n24394\nGEOFF SWAN (MIX. CHARLI XCX LP3 P2)\n(2,169.60)\n24395\nSOPHIE (PROD. CHARLI XCX LP3 P2)\n(224.90)\n24396\nTOVE LO (FEAT. CHARLI XCX LP3 P2)\n(264.37)\n24397\nALMA  (CHARLI XCX LP3)\n(243.22)\n24398\nPABLLO VITTAR (PROD. CHARLI XCX LP3 P2)\n(757.93)\n24399\nTOMMY CASH (FEAT. CHARLI XCX LP3 P2)\n(199.13)\n24400\nLIFE SIM (PROD. CHARLI XCX LP3 P2)\n(4,422.24)\n24401\nKING HENRY (PROD. CHARLI XCX LP3 P2)\n(170.89)\n24402\nLIL DATA (PROD. CHARLI XCX LP3)\n(801.47)\n24403\nSTARGATE (PROD. CHARLI XCX LP3 P2)\n(3,120.08)\n24404\nJAY PARK (FEAT. CHARLI XCX LP3 P2)\n(2,817.31)\n24405\nKIM PETRAS (FEAT. CHARLI XCX LP3 P2)\n(2,817.31)\n24406\nINVISIBLE MEN (PROD. CHARLI XCX LP3)\n(259.76)\n24445\nYAEJI (FEAT. CHARLI LP4)\n(46.14)\n24538\nOSCAR HOLTER (PROD CHARLI XCX LP3)\n(3,973.88)\n",
+      "text_blocks": [
+        {
+          "bbox": [
+            28.239999771118164,
+            18.24271583557129,
+            584.340087890625,
+            811.6427612304688
+          ],
+          "text": "22467\nYOUNG & SICK (NICK VAN HOFWEGEN)(CHARLI XCX LP2)\n(6.70)\n22615\nSTEFAN GRASLUND (CHARLI XCX)\n(2,362.24)\n22717\nMARKUS KRUNEGARD (CHARLI XCX LP2)\n(51.13)\n22732\nPATRIK BERGER (CHARLI XCX LP2 BOOM CLAP)\n(9,447.51)\n22935\nSTARGATE & CASHMERE CAT (CHARLI XCX)\n(247.33)\n23065\nSOPHIE (CHARLI XCX LP3)\n(2,065.22)\n23076\nGREG KURSTIN (CHARLI XCX - EXPLODE)\n(42.16)\n23124\nJODIE HARSH (CHARLI XCX LP3)\n(41.51)\n23150\nHANNAH DIAMOND (CHARLI XCX LP3)\n(9.89)\n23255\nROB ORTON (CHARLI XCX LP3)\n(631.98)\n23287\nA.G. COOK PRODUCING CHARLI XCX N1A\n(18,992.32)\n23565\nLIL YACHTY (FEAT CHARLI XCX)\n(12,226.40)\n23602\nGEOFF SWAN (CHARLI XCX LP3)\n(4,198.69)\n23678\nEASYFUN (CHARLI XCX)\n(3,833.18)\n23761\nCASS LOWE (PROD CHARLI XCX)\n(4,166.06)\n23863\nPATRIK BERGER (CHARLI XCX LP3)\n(460.24)\n23866\nDANNY HARLE (CHARLI XCX LP3)\n(2,984.90)\n23962\nABRA (FEAT. CHARLI XCX LP3)\n(1,224.16)\n23970\nJERKER HANSSON (PROD CHARLI XCX)\n(4,997.87)\n23974\nSPIKE STENT (MIXING CHARLI XCX)\n(20,393.50)\n24151\nGEOFF SWAN (CHARLI XCX LP3)\n(58.94)\n24260\nERIK MADRID (MIX CHARLI XCX LP3)\n(46.32)\n24360\nJACK & COKE (PROD CHARLI XCX LP3)\n(114.26)\n24368\nCARLY RAE JEPSEN (FEAT. CHARLI XCX LP3)\n(257.61)\n24369\nÖ (PROD CHARLI XCX LP3)\n(586.32)\n24373\nMYKKI BLANCO (FEAT. CHARLI XCX LP3)\n(169.51)\n24374\nDAVID GAMSON (PROD CHARLI XCX LP3)\n(84.76)\n24375\nDORIAN ELECTRA (FEAT. CHARLI XCX LP3)\n(127.13)\n24376\nCUPCAKKE (FEAT. CHARLI XCX LP3)\n(166.43)\n24377\nBROOKE CANDY (FEAT. CHARLI XCX LP3)\n(166.43)\n24378\nUMRU (PROD CHARLI XCX N1A)\n(83.44)\n24379\nCAROLINE POLACHEK (FEAT. CHARLI XCX LP3)\n(167.58)\n24380\nMO (FEAT. CHARLI XCX LP3)\n(170.89)\n24393\nA.G COOK (PROD. CHARLI XCX POP2)\n(5,942.35)\n24394\nGEOFF SWAN (MIX. CHARLI XCX LP3 P2)\n(2,169.60)\n24395\nSOPHIE (PROD. CHARLI XCX LP3 P2)\n(224.90)\n24396\nTOVE LO (FEAT. CHARLI XCX LP3 P2)\n(264.37)\n24397\nALMA  (CHARLI XCX LP3)\n(243.22)\n24398\nPABLLO VITTAR (PROD. CHARLI XCX LP3 P2)\n(757.93)\n24399\nTOMMY CASH (FEAT. CHARLI XCX LP3 P2)\n(199.13)\n24400\nLIFE SIM (PROD. CHARLI XCX LP3 P2)\n(4,422.24)\n24401\nKING HENRY (PROD. CHARLI XCX LP3 P2)\n(170.89)\n24402\nLIL DATA (PROD. CHARLI XCX LP3)\n(801.47)\n24403\nSTARGATE (PROD. CHARLI XCX LP3 P2)\n(3,120.08)\n24404\nJAY PARK (FEAT. CHARLI XCX LP3 P2)\n(2,817.31)\n24405\nKIM PETRAS (FEAT. CHARLI XCX LP3 P2)\n(2,817.31)\n24406\nINVISIBLE MEN (PROD. CHARLI XCX LP3)\n(259.76)\n24445\nYAEJI (FEAT. CHARLI LP4)\n(46.14)\n24538\nOSCAR HOLTER (PROD CHARLI XCX LP3)\n(3,973.88)"
+        }
+      ],
+      "tables": [
+        {
+          "table_index": 0,
+          "bbox": [
+            7.199999809265137,
+            14.1800537109375,
+            585.719970703125,
+            812.8800048828125
+          ],
+          "headers": [
+            "22467",
+            "YOUNG & SICK (NICK VAN HOFWEGEN)(CHARLI XCX LP2)",
+            "",
+            "(6.70)"
+          ],
+          "rows": [
+            [
+              "22615",
+              "STEFAN GRASLUND (CHARLI XCX)",
+              "",
+              "(2,362.24)"
+            ],
+            [
+              "22717",
+              "MARKUS KRUNEGARD (CHARLI XCX LP2)",
+              "",
+              "(51.13)"
+            ],
+            [
+              "22732",
+              "PATRIK BERGER (CHARLI XCX LP2 BOOM CLAP)",
+              "",
+              "(9,447.51)"
+            ],
+            [
+              "22935",
+              "STARGATE & CASHMERE CAT (CHARLI XCX)",
+              "",
+              "(247.33)"
+            ],
+            [
+              "23065",
+              "SOPHIE (CHARLI XCX LP3)",
+              "",
+              "(2,065.22)"
+            ],
+            [
+              "23076",
+              "GREG KURSTIN (CHARLI XCX - EXPLODE)",
+              "",
+              "(42.16)"
+            ],
+            [
+              "23124",
+              "JODIE HARSH (CHARLI XCX LP3)",
+              "",
+              "(41.51)"
+            ],
+            [
+              "23150",
+              "HANNAH DIAMOND (CHARLI XCX LP3)",
+              "",
+              "(9.89)"
+            ],
+            [
+              "23255",
+              "ROB ORTON (CHARLI XCX LP3)",
+              "",
+              "(631.98)"
+            ],
+            [
+              "23287",
+              "A.G. COOK PRODUCING CHARLI XCX N1A",
+              "",
+              "(18,992.32)"
+            ],
+            [
+              "23565",
+              "LIL YACHTY (FEAT CHARLI XCX)",
+              "",
+              "(12,226.40)"
+            ],
+            [
+              "23602",
+              "GEOFF SWAN (CHARLI XCX LP3)",
+              "",
+              "(4,198.69)"
+            ],
+            [
+              "23678",
+              "EASYFUN (CHARLI XCX)",
+              "",
+              "(3,833.18)"
+            ],
+            [
+              "23761",
+              "CASS LOWE (PROD CHARLI XCX)",
+              "",
+              "(4,166.06)"
+            ],
+            [
+              "23863",
+              "PATRIK BERGER (CHARLI XCX LP3)",
+              "",
+              "(460.24)"
+            ],
+            [
+              "23866",
+              "DANNY HARLE (CHARLI XCX LP3)",
+              "",
+              "(2,984.90)"
+            ],
+            [
+              "23962",
+              "ABRA (FEAT. CHARLI XCX LP3)",
+              "",
+              "(1,224.16)"
+            ],
+            [
+              "23970",
+              "JERKER HANSSON (PROD CHARLI XCX)",
+              "",
+              "(4,997.87)"
+            ],
+            [
+              "23974",
+              "SPIKE STENT (MIXING CHARLI XCX)",
+              "",
+              "(20,393.50)"
+            ],
+            [
+              "24151",
+              "GEOFF SWAN (CHARLI XCX LP3)",
+              "",
+              "(58.94)"
+            ],
+            [
+              "24260",
+              "ERIK MADRID (MIX CHARLI XCX LP3)",
+              "",
+              "(46.32)"
+            ],
+            [
+              "24360",
+              "JACK & COKE (PROD CHARLI XCX LP3)",
+              "",
+              "(114.26)"
+            ],
+            [
+              "24368",
+              "CARLY RAE JEPSEN (FEAT. CHARLI XCX LP3)",
+              "",
+              "(257.61)"
+            ],
+            [
+              "24369",
+              "Ö (PROD CHARLI XCX LP3)",
+              "",
+              "(586.32)"
+            ],
+            [
+              "24373",
+              "MYKKI BLANCO (FEAT. CHARLI XCX LP3)",
+              "",
+              "(169.51)"
+            ],
+            [
+              "24374",
+              "DAVID GAMSON (PROD CHARLI XCX LP3)",
+              "",
+              "(84.76)"
+            ],
+            [
+              "24375",
+              "DORIAN ELECTRA (FEAT. CHARLI XCX LP3)",
+              "",
+              "(127.13)"
+            ],
+            [
+              "24376",
+              "CUPCAKKE (FEAT. CHARLI XCX LP3)",
+              "",
+              "(166.43)"
+            ],
+            [
+              "24377",
+              "BROOKE CANDY (FEAT. CHARLI XCX LP3)",
+              "",
+              "(166.43)"
+            ],
+            [
+              "24378",
+              "UMRU (PROD CHARLI XCX N1A)",
+              "",
+              "(83.44)"
+            ],
+            [
+              "24379",
+              "CAROLINE POLACHEK (FEAT. CHARLI XCX LP3)",
+              "",
+              "(167.58)"
+            ],
+            [
+              "24380",
+              "MO (FEAT. CHARLI XCX LP3)",
+              "",
+              "(170.89)"
+            ],
+            [
+              "24393",
+              "A.G COOK (PROD. CHARLI XCX POP2)",
+              "",
+              "(5,942.35)"
+            ],
+            [
+              "24394",
+              "GEOFF SWAN (MIX. CHARLI XCX LP3 P2)",
+              "",
+              "(2,169.60)"
+            ],
+            [
+              "24395",
+              "SOPHIE (PROD. CHARLI XCX LP3 P2)",
+              "",
+              "(224.90)"
+            ],
+            [
+              "24396",
+              "TOVE LO (FEAT. CHARLI XCX LP3 P2)",
+              "",
+              "(264.37)"
+            ],
+            [
+              "24397",
+              "ALMA (CHARLI XCX LP3)",
+              "",
+              "(243.22)"
+            ],
+            [
+              "24398",
+              "PABLLO VITTAR (PROD. CHARLI XCX LP3 P2)",
+              "",
+              "(757.93)"
+            ],
+            [
+              "24399",
+              "TOMMY CASH (FEAT. CHARLI XCX LP3 P2)",
+              "",
+              "(199.13)"
+            ],
+            [
+              "24400",
+              "LIFE SIM (PROD. CHARLI XCX LP3 P2)",
+              "",
+              "(4,422.24)"
+            ],
+            [
+              "24401",
+              "KING HENRY (PROD. CHARLI XCX LP3 P2)",
+              "",
+              "(170.89)"
+            ],
+            [
+              "24402",
+              "LIL DATA (PROD. CHARLI XCX LP3)",
+              "",
+              "(801.47)"
+            ],
+            [
+              "24403",
+              "STARGATE (PROD. CHARLI XCX LP3 P2)",
+              "",
+              "(3,120.08)"
+            ],
+            [
+              "24404",
+              "JAY PARK (FEAT. CHARLI XCX LP3 P2)",
+              "",
+              "(2,817.31)"
+            ],
+            [
+              "24405",
+              "KIM PETRAS (FEAT. CHARLI XCX LP3 P2)",
+              "",
+              "(2,817.31)"
+            ],
+            [
+              "24406",
+              "INVISIBLE MEN (PROD. CHARLI XCX LP3)",
+              "",
+              "(259.76)"
+            ],
+            [
+              "24445",
+              "YAEJI (FEAT. CHARLI LP4)",
+              "",
+              "(46.14)"
+            ],
+            [
+              "24538",
+              "OSCAR HOLTER (PROD CHARLI XCX LP3)",
+              "",
+              "(3,973.88)"
+            ]
+          ],
+          "row_count": 48
+        }
+      ],
+      "statement_info": {},
+      "char_count": 2370,
+      "has_tables": true
+    },
+    {
+      "page_number": 5,
+      "text": "24660\nSERBAN GHENEA (MIX CHARLI XCX LP3)\n(1,109.07)\n24662\nTROYE SIVAN (FEAT. CHARLI XCX LP3)\n(6,211.68)\n24766\nSEEB (REMIX CHARLI LP4 - CHARLI)\n(1.54)\n24814\nKID JOKI (REMIX - CHARLI LP3 - CHARLI)\n(2.28)\n24834\nPLANET 1999 (PROD CHARLI LP4)\n(69.35)\n24853\nLOTUS IV (PROD CHARLI LP4)\n(327.39)\n24885\nHAPPY PEREZ (PROD CHARLI LP4)\n(149.47)\n24886\nANDREW WATT (PROD CHARLI LP4)\n(147.31)\n24892\nDYLAN BRADY (PROD CHARLI LP3)\n(72.09)\n25016\nLIZZO (FEAT. CHARLI XCX)\n(587.83)\n25018\nEASYFUN (PROD CHARLI XCX)\n(7,715.81)\n25089\nSKY FERREIRA (FEAT. CHARLI LP3)\n(171.19)\n25313\nGEOFF SWAN (MIX CHARLI LP4)\n(3,694.96)\n25315\nUMRU (PROD CHARLI LP4)\n(70.78)\n25318\nCLAIRO (FEAT. CHARLI LP3)\n(138.36)\n25320\nHAIM (FEAT. CHARLI LP4)\n(42.76)\n25322\nBASECK (ADD PROD CHARLI OP3)\n(104.62)\n25333\nCHRISTINE AND THE QUEENS (CHARLI XCX)\n(601.28)\n25471\nBJ BURTON (PROD CHARLI XCX LP4)\n(5,294.62)\n25500\nBENJAMIN KEATING (PROD CHARLI XCX LP4)\n(277.12)\n25515\nDIJON (PROD CHARLI XCX LP4)\n(341.92)\n25523\nDANNY L HARLE (PROD CHARLI XCX LP4)\n(375.35)\n25967\nOSCAR HOLTER (PROD CHARLI XCX GOOD ONES)\n(7,191.03)\n26067\nDOPAMINE (PROD CHARLI XCX - EXCL VINYL)\n(31.15)\n26084\nIAN KIRKPATRICK (PROD CHARLI XCX MOVE ME)\n(321.01)\n26093\nA.G. COOK (CHARLI XCX LP3)\n(7,536.10)\n26139\nSERBAN GHENEA (MIX CHARLI XCX)\n(1,291.50)\n26251\nJUSTIN RAISEN (PROD CHARLI XCX BABY)\n(383.63)\n26378\nKEVIN GRAINGER (MIXING CHARLI XCX BEG FOR YOU)\n(772.65)\n26380\nDEATON CHRIS ANTHONY (CHARLI XCX)\n(228.08)\n26381\n604 RECORDS - CARLY RAE JEPSON (CHARLI XCX)\n(181.24)\n26382\nGEOFF SWAN (MIXING CHARLI XCX LP5)\n(1,133.54)\n26385\nARIEL RECHTSHAID (PROD CHARLI XCX CRASH)\n(677.84)\n26392\nDFA (PROD CHARLI XCX)\n(3,477.10)\n26400\nALEX SOIFER (PROD CHARLI XCX CRASH)\n(386.35)\n26430\nMIKE WISE (PROD CHARLI XCX)\n(1,175.54)\n26431\nJASON EVIGAN (PROD CHARLI XCX)\n(159.90)\n26527\nRINA SAWAYAMA (FEAT CHARLI XCX BEG FOR YOU)\n(3,090.87)\n26546\nGEORGE DANIEL (CO-PROD CHARLI XCX CRASH)\n(499.24)\n26643\nLOTUS IV (PROD CHARLI XCX CRASH)\n(2,119.34)\n26660\nOLI JACOBS (MIX CHARLI XCX)\n(30.61)\n26767\nJEREMIAH RAISEN PKA SADPONY (PROD CHARLI XCX BABY)\n(383.63)\n26805\nDOPAMINE (PROD CHARLI XCX - VINYL ONLY)\n(170.94)\n26833\nKEVIN GRAINGER (MIX CHARLI XCX USED TO KNOW ME)\n(260.59)\n27074\nA.G. COOK (CO-PROD CHARLI XCX CRASH)\n(540.27)\n27097\nCHRISTINE  AND THE QUEENS (CHARLI XCX)\n(4,447.22)\n27343\nA.G. COOK (PROD CHARLI XCX HOW I'M FEELING NOW)\n(12,139.52)\n27390\nJOHN HILL (CHARLI XCX)\n(6,350.87)\n27533\nUMRU (CHARLI XCX)\n(48.18)\n",
+      "text_blocks": [
+        {
+          "bbox": [
+            28.239999771118164,
+            18.24271583557129,
+            584.340087890625,
+            811.6427612304688
+          ],
+          "text": "24660\nSERBAN GHENEA (MIX CHARLI XCX LP3)\n(1,109.07)\n24662\nTROYE SIVAN (FEAT. CHARLI XCX LP3)\n(6,211.68)\n24766\nSEEB (REMIX CHARLI LP4 - CHARLI)\n(1.54)\n24814\nKID JOKI (REMIX - CHARLI LP3 - CHARLI)\n(2.28)\n24834\nPLANET 1999 (PROD CHARLI LP4)\n(69.35)\n24853\nLOTUS IV (PROD CHARLI LP4)\n(327.39)\n24885\nHAPPY PEREZ (PROD CHARLI LP4)\n(149.47)\n24886\nANDREW WATT (PROD CHARLI LP4)\n(147.31)\n24892\nDYLAN BRADY (PROD CHARLI LP3)\n(72.09)\n25016\nLIZZO (FEAT. CHARLI XCX)\n(587.83)\n25018\nEASYFUN (PROD CHARLI XCX)\n(7,715.81)\n25089\nSKY FERREIRA (FEAT. CHARLI LP3)\n(171.19)\n25313\nGEOFF SWAN (MIX CHARLI LP4)\n(3,694.96)\n25315\nUMRU (PROD CHARLI LP4)\n(70.78)\n25318\nCLAIRO (FEAT. CHARLI LP3)\n(138.36)\n25320\nHAIM (FEAT. CHARLI LP4)\n(42.76)\n25322\nBASECK (ADD PROD CHARLI OP3)\n(104.62)\n25333\nCHRISTINE AND THE QUEENS (CHARLI XCX)\n(601.28)\n25471\nBJ BURTON (PROD CHARLI XCX LP4)\n(5,294.62)\n25500\nBENJAMIN KEATING (PROD CHARLI XCX LP4)\n(277.12)\n25515\nDIJON (PROD CHARLI XCX LP4)\n(341.92)\n25523\nDANNY L HARLE (PROD CHARLI XCX LP4)\n(375.35)\n25967\nOSCAR HOLTER (PROD CHARLI XCX GOOD ONES)\n(7,191.03)\n26067\nDOPAMINE (PROD CHARLI XCX - EXCL VINYL)\n(31.15)\n26084\nIAN KIRKPATRICK (PROD CHARLI XCX MOVE ME)\n(321.01)\n26093\nA.G. COOK (CHARLI XCX LP3)\n(7,536.10)\n26139\nSERBAN GHENEA (MIX CHARLI XCX)\n(1,291.50)\n26251\nJUSTIN RAISEN (PROD CHARLI XCX BABY)\n(383.63)\n26378\nKEVIN GRAINGER (MIXING CHARLI XCX BEG FOR YOU)\n(772.65)\n26380\nDEATON CHRIS ANTHONY (CHARLI XCX)\n(228.08)\n26381\n604 RECORDS - CARLY RAE JEPSON (CHARLI XCX)\n(181.24)\n26382\nGEOFF SWAN (MIXING CHARLI XCX LP5)\n(1,133.54)\n26385\nARIEL RECHTSHAID (PROD CHARLI XCX CRASH)\n(677.84)\n26392\nDFA (PROD CHARLI XCX)\n(3,477.10)\n26400\nALEX SOIFER (PROD CHARLI XCX CRASH)\n(386.35)\n26430\nMIKE WISE (PROD CHARLI XCX)\n(1,175.54)\n26431\nJASON EVIGAN (PROD CHARLI XCX)\n(159.90)\n26527\nRINA SAWAYAMA (FEAT CHARLI XCX BEG FOR YOU)\n(3,090.87)\n26546\nGEORGE DANIEL (CO-PROD CHARLI XCX CRASH)\n(499.24)\n26643\nLOTUS IV (PROD CHARLI XCX CRASH)\n(2,119.34)\n26660\nOLI JACOBS (MIX CHARLI XCX)\n(30.61)\n26767\nJEREMIAH RAISEN PKA SADPONY (PROD CHARLI XCX BABY)\n(383.63)\n26805\nDOPAMINE (PROD CHARLI XCX - VINYL ONLY)\n(170.94)\n26833\nKEVIN GRAINGER (MIX CHARLI XCX USED TO KNOW ME)\n(260.59)\n27074\nA.G. COOK (CO-PROD CHARLI XCX CRASH)\n(540.27)\n27097\nCHRISTINE  AND THE QUEENS (CHARLI XCX)\n(4,447.22)\n27343\nA.G. COOK (PROD CHARLI XCX HOW I'M FEELING NOW)\n(12,139.52)\n27390\nJOHN HILL (CHARLI XCX)\n(6,350.87)\n27533\nUMRU (CHARLI XCX)\n(48.18)"
+        }
+      ],
+      "tables": [
+        {
+          "table_index": 0,
+          "bbox": [
+            7.199999809265137,
+            14.1800537109375,
+            585.719970703125,
+            812.8800048828125
+          ],
+          "headers": [
+            "24660",
+            "SERBAN GHENEA (MIX CHARLI XCX LP3)",
+            "",
+            "(1,109.07)"
+          ],
+          "rows": [
+            [
+              "24662",
+              "TROYE SIVAN (FEAT. CHARLI XCX LP3)",
+              "",
+              "(6,211.68)"
+            ],
+            [
+              "24766",
+              "SEEB (REMIX CHARLI LP4 - CHARLI)",
+              "",
+              "(1.54)"
+            ],
+            [
+              "24814",
+              "KID JOKI (REMIX - CHARLI LP3 - CHARLI)",
+              "",
+              "(2.28)"
+            ],
+            [
+              "24834",
+              "PLANET 1999 (PROD CHARLI LP4)",
+              "",
+              "(69.35)"
+            ],
+            [
+              "24853",
+              "LOTUS IV (PROD CHARLI LP4)",
+              "",
+              "(327.39)"
+            ],
+            [
+              "24885",
+              "HAPPY PEREZ (PROD CHARLI LP4)",
+              "",
+              "(149.47)"
+            ],
+            [
+              "24886",
+              "ANDREW WATT (PROD CHARLI LP4)",
+              "",
+              "(147.31)"
+            ],
+            [
+              "24892",
+              "DYLAN BRADY (PROD CHARLI LP3)",
+              "",
+              "(72.09)"
+            ],
+            [
+              "25016",
+              "LIZZO (FEAT. CHARLI XCX)",
+              "",
+              "(587.83)"
+            ],
+            [
+              "25018",
+              "EASYFUN (PROD CHARLI XCX)",
+              "",
+              "(7,715.81)"
+            ],
+            [
+              "25089",
+              "SKY FERREIRA (FEAT. CHARLI LP3)",
+              "",
+              "(171.19)"
+            ],
+            [
+              "25313",
+              "GEOFF SWAN (MIX CHARLI LP4)",
+              "",
+              "(3,694.96)"
+            ],
+            [
+              "25315",
+              "UMRU (PROD CHARLI LP4)",
+              "",
+              "(70.78)"
+            ],
+            [
+              "25318",
+              "CLAIRO (FEAT. CHARLI LP3)",
+              "",
+              "(138.36)"
+            ],
+            [
+              "25320",
+              "HAIM (FEAT. CHARLI LP4)",
+              "",
+              "(42.76)"
+            ],
+            [
+              "25322",
+              "BASECK (ADD PROD CHARLI OP3)",
+              "",
+              "(104.62)"
+            ],
+            [
+              "25333",
+              "CHRISTINE AND THE QUEENS (CHARLI XCX)",
+              "",
+              "(601.28)"
+            ],
+            [
+              "25471",
+              "BJ BURTON (PROD CHARLI XCX LP4)",
+              "",
+              "(5,294.62)"
+            ],
+            [
+              "25500",
+              "BENJAMIN KEATING (PROD CHARLI XCX LP4)",
+              "",
+              "(277.12)"
+            ],
+            [
+              "25515",
+              "DIJON (PROD CHARLI XCX LP4)",
+              "",
+              "(341.92)"
+            ],
+            [
+              "25523",
+              "DANNY L HARLE (PROD CHARLI XCX LP4)",
+              "",
+              "(375.35)"
+            ],
+            [
+              "25967",
+              "OSCAR HOLTER (PROD CHARLI XCX GOOD ONES)",
+              "",
+              "(7,191.03)"
+            ],
+            [
+              "26067",
+              "DOPAMINE (PROD CHARLI XCX - EXCL VINYL)",
+              "",
+              "(31.15)"
+            ],
+            [
+              "26084",
+              "IAN KIRKPATRICK (PROD CHARLI XCX MOVE ME)",
+              "",
+              "(321.01)"
+            ],
+            [
+              "26093",
+              "A.G. COOK (CHARLI XCX LP3)",
+              "",
+              "(7,536.10)"
+            ],
+            [
+              "26139",
+              "SERBAN GHENEA (MIX CHARLI XCX)",
+              "",
+              "(1,291.50)"
+            ],
+            [
+              "26251",
+              "JUSTIN RAISEN (PROD CHARLI XCX BABY)",
+              "",
+              "(383.63)"
+            ],
+            [
+              "26378",
+              "KEVIN GRAINGER (MIXING CHARLI XCX BEG FOR YOU)",
+              "",
+              "(772.65)"
+            ],
+            [
+              "26380",
+              "DEATON CHRIS ANTHONY (CHARLI XCX)",
+              "",
+              "(228.08)"
+            ],
+            [
+              "26381",
+              "604 RECORDS - CARLY RAE JEPSON (CHARLI XCX)",
+              "",
+              "(181.24)"
+            ],
+            [
+              "26382",
+              "GEOFF SWAN (MIXING CHARLI XCX LP5)",
+              "",
+              "(1,133.54)"
+            ],
+            [
+              "26385",
+              "ARIEL RECHTSHAID (PROD CHARLI XCX CRASH)",
+              "",
+              "(677.84)"
+            ],
+            [
+              "26392",
+              "DFA (PROD CHARLI XCX)",
+              "",
+              "(3,477.10)"
+            ],
+            [
+              "26400",
+              "ALEX SOIFER (PROD CHARLI XCX CRASH)",
+              "",
+              "(386.35)"
+            ],
+            [
+              "26430",
+              "MIKE WISE (PROD CHARLI XCX)",
+              "",
+              "(1,175.54)"
+            ],
+            [
+              "26431",
+              "JASON EVIGAN (PROD CHARLI XCX)",
+              "",
+              "(159.90)"
+            ],
+            [
+              "26527",
+              "RINA SAWAYAMA (FEAT CHARLI XCX BEG FOR YOU)",
+              "",
+              "(3,090.87)"
+            ],
+            [
+              "26546",
+              "GEORGE DANIEL (CO-PROD CHARLI XCX CRASH)",
+              "",
+              "(499.24)"
+            ],
+            [
+              "26643",
+              "LOTUS IV (PROD CHARLI XCX CRASH)",
+              "",
+              "(2,119.34)"
+            ],
+            [
+              "26660",
+              "OLI JACOBS (MIX CHARLI XCX)",
+              "",
+              "(30.61)"
+            ],
+            [
+              "26767",
+              "JEREMIAH RAISEN PKA SADPONY (PROD CHARLI XCX BABY)",
+              "",
+              "(383.63)"
+            ],
+            [
+              "26805",
+              "DOPAMINE (PROD CHARLI XCX - VINYL ONLY)",
+              "",
+              "(170.94)"
+            ],
+            [
+              "26833",
+              "KEVIN GRAINGER (MIX CHARLI XCX USED TO KNOW ME)",
+              "",
+              "(260.59)"
+            ],
+            [
+              "27074",
+              "A.G. COOK (CO-PROD CHARLI XCX CRASH)",
+              "",
+              "(540.27)"
+            ],
+            [
+              "27097",
+              "CHRISTINE AND THE QUEENS (CHARLI XCX)",
+              "",
+              "(4,447.22)"
+            ],
+            [
+              "27343",
+              "A.G. COOK (PROD CHARLI XCX HOW I'M FEELING NOW)",
+              "",
+              "(12,139.52)"
+            ],
+            [
+              "27390",
+              "JOHN HILL (CHARLI XCX)",
+              "",
+              "(6,350.87)"
+            ],
+            [
+              "27533",
+              "UMRU (CHARLI XCX)",
+              "",
+              "(48.18)"
+            ]
+          ],
+          "row_count": 48
+        }
+      ],
+      "statement_info": {
+        "amounts": {
+          "net_amount": 1999.0
+        }
+      },
+      "char_count": 2418,
+      "has_tables": true
+    },
+    {
+      "page_number": 6,
+      "text": "28424\nSOPHIE (CHARLI XCX)\n(6,000.49)\n28572\nEASYFUN (CHARLI XCX)\n(6,135.22)\nTotal Chargeable\n(226,661.05)\n",
+      "text_blocks": [
+        {
+          "bbox": [
+            28.239999771118164,
+            18.24271583557129,
+            584.340087890625,
+            45.542701721191406
+          ],
+          "text": "28424\nSOPHIE (CHARLI XCX)\n(6,000.49)\n28572\nEASYFUN (CHARLI XCX)\n(6,135.22)"
+        },
+        {
+          "bbox": [
+            12.300000190734863,
+            64.789306640625,
+            583.9520263671875,
+            74.3893051147461
+          ],
+          "text": "Total Chargeable\n(226,661.05)"
+        }
+      ],
+      "tables": [
+        {
+          "table_index": 0,
+          "bbox": [
+            7.199999809265137,
+            14.1800537109375,
+            585.719970703125,
+            75.74005126953125
+          ],
+          "headers": [
+            "28424",
+            "SOPHIE (CHARLI XCX)",
+            "",
+            "(6,000.49)"
+          ],
+          "rows": [
+            [
+              "28572",
+              "EASYFUN (CHARLI XCX)",
+              "",
+              "(6,135.22)"
+            ],
+            [
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "Total Chargeable",
+              null,
+              "",
+              "(226,661.05)"
+            ]
+          ],
+          "row_count": 3
+        }
+      ],
+      "statement_info": {},
+      "char_count": 105,
+      "has_tables": true
+    }
+  ],
+  "summary": {
+    "total_pages": 6,
+    "total_tables": 8,
+    "total_characters": 9324,
+    "pages_with_tables": 6,
+    "statement_info": {
+      "amounts": {
+        "net_amount": 1999.0
+      }
+    }
+  },
+  "full_text": "Warner Music UK\n27 Wrights Lane\nLondon\nW8 5SW\nRoyalty Statement Summary\nRoyalty Statement Summary For Period: 01/25 - 06/25\nBalance B/fwd\n367,352.95\nPayments\n(367,352.95)\nStudio Costs\n(5,020.05)\nVideo Costs\n(155,494.92)\nAdjustments\n86,195.91\nRoyalty Earnings\nAs Per Attached Statement\n562,153.99\nRelease Prior Period  01/24 - 06/24\n2,094.21\nTotal Release Prior Period\n2,094.21\nTotal Chargeable\n(226,661.05)\nReserves\nReserve Current Period\n(18,683.72)\nC/O LEFTBRAIN\nCHARLI XCX INC\n1301 N BROADWAY\nSTE 32003\nLOS ANGELES, CA\nBalance (£) - payable/(unrecouped)\n244,820.11\nRe.: 19263  CHARLI XCX\nRoyalty balances under £100, €125, US$150 will not be paid and will be carried forward to your next royalty statement.\nBalance Transfer\n235.74\n\n\n--- PAGE BREAK ---\n\nWarner Music UK\nRe.: 19263  CHARLI XCX\nDate\nDescription\nSupplier\nAmount\nPayments\n31/03/2025\nRoyalty Payment - 07/24 - 12/24\nCHARLOTTE AITCHISON T/A \n(367,352.95)\nTotal Payments\n(367,352.95)\nStudio Costs\n01/01/2025\n[429571] - Charli XCX - EASYFUN co-produci\nKARMA ARTISTS MANAGEME\n(125.00)\n01/01/2025\n[554169] - Charli XCX - Deaton Chris Antho\nDEATON CHRIS ANTHONY\n(2,937.03)\n01/01/2025\n[559868] - Charli XCX - Deaton Chris Antho\nDEATON CHRIS ANTHONY\n(1,958.02)\nTotal Studio Costs\n(5,020.05)\nVideo Costs\n12/06/2025\n[641921] - Charli XCX 'party 4 U' Video Ha\nBARCLAYCARD BOOKINGS\n(488.48)\n27/05/2025\n[642012] - CHARLI XCX 'PARTY 4 U' MUSIC VI\nCADENCE UNLIMITED INC\n(104,794.27)\n22/05/2025\n[642068] - Chris Horan - Stylist - Charli \nTHE WALL GROUP LA LLC\n(11,429.44)\n15/05/2025\n[642069] - Yasmin Istanbouli - Make up - C\nTHE WALL GROUP LA LLC\n(914.35)\n02/06/2025\n[642398] - Matt Bens - Hair - Charli XCX -\nGREAT BOWERY INC DBA CA\n(914.36)\n23/06/2025\n[642540] - Steph Stone - Nail Artist - Cha\nFORWARD ARTISTS\n(443.80)\n28/05/2025\n[642817] - Charli XCX ' Party 4 u' Music V\nCADENCE UNLIMITED INC\n(34,931.42)\n02/06/2025\n[643149] - Matt Bens - Hair - Charli XCX -\nGREAT BOWERY INC DBA CA\n(86.41)\n03/06/2025\n[643266] - Flight Reimbursement Matt Ben's\nGREAT BOWERY INC DBA CA\n(560.81)\n05/06/2025\n[643308] - Artist and Hair Stylist Cars | \nROYAL ELITE CLUB\n(931.58)\nTotal Video Costs\n(155,494.92)\nAdjustments\n01/01/2025\n22421 Chargeable earnings correction\n3,340.18\n01/01/2025\n23678 Chargeable earnings correction\n18,767.01\n01/01/2025\nBleachers - Rollercoaster 2H24 feat income\n130.24\n30/06/2025\nDavid Guetta - DSM Oct 24 - Mar 25\n8,356.01\n01/01/2025\nIcona Pop - I Love It 2H24 feat income\n29,608.35\n01/01/2025\nIggy Azalea - Fancy 2H24 feat income\n13,529.35\n01/01/2025\nLil Xan - Moonlight 2H24 feat income\n49.61\n01/01/2025\nMiike Snow - For U 2H24 feat income\n1,978.73\n30/06/2025\nTFIOS US Income 2H24\n1,743.04\n01/01/2025\nTiesto - Hot In It 2H24 feat income\n8,693.39\nTotal Adjustments\n86,195.91\nBalance Transfer\n30/06/2025\nBalance Trf from 24409 (Rita Ora)\n166.48\n30/06/2025\nBalance Trf from 24948 (Clean Bandit)\n69.26\nTotal Balance Transfer\n235.74\nTOTAL COSTS\n(441,436.27)\n\n\n--- PAGE BREAK ---\n\nWarner Music UK\n27 Wrights Lane\nLondon\nW8 5SW\nRoyalty Statement Summary\nCHARLI XCX INC\nC/O LEFTBRAIN\n1301 N BROADWAY\nSTE 32003\nLOS ANGELES, CA\nRe.: 19263  CHARLI XCX\nChargeable Producers/Roys for the period 01/25 - 06/25\n19924\nARIEL RECHTSHAID (CHARLI XCX)\n(749.10)\n20680\nPATRIK BERGER (CHARLI XCX)\n(146.38)\n20720\nRICH COSTEY (CHARLI XCX)\n(125.02)\n20805\nJOAKIM AHLUND (CHARLI XCX)\n(288.80)\n21012\nDAVE BASCOMBE (CHARLI XCX)\n(42.45)\n21018\nNEIL COMBER (CHARLI XCX)\n(279.14)\n21028\nSPIKE STENT (CHARLI XCX)\n(337.96)\n21047\nBLOOD DIAMONDS (CHARLI XCX)\n(8.37)\n21419\nSERBAN GHENEA (CHARLI XCX LP2)\n(139.05)\n21454\nPAUL WHITE (CHARLI XCX)\n(181.24)\n21630\nJEZUS MILLION (CHARLI XCX)\n(169.45)\n21640\nYEASAYER (CHARLI XCX)\n(55.51)\n21687\nPATRIK BERGER (CHARLI XCX LP2)\n(469.17)\n21743\nNAUGHTY BOY (CHARLI XCX LP2)\n(58.75)\n22074\nJARRAD ROGERS (CHARLI XCX LP2)\n(179.06)\n22123\nGREG KURSTIN (CHARLI XCX LP2)\n(108.78)\n22144\nJUSTIN RAISEN (CHARLI XCX)\n(69.65)\n22150\nSTEVE MAC (CHARLI XCX LP2)\n(2,381.83)\n22154\nBENNY BLANCO (CHARLI XCX)\n(104.01)\n22159\nROBERT ORTON (MIXING CHARLI XCX LP2)\n(5,519.88)\n22162\nJOHN HILL (CHARLI XCX LP2)\n(122.94)\n22167\nROSTAM BATMANGLIJ (CHARLI XCX)\n(61.98)\n22169\nUNLEVINED PRODUCTIONS LLC (CASHMERE CAT PROD CHARLI X\n(645.21)\n22188\nARIEL RECHTSHAID (CHARLI XCX LP2)\n(149.21)\n22190\nDAVE SCHIFFMAN (CHARLI XCX LP2)\n(44.04)\n22308\nSPIKE STENT (CHARLI XCX LP2)\n(114.31)\n22357\nNOONIE BAO (CHARLI XCX LP2)\n(110.80)\n22375\nODESZA (CHARLI XCX)\n(9.19)\n22400\nCHRISTIAN OLSSON (CHARLI XCX LP2)\n(17.80)\n22421\nSTARGATE (CHARLI XCX LP2)\n(488.35)\n\n\n--- PAGE BREAK ---\n\n22467\nYOUNG & SICK (NICK VAN HOFWEGEN)(CHARLI XCX LP2)\n(6.70)\n22615\nSTEFAN GRASLUND (CHARLI XCX)\n(2,362.24)\n22717\nMARKUS KRUNEGARD (CHARLI XCX LP2)\n(51.13)\n22732\nPATRIK BERGER (CHARLI XCX LP2 BOOM CLAP)\n(9,447.51)\n22935\nSTARGATE & CASHMERE CAT (CHARLI XCX)\n(247.33)\n23065\nSOPHIE (CHARLI XCX LP3)\n(2,065.22)\n23076\nGREG KURSTIN (CHARLI XCX - EXPLODE)\n(42.16)\n23124\nJODIE HARSH (CHARLI XCX LP3)\n(41.51)\n23150\nHANNAH DIAMOND (CHARLI XCX LP3)\n(9.89)\n23255\nROB ORTON (CHARLI XCX LP3)\n(631.98)\n23287\nA.G. COOK PRODUCING CHARLI XCX N1A\n(18,992.32)\n23565\nLIL YACHTY (FEAT CHARLI XCX)\n(12,226.40)\n23602\nGEOFF SWAN (CHARLI XCX LP3)\n(4,198.69)\n23678\nEASYFUN (CHARLI XCX)\n(3,833.18)\n23761\nCASS LOWE (PROD CHARLI XCX)\n(4,166.06)\n23863\nPATRIK BERGER (CHARLI XCX LP3)\n(460.24)\n23866\nDANNY HARLE (CHARLI XCX LP3)\n(2,984.90)\n23962\nABRA (FEAT. CHARLI XCX LP3)\n(1,224.16)\n23970\nJERKER HANSSON (PROD CHARLI XCX)\n(4,997.87)\n23974\nSPIKE STENT (MIXING CHARLI XCX)\n(20,393.50)\n24151\nGEOFF SWAN (CHARLI XCX LP3)\n(58.94)\n24260\nERIK MADRID (MIX CHARLI XCX LP3)\n(46.32)\n24360\nJACK & COKE (PROD CHARLI XCX LP3)\n(114.26)\n24368\nCARLY RAE JEPSEN (FEAT. CHARLI XCX LP3)\n(257.61)\n24369\nÖ (PROD CHARLI XCX LP3)\n(586.32)\n24373\nMYKKI BLANCO (FEAT. CHARLI XCX LP3)\n(169.51)\n24374\nDAVID GAMSON (PROD CHARLI XCX LP3)\n(84.76)\n24375\nDORIAN ELECTRA (FEAT. CHARLI XCX LP3)\n(127.13)\n24376\nCUPCAKKE (FEAT. CHARLI XCX LP3)\n(166.43)\n24377\nBROOKE CANDY (FEAT. CHARLI XCX LP3)\n(166.43)\n24378\nUMRU (PROD CHARLI XCX N1A)\n(83.44)\n24379\nCAROLINE POLACHEK (FEAT. CHARLI XCX LP3)\n(167.58)\n24380\nMO (FEAT. CHARLI XCX LP3)\n(170.89)\n24393\nA.G COOK (PROD. CHARLI XCX POP2)\n(5,942.35)\n24394\nGEOFF SWAN (MIX. CHARLI XCX LP3 P2)\n(2,169.60)\n24395\nSOPHIE (PROD. CHARLI XCX LP3 P2)\n(224.90)\n24396\nTOVE LO (FEAT. CHARLI XCX LP3 P2)\n(264.37)\n24397\nALMA  (CHARLI XCX LP3)\n(243.22)\n24398\nPABLLO VITTAR (PROD. CHARLI XCX LP3 P2)\n(757.93)\n24399\nTOMMY CASH (FEAT. CHARLI XCX LP3 P2)\n(199.13)\n24400\nLIFE SIM (PROD. CHARLI XCX LP3 P2)\n(4,422.24)\n24401\nKING HENRY (PROD. CHARLI XCX LP3 P2)\n(170.89)\n24402\nLIL DATA (PROD. CHARLI XCX LP3)\n(801.47)\n24403\nSTARGATE (PROD. CHARLI XCX LP3 P2)\n(3,120.08)\n24404\nJAY PARK (FEAT. CHARLI XCX LP3 P2)\n(2,817.31)\n24405\nKIM PETRAS (FEAT. CHARLI XCX LP3 P2)\n(2,817.31)\n24406\nINVISIBLE MEN (PROD. CHARLI XCX LP3)\n(259.76)\n24445\nYAEJI (FEAT. CHARLI LP4)\n(46.14)\n24538\nOSCAR HOLTER (PROD CHARLI XCX LP3)\n(3,973.88)\n\n\n--- PAGE BREAK ---\n\n24660\nSERBAN GHENEA (MIX CHARLI XCX LP3)\n(1,109.07)\n24662\nTROYE SIVAN (FEAT. CHARLI XCX LP3)\n(6,211.68)\n24766\nSEEB (REMIX CHARLI LP4 - CHARLI)\n(1.54)\n24814\nKID JOKI (REMIX - CHARLI LP3 - CHARLI)\n(2.28)\n24834\nPLANET 1999 (PROD CHARLI LP4)\n(69.35)\n24853\nLOTUS IV (PROD CHARLI LP4)\n(327.39)\n24885\nHAPPY PEREZ (PROD CHARLI LP4)\n(149.47)\n24886\nANDREW WATT (PROD CHARLI LP4)\n(147.31)\n24892\nDYLAN BRADY (PROD CHARLI LP3)\n(72.09)\n25016\nLIZZO (FEAT. CHARLI XCX)\n(587.83)\n25018\nEASYFUN (PROD CHARLI XCX)\n(7,715.81)\n25089\nSKY FERREIRA (FEAT. CHARLI LP3)\n(171.19)\n25313\nGEOFF SWAN (MIX CHARLI LP4)\n(3,694.96)\n25315\nUMRU (PROD CHARLI LP4)\n(70.78)\n25318\nCLAIRO (FEAT. CHARLI LP3)\n(138.36)\n25320\nHAIM (FEAT. CHARLI LP4)\n(42.76)\n25322\nBASECK (ADD PROD CHARLI OP3)\n(104.62)\n25333\nCHRISTINE AND THE QUEENS (CHARLI XCX)\n(601.28)\n25471\nBJ BURTON (PROD CHARLI XCX LP4)\n(5,294.62)\n25500\nBENJAMIN KEATING (PROD CHARLI XCX LP4)\n(277.12)\n25515\nDIJON (PROD CHARLI XCX LP4)\n(341.92)\n25523\nDANNY L HARLE (PROD CHARLI XCX LP4)\n(375.35)\n25967\nOSCAR HOLTER (PROD CHARLI XCX GOOD ONES)\n(7,191.03)\n26067\nDOPAMINE (PROD CHARLI XCX - EXCL VINYL)\n(31.15)\n26084\nIAN KIRKPATRICK (PROD CHARLI XCX MOVE ME)\n(321.01)\n26093\nA.G. COOK (CHARLI XCX LP3)\n(7,536.10)\n26139\nSERBAN GHENEA (MIX CHARLI XCX)\n(1,291.50)\n26251\nJUSTIN RAISEN (PROD CHARLI XCX BABY)\n(383.63)\n26378\nKEVIN GRAINGER (MIXING CHARLI XCX BEG FOR YOU)\n(772.65)\n26380\nDEATON CHRIS ANTHONY (CHARLI XCX)\n(228.08)\n26381\n604 RECORDS - CARLY RAE JEPSON (CHARLI XCX)\n(181.24)\n26382\nGEOFF SWAN (MIXING CHARLI XCX LP5)\n(1,133.54)\n26385\nARIEL RECHTSHAID (PROD CHARLI XCX CRASH)\n(677.84)\n26392\nDFA (PROD CHARLI XCX)\n(3,477.10)\n26400\nALEX SOIFER (PROD CHARLI XCX CRASH)\n(386.35)\n26430\nMIKE WISE (PROD CHARLI XCX)\n(1,175.54)\n26431\nJASON EVIGAN (PROD CHARLI XCX)\n(159.90)\n26527\nRINA SAWAYAMA (FEAT CHARLI XCX BEG FOR YOU)\n(3,090.87)\n26546\nGEORGE DANIEL (CO-PROD CHARLI XCX CRASH)\n(499.24)\n26643\nLOTUS IV (PROD CHARLI XCX CRASH)\n(2,119.34)\n26660\nOLI JACOBS (MIX CHARLI XCX)\n(30.61)\n26767\nJEREMIAH RAISEN PKA SADPONY (PROD CHARLI XCX BABY)\n(383.63)\n26805\nDOPAMINE (PROD CHARLI XCX - VINYL ONLY)\n(170.94)\n26833\nKEVIN GRAINGER (MIX CHARLI XCX USED TO KNOW ME)\n(260.59)\n27074\nA.G. COOK (CO-PROD CHARLI XCX CRASH)\n(540.27)\n27097\nCHRISTINE  AND THE QUEENS (CHARLI XCX)\n(4,447.22)\n27343\nA.G. COOK (PROD CHARLI XCX HOW I'M FEELING NOW)\n(12,139.52)\n27390\nJOHN HILL (CHARLI XCX)\n(6,350.87)\n27533\nUMRU (CHARLI XCX)\n(48.18)\n\n\n--- PAGE BREAK ---\n\n28424\nSOPHIE (CHARLI XCX)\n(6,000.49)\n28572\nEASYFUN (CHARLI XCX)\n(6,135.22)\nTotal Chargeable\n(226,661.05)\n"
+}

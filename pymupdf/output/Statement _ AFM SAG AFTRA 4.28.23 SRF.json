@@ -1,0 +1,22 @@
+{
+  "document_id": "b2b229ac-99ad-43e3-9a3c-4852aa8f059e",
+  "filename": "Statement _ AFM SAG AFTRA 4.28.23 SRF.pdf",
+  "extracted_at": "2026-03-24T06:59:49.774645Z",
+  "page_count": 1,
+  "full_text": "\u0000\u0000\u0001\u0002\u0003\u0001\u0002\u0004\u0005\u0007\u0000\u0007\b\u0004\u0002\u0007\t\n\u000b\f\r\f\u000e\u000f\u000e\u0010\f\u0007\u0011\u0007\t\u0012\n\u0007\u000b\t\u0013\u0007\t\u0012\u0014\u0015\t\n\u0016\f\f\u0017\u0018\b\u0001\u0001\u0019\u0019\u0019\u001a\r\u001b\u000f\u0018\r\u001c\r\u001b\f\u001d\r\u001b\u001e\u0010\u001f\u001a \u001d\u001c\u0001\t!! \u001e\u0010\f\u0001\u000b\f\r\f\u000e\u000f\u000e\u0010\f\"\u0010 #\n$\t\u0019\n%\t%&$'(\u0004$)*\u0018#\u0002\u0007\u0002\u0004+\u0007,+\u0002\u0003)\r\u0010#\n\u0014\n\u0002-%./\n\u0019(\u0004$(\u0004$)\u001b\f#\u000b\u0015\n\u0000\u0001\u0000",
+  "text_by_page": [
+    "\u0000\u0000\u0001\u0002\u0003\u0001\u0002\u0004\u0005\u0007\u0000\u0007\b\u0004\u0002\u0007\t\n\u000b\f\r\f\u000e\u000f\u000e\u0010\f\u0007\u0011\u0007\t\u0012\n\u0007\u000b\t\u0013\u0007\t\u0012\u0014\u0015\t\n\u0016\f\f\u0017\u0018\b\u0001\u0001\u0019\u0019\u0019\u001a\r\u001b\u000f\u0018\r\u001c\r\u001b\f\u001d\r\u001b\u001e\u0010\u001f\u001a \u001d\u001c\u0001\t!! \u001e\u0010\f\u0001\u000b\f\r\f\u000e\u000f\u000e\u0010\f\"\u0010 #\n$\t\u0019\n%\t%&$'(\u0004$)*\u0018#\u0002\u0007\u0002\u0004+\u0007,+\u0002\u0003)\r\u0010#\n\u0014\n\u0002-%./\n\u0019(\u0004$(\u0004$)\u001b\f#\u000b\u0015\n\u0000\u0001\u0000"
+  ],
+  "key_value_pairs": [],
+  "tables": [],
+  "detected_amounts": [],
+  "detected_dates": [],
+  "extraction_metadata": {
+    "extractor_version": "1.1.0",
+    "pymupdf_version": "1.27.2.2",
+    "source_path": "C:\\Users\\risha\\cursorprojects\\WeaveAssignment\\music_rights_sample_pdfs\\extracted\\pdfs-for-model-training\\Statement _ AFM SAG AFTRA 4.28.23 SRF.pdf",
+    "file_size_bytes": 281696,
+    "parallel_extraction": false,
+    "workers": 1
+  }
+}

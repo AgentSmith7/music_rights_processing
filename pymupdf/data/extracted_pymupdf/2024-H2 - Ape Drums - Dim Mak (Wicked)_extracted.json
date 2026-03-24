@@ -1,0 +1,143 @@
+{
+  "pdf_name": "2024-H2 - Ape Drums - Dim Mak (Wicked)",
+  "pdf_path": "music_rights_sample_pdfs\\extracted\\pdfs-for-model-training\\2024-H2 - Ape Drums - Dim Mak (Wicked).pdf",
+  "total_pages": 1,
+  "extracted_at": "2026-03-24T01:45:09.988522",
+  "extraction_method": "PyMuPDF (direct text extraction)",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Ape Drums's Royalty Statement\n2024H2: APDR - Ape Drums\nDate\nAug 05, 2025\nRecipient\nApe Drums\nStatement ID\n52413\nOpening Balance\n$70.29\nDigital Income\n$0.73\nClosing Balance\n$71.02\nPage 1 of 1\n",
+      "text_blocks": [
+        {
+          "bbox": [
+            103.20000457763672,
+            37.05360412597656,
+            429.85614013671875,
+            58.653602600097656
+          ],
+          "text": "Ape Drums's Royalty Statement"
+        },
+        {
+          "bbox": [
+            103.20000457763672,
+            71.10240936279297,
+            292.686279296875,
+            85.50240325927734
+          ],
+          "text": "2024H2: APDR - Ape Drums"
+        },
+        {
+          "bbox": [
+            65.4000015258789,
+            149.00160217285156,
+            85.62419891357422,
+            158.60159301757812
+          ],
+          "text": "Date"
+        },
+        {
+          "bbox": [
+            65.4000015258789,
+            173.00160217285156,
+            122.43045806884766,
+            182.60159301757812
+          ],
+          "text": "Aug 05, 2025"
+        },
+        {
+          "bbox": [
+            228.60000610351562,
+            149.00160217285156,
+            268.57147216796875,
+            158.60159301757812
+          ],
+          "text": "Recipient"
+        },
+        {
+          "bbox": [
+            228.60000610351562,
+            173.00160217285156,
+            276.5334777832031,
+            182.60159301757812
+          ],
+          "text": "Ape Drums"
+        },
+        {
+          "bbox": [
+            383.4000244140625,
+            149.00160217285156,
+            439.3142395019531,
+            158.60159301757812
+          ],
+          "text": "Statement ID"
+        },
+        {
+          "bbox": [
+            383.4000244140625,
+            173.00160217285156,
+            410.0367126464844,
+            182.60159301757812
+          ],
+          "text": "52413"
+        },
+        {
+          "bbox": [
+            66.0,
+            212.6016082763672,
+            545.899169921875,
+            222.20159912109375
+          ],
+          "text": "Opening Balance\n$70.29"
+        },
+        {
+          "bbox": [
+            66.0,
+            238.401611328125,
+            545.96484375,
+            248.00160217285156
+          ],
+          "text": "Digital Income\n$0.73"
+        },
+        {
+          "bbox": [
+            66.0,
+            269.1024169921875,
+            546.1769409179688,
+            283.5024108886719
+          ],
+          "text": "Closing Balance\n$71.02"
+        },
+        {
+          "bbox": [
+            528.0,
+            770.0015869140625,
+            575.8992309570312,
+            779.6016235351562
+          ],
+          "text": "Page 1 of 1"
+        }
+      ],
+      "tables": [],
+      "statement_info": {
+        "amounts": {
+          "balance": 70.29
+        }
+      },
+      "char_count": 191,
+      "has_tables": false
+    }
+  ],
+  "summary": {
+    "total_pages": 1,
+    "total_tables": 0,
+    "total_characters": 191,
+    "pages_with_tables": 0,
+    "statement_info": {
+      "amounts": {
+        "balance": 70.29
+      }
+    }
+  },
+  "full_text": "Ape Drums's Royalty Statement\n2024H2: APDR - Ape Drums\nDate\nAug 05, 2025\nRecipient\nApe Drums\nStatement ID\n52413\nOpening Balance\n$70.29\nDigital Income\n$0.73\nClosing Balance\n$71.02\nPage 1 of 1\n"
+}

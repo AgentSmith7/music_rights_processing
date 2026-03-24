@@ -1,0 +1,1103 @@
+{
+  "pdf_name": "SPL__240930 andrew_luce-andrew_luce_james_jr-09_2024-520562",
+  "pdf_path": "music_rights_sample_pdfs\\extracted\\pdfs-for-model-training\\SPL__240930 andrew_luce-andrew_luce_james_jr-09_2024-520562.pdf",
+  "total_pages": 5,
+  "extracted_at": "2026-03-24T01:55:07.876075",
+  "extraction_method": "PyMuPDF (direct text extraction)",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Statement\nAndrew Luce\n09/2024\nAndrew  Luce James Jr.\n",
+      "text_blocks": [
+        {
+          "bbox": [
+            221.43600463867188,
+            416.0,
+            390.56402587890625,
+            452.0
+          ],
+          "text": "Statement"
+        },
+        {
+          "bbox": [
+            260.0639953613281,
+            464.1999816894531,
+            351.9360046386719,
+            480.1999816894531
+          ],
+          "text": "Andrew Luce"
+        },
+        {
+          "bbox": [
+            275.1759948730469,
+            488.3999938964844,
+            336.823974609375,
+            504.3999938964844
+          ],
+          "text": "09/2024"
+        },
+        {
+          "bbox": [
+            245.33999633789062,
+            512.6000366210938,
+            366.6600341796875,
+            524.6000366210938
+          ],
+          "text": "Andrew  Luce James Jr."
+        }
+      ],
+      "tables": [],
+      "statement_info": {},
+      "char_count": 53,
+      "has_tables": false
+    },
+    {
+      "page_number": 2,
+      "text": "Andrew  Luce James Jr.\n3980 Hopevale Dr\n91403 Sherman Oaks\nUS\nDen Haag, October 10, 2024\nSubject: 09/2024\nDear Andrew\nHereby is your statement from 09/2024 for Andrew Luce\nLet us know if you have any questions.\nNOTE: statement run dated Aug, 02 2025 was mistakenly labeled as 06/2025, but in fact it is 07/2025\nPayee name\nAndrew  Luce James Jr.\nContract name\nAndrew Luce\nContract #\n83911\nPeriod\n09/2024\nStatement ID\n520562\nbitbird\n1e de Riemerstraat 40\n2513 Den Haag ZH - NL\nTax ID - NL857745141B01\n1\n",
+      "text_blocks": [
+        {
+          "bbox": [
+            479.0799865722656,
+            91.99998474121094,
+            581.9999389648438,
+            101.99998474121094
+          ],
+          "text": "Andrew  Luce James Jr."
+        },
+        {
+          "bbox": [
+            487.5400085449219,
+            106.99998474121094,
+            582.0,
+            131.99998474121094
+          ],
+          "text": "3980 Hopevale Dr\n91403 Sherman Oaks"
+        },
+        {
+          "bbox": [
+            569.4000244140625,
+            136.99998474121094,
+            582.0,
+            146.99998474121094
+          ],
+          "text": "US"
+        },
+        {
+          "bbox": [
+            30.0,
+            168.99998474121094,
+            154.70001220703125,
+            193.99998474121094
+          ],
+          "text": "Den Haag, October 10, 2024\nSubject: 09/2024"
+        },
+        {
+          "bbox": [
+            30.0,
+            215.99998474121094,
+            88.68000030517578,
+            225.99998474121094
+          ],
+          "text": "Dear Andrew"
+        },
+        {
+          "bbox": [
+            30.0,
+            231.9499969482422,
+            278.3899841308594,
+            241.9499969482422
+          ],
+          "text": "Hereby is your statement from 09/2024 for Andrew Luce"
+        },
+        {
+          "bbox": [
+            30.0,
+            247.90000915527344,
+            195.0499725341797,
+            257.9000244140625
+          ],
+          "text": "Let us know if you have any questions."
+        },
+        {
+          "bbox": [
+            30.0,
+            279.8000183105469,
+            470.35980224609375,
+            289.8000183105469
+          ],
+          "text": "NOTE: statement run dated Aug, 02 2025 was mistakenly labeled as 06/2025, but in fact it is 07/2025"
+        },
+        {
+          "bbox": [
+            17.0,
+            19.369991302490234,
+            237.63204956054688,
+            28.3699893951416
+          ],
+          "text": "Payee name\nAndrew  Luce James Jr."
+        },
+        {
+          "bbox": [
+            17.0,
+            34.169979095458984,
+            198.3200225830078,
+            43.169979095458984
+          ],
+          "text": "Contract name\nAndrew Luce"
+        },
+        {
+          "bbox": [
+            17.0,
+            48.970027923583984,
+            172.7420196533203,
+            57.970027923583984
+          ],
+          "text": "Contract #\n83911"
+        },
+        {
+          "bbox": [
+            434.4146728515625,
+            19.369991302490234,
+            595.9998168945312,
+            28.3699893951416
+          ],
+          "text": "Period\n09/2024"
+        },
+        {
+          "bbox": [
+            407.63067626953125,
+            34.169979095458984,
+            595.9998168945312,
+            43.169979095458984
+          ],
+          "text": "Statement ID\n520562"
+        },
+        {
+          "bbox": [
+            15.0,
+            725.0,
+            45.47000503540039,
+            735.0
+          ],
+          "text": "bitbird"
+        },
+        {
+          "bbox": [
+            15.0,
+            740.0,
+            102.25501251220703,
+            749.0
+          ],
+          "text": "1e de Riemerstraat 40"
+        },
+        {
+          "bbox": [
+            15.0,
+            753.7999877929688,
+            108.56401062011719,
+            762.7999877929688
+          ],
+          "text": "2513 Den Haag ZH - NL"
+        },
+        {
+          "bbox": [
+            15.0,
+            767.5999755859375,
+            121.95600891113281,
+            776.5999755859375
+          ],
+          "text": "Tax ID - NL857745141B01"
+        },
+        {
+          "bbox": [
+            303.1000061035156,
+            746.9750366210938,
+            308.8999938964844,
+            756.9750366210938
+          ],
+          "text": "1"
+        }
+      ],
+      "tables": [],
+      "statement_info": {
+        "client_name": "name",
+        "contract": "name"
+      },
+      "char_count": 501,
+      "has_tables": false
+    },
+    {
+      "page_number": 3,
+      "text": "Statement summary\n09/2024\nStatement income\n1.47 EUR\nRecouped costs (shared)\n0 EUR\nStatement subtotal\n1.47 EUR\nUnrecouped costs (shared)\n0 EUR\nGross artist income\nGross due to all payees combined within the contract\n1.47 EUR\nFinal balance due to payee\n1.47 EUR\nPayee name\nAndrew  Luce James Jr.\nContract name\nAndrew Luce\nContract #\n83911\nPeriod\n09/2024\nStatement ID\n520562\nbitbird\n1e de Riemerstraat 40\n2513 Den Haag ZH - NL\nTax ID - NL857745141B01\n2\n",
+      "text_blocks": [
+        {
+          "bbox": [
+            30.0,
+            92.00000762939453,
+            174.70399475097656,
+            108.00000762939453
+          ],
+          "text": "Statement summary"
+        },
+        {
+          "bbox": [
+            30.0,
+            116.19998168945312,
+            76.40399932861328,
+            128.19998168945312
+          ],
+          "text": "09/2024"
+        },
+        {
+          "bbox": [
+            37.0,
+            159.97000122070312,
+            576.0000610351562,
+            171.97000122070312
+          ],
+          "text": "Statement income\n1.47 EUR"
+        },
+        {
+          "bbox": [
+            37.0,
+            188.36997985839844,
+            575.9999389648438,
+            198.36997985839844
+          ],
+          "text": "Recouped costs (shared)\n0 EUR"
+        },
+        {
+          "bbox": [
+            37.0,
+            214.37002563476562,
+            576.0000610351562,
+            226.37002563476562
+          ],
+          "text": "Statement subtotal\n1.47 EUR"
+        },
+        {
+          "bbox": [
+            37.0,
+            242.77000427246094,
+            575.9999389648438,
+            252.77000427246094
+          ],
+          "text": "Unrecouped costs (shared)\n0 EUR"
+        },
+        {
+          "bbox": [
+            37.0,
+            268.7699890136719,
+            140.58401489257812,
+            280.7699890136719
+          ],
+          "text": "Gross artist income"
+        },
+        {
+          "bbox": [
+            37.0,
+            278.947509765625,
+            576.0000610351562,
+            295.9850158691406
+          ],
+          "text": "Gross due to all payees combined within the contract\n1.47 EUR"
+        },
+        {
+          "bbox": [
+            37.0,
+            311.7850036621094,
+            576.0000610351562,
+            323.7850036621094
+          ],
+          "text": "Final balance due to payee\n1.47 EUR"
+        },
+        {
+          "bbox": [
+            17.0,
+            19.369991302490234,
+            237.63204956054688,
+            28.3699893951416
+          ],
+          "text": "Payee name\nAndrew  Luce James Jr."
+        },
+        {
+          "bbox": [
+            17.0,
+            34.169979095458984,
+            198.3200225830078,
+            43.169979095458984
+          ],
+          "text": "Contract name\nAndrew Luce"
+        },
+        {
+          "bbox": [
+            17.0,
+            48.970027923583984,
+            172.7420196533203,
+            57.970027923583984
+          ],
+          "text": "Contract #\n83911"
+        },
+        {
+          "bbox": [
+            434.4146728515625,
+            19.369991302490234,
+            595.9998168945312,
+            28.3699893951416
+          ],
+          "text": "Period\n09/2024"
+        },
+        {
+          "bbox": [
+            407.63067626953125,
+            34.169979095458984,
+            595.9998168945312,
+            43.169979095458984
+          ],
+          "text": "Statement ID\n520562"
+        },
+        {
+          "bbox": [
+            15.0,
+            725.0,
+            45.47000503540039,
+            735.0
+          ],
+          "text": "bitbird"
+        },
+        {
+          "bbox": [
+            15.0,
+            740.0,
+            102.25501251220703,
+            749.0
+          ],
+          "text": "1e de Riemerstraat 40"
+        },
+        {
+          "bbox": [
+            15.0,
+            753.7999877929688,
+            108.56401062011719,
+            762.7999877929688
+          ],
+          "text": "2513 Den Haag ZH - NL"
+        },
+        {
+          "bbox": [
+            15.0,
+            767.5999755859375,
+            121.95600891113281,
+            776.5999755859375
+          ],
+          "text": "Tax ID - NL857745141B01"
+        },
+        {
+          "bbox": [
+            303.1000061035156,
+            746.9750366210938,
+            308.8999938964844,
+            756.9750366210938
+          ],
+          "text": "2"
+        }
+      ],
+      "tables": [
+        {
+          "table_index": 0,
+          "bbox": [
+            30.0,
+            150.5999755859375,
+            582.0,
+            330.81500244140625
+          ],
+          "headers": [
+            "Statement income",
+            "",
+            "1.47 EUR"
+          ],
+          "rows": [
+            [
+              "Recouped costs (shared)",
+              "",
+              "0 EUR"
+            ],
+            [
+              "Statement subtotal",
+              "",
+              "1.47 EUR"
+            ],
+            [
+              "Unrecouped costs (shared)",
+              "",
+              "0 EUR"
+            ],
+            [
+              "Gross artist income\nGross due to all payees combined within the contract",
+              "",
+              "1.47 EUR"
+            ],
+            [
+              "Final balance due to payee",
+              "",
+              "1.47 EUR"
+            ]
+          ],
+          "row_count": 5
+        }
+      ],
+      "statement_info": {
+        "client_name": "1.47 EUR",
+        "contract": "1.47 EUR",
+        "amounts": {
+          "total": 1.47
+        }
+      },
+      "char_count": 450,
+      "has_tables": true
+    },
+    {
+      "page_number": 4,
+      "text": "Statement Insights\nBreakdown by channel\nStreaming\n100 %  -  6 146 units\n1.47 EUR\n0.00023977 EUR  /  unit\nBreakdown by retailer\nSpotify\n95.15 %  -  6 024 units\n1.4 EUR\n0.00023275 EUR  /  unit\nSoundCloud\n3.11 %  -  137 units\n0.05 EUR\n0.00033418 EUR  /  unit\nYouTube\n1.17 %  -  22 units\n0.02 EUR\n0.00078038 EUR  /  unit\nTivo\n0.78 %  -  4 units\n0.01 EUR\n0.00286141 EUR  /  unit\nAllSaints Music Group\n0.78 %  -  1 unit\n0.01 EUR\n0.01144564 EUR  /  unit\nUSEN\n0.19 %  -  3 units\n0 EUR\n0.0009538 EUR  /  unit\nOthers\n-1.17 %  -  -45 units\n(0.02 EUR)\n0.00038152 EUR  /  unit\nBreakdown by track\nThe Future - Andrew Lu...\n100 %\n1.47 EUR\n6 146 units\nBreakdown by country\nUnited States\n75.92 %\n1.12 EUR\n4 426 units\nCanada\n5.44 %\n0.08 EUR\n473 units\nAustralia\n4.85 %\n0.07 EUR\n409 units\nGermany\n4.27 %\n0.06 EUR\n300 units\nUnited Kingdom\n4.27 %\n0.06 EUR\n206 units\nNew Zealand\n1.75 %\n0.03 EUR\n83 units\nOthers\n3.5 %\n0.05 EUR\n249 units\nPayee name\nAndrew  Luce James Jr.\nContract name\nAndrew Luce\nContract #\n83911\nPeriod\n09/2024\nStatement ID\n520562\nbitbird\n1e de Riemerstraat 40\n2513 Den Haag ZH - NL\nTax ID - NL857745141B01\n3\n",
+      "text_blocks": [
+        {
+          "bbox": [
+            30.0,
+            92.00000762939453,
+            164.24000549316406,
+            108.00000762939453
+          ],
+          "text": "Statement Insights"
+        },
+        {
+          "bbox": [
+            40.0,
+            131.99998474121094,
+            141.62001037597656,
+            141.99998474121094
+          ],
+          "text": "Breakdown by channel"
+        },
+        {
+          "bbox": [
+            45.0,
+            154.3699951171875,
+            114.75199127197266,
+            174.7750244140625
+          ],
+          "text": "Streaming\n100 %  -  6 146 units"
+        },
+        {
+          "bbox": [
+            203.27200317382812,
+            154.3699951171875,
+            287.00006103515625,
+            174.7750244140625
+          ],
+          "text": "1.47 EUR\n0.00023977 EUR  /  unit"
+        },
+        {
+          "bbox": [
+            321.0,
+            131.99998474121094,
+            420.88995361328125,
+            141.99998474121094
+          ],
+          "text": "Breakdown by retailer"
+        },
+        {
+          "bbox": [
+            326.0,
+            154.3699951171875,
+            402.08807373046875,
+            174.7750244140625
+          ],
+          "text": "Spotify\n95.15 %  -  6 024 units"
+        },
+        {
+          "bbox": [
+            484.2720031738281,
+            154.3699951171875,
+            568.0001831054688,
+            174.7750244140625
+          ],
+          "text": "1.4 EUR\n0.00023275 EUR  /  unit"
+        },
+        {
+          "bbox": [
+            326.0,
+            186.375,
+            391.2640380859375,
+            206.77996826171875
+          ],
+          "text": "SoundCloud\n3.11 %  -  137 units"
+        },
+        {
+          "bbox": [
+            484.2720031738281,
+            186.375,
+            568.0001831054688,
+            206.77996826171875
+          ],
+          "text": "0.05 EUR\n0.00033418 EUR  /  unit"
+        },
+        {
+          "bbox": [
+            326.0,
+            218.3800048828125,
+            386.6240234375,
+            238.78497314453125
+          ],
+          "text": "YouTube\n1.17 %  -  22 units"
+        },
+        {
+          "bbox": [
+            484.2720031738281,
+            218.3800048828125,
+            568.0001831054688,
+            238.78497314453125
+          ],
+          "text": "0.02 EUR\n0.00078038 EUR  /  unit"
+        },
+        {
+          "bbox": [
+            326.0,
+            250.385009765625,
+            381.9840087890625,
+            270.78997802734375
+          ],
+          "text": "Tivo\n0.78 %  -  4 units"
+        },
+        {
+          "bbox": [
+            484.2720031738281,
+            250.385009765625,
+            568.0001831054688,
+            270.78997802734375
+          ],
+          "text": "0.01 EUR\n0.00286141 EUR  /  unit"
+        },
+        {
+          "bbox": [
+            326.0,
+            282.3900146484375,
+            414.875,
+            302.79498291015625
+          ],
+          "text": "AllSaints Music Group\n0.78 %  -  1 unit"
+        },
+        {
+          "bbox": [
+            484.2720031738281,
+            282.3900146484375,
+            568.0001831054688,
+            302.79498291015625
+          ],
+          "text": "0.01 EUR\n0.01144564 EUR  /  unit"
+        },
+        {
+          "bbox": [
+            326.0,
+            314.39501953125,
+            381.9840087890625,
+            334.79998779296875
+          ],
+          "text": "USEN\n0.19 %  -  3 units"
+        },
+        {
+          "bbox": [
+            488.9119873046875,
+            314.39501953125,
+            568.0001220703125,
+            334.79998779296875
+          ],
+          "text": "0 EUR\n0.0009538 EUR  /  unit"
+        },
+        {
+          "bbox": [
+            326.0,
+            346.3999938964844,
+            392.176025390625,
+            366.80499267578125
+          ],
+          "text": "Others\n-1.17 %  -  -45 units"
+        },
+        {
+          "bbox": [
+            484.2720031738281,
+            346.3999938964844,
+            568.0001831054688,
+            366.80499267578125
+          ],
+          "text": "(0.02 EUR)\n0.00038152 EUR  /  unit"
+        },
+        {
+          "bbox": [
+            40.0,
+            423.5,
+            129.99000549316406,
+            433.5
+          ],
+          "text": "Breakdown by track"
+        },
+        {
+          "bbox": [
+            65.0,
+            445.8699951171875,
+            165.75498962402344,
+            466.2749938964844
+          ],
+          "text": "The Future - Andrew Lu...\n100 %"
+        },
+        {
+          "bbox": [
+            247.95199584960938,
+            445.8699951171875,
+            287.00006103515625,
+            466.2749938964844
+          ],
+          "text": "1.47 EUR\n6 146 units"
+        },
+        {
+          "bbox": [
+            321.0,
+            423.5,
+            422.61993408203125,
+            433.5
+          ],
+          "text": "Breakdown by country"
+        },
+        {
+          "bbox": [
+            326.0,
+            445.8699951171875,
+            380.4950256347656,
+            466.2749938964844
+          ],
+          "text": "United States\n75.92 %"
+        },
+        {
+          "bbox": [
+            528.9520263671875,
+            445.8699951171875,
+            568.0000610351562,
+            466.2749938964844
+          ],
+          "text": "1.12 EUR\n4 426 units"
+        },
+        {
+          "bbox": [
+            326.0,
+            477.875,
+            356.39300537109375,
+            498.2799987792969
+          ],
+          "text": "Canada\n5.44 %"
+        },
+        {
+          "bbox": [
+            531.0999755859375,
+            477.875,
+            567.9999389648438,
+            486.875
+          ],
+          "text": "0.08 EUR"
+        },
+        {
+          "bbox": [
+            535.135986328125,
+            490.2799987792969,
+            568.0,
+            498.2799987792969
+          ],
+          "text": "473 units"
+        },
+        {
+          "bbox": [
+            326.0,
+            509.8800048828125,
+            362.88201904296875,
+            530.2849731445312
+          ],
+          "text": "Australia\n4.85 %"
+        },
+        {
+          "bbox": [
+            531.0999755859375,
+            509.8800048828125,
+            567.9999389648438,
+            518.8800048828125
+          ],
+          "text": "0.07 EUR"
+        },
+        {
+          "bbox": [
+            535.135986328125,
+            522.2849731445312,
+            568.0,
+            530.2849731445312
+          ],
+          "text": "409 units"
+        },
+        {
+          "bbox": [
+            326.0,
+            541.885009765625,
+            363.1789855957031,
+            562.2899780273438
+          ],
+          "text": "Germany\n4.27 %"
+        },
+        {
+          "bbox": [
+            531.0999755859375,
+            541.885009765625,
+            567.9999389648438,
+            550.885009765625
+          ],
+          "text": "0.06 EUR"
+        },
+        {
+          "bbox": [
+            535.135986328125,
+            554.2899780273438,
+            568.0,
+            562.2899780273438
+          ],
+          "text": "300 units"
+        },
+        {
+          "bbox": [
+            326.0,
+            573.8900146484375,
+            391.5650329589844,
+            594.2949829101562
+          ],
+          "text": "United Kingdom\n4.27 %"
+        },
+        {
+          "bbox": [
+            531.0999755859375,
+            573.8900146484375,
+            567.9999389648438,
+            582.8900146484375
+          ],
+          "text": "0.06 EUR"
+        },
+        {
+          "bbox": [
+            535.135986328125,
+            586.2949829101562,
+            568.0,
+            594.2949829101562
+          ],
+          "text": "206 units"
+        },
+        {
+          "bbox": [
+            326.0,
+            605.89501953125,
+            378.91998291015625,
+            626.2999877929688
+          ],
+          "text": "New Zealand\n1.75 %"
+        },
+        {
+          "bbox": [
+            531.0999755859375,
+            605.89501953125,
+            567.9999389648438,
+            614.89501953125
+          ],
+          "text": "0.03 EUR"
+        },
+        {
+          "bbox": [
+            539.7760009765625,
+            618.2999877929688,
+            568.0,
+            626.2999877929688
+          ],
+          "text": "83 units"
+        },
+        {
+          "bbox": [
+            326.0,
+            637.9000244140625,
+            354.197021484375,
+            658.3049926757812
+          ],
+          "text": "Others\n3.5 %"
+        },
+        {
+          "bbox": [
+            531.0999755859375,
+            637.9000244140625,
+            567.9999389648438,
+            646.9000244140625
+          ],
+          "text": "0.05 EUR"
+        },
+        {
+          "bbox": [
+            535.135986328125,
+            650.3049926757812,
+            568.0,
+            658.3049926757812
+          ],
+          "text": "249 units"
+        },
+        {
+          "bbox": [
+            17.0,
+            19.369991302490234,
+            237.63204956054688,
+            28.3699893951416
+          ],
+          "text": "Payee name\nAndrew  Luce James Jr."
+        },
+        {
+          "bbox": [
+            17.0,
+            34.169979095458984,
+            198.3200225830078,
+            43.169979095458984
+          ],
+          "text": "Contract name\nAndrew Luce"
+        },
+        {
+          "bbox": [
+            17.0,
+            48.970027923583984,
+            172.7420196533203,
+            57.970027923583984
+          ],
+          "text": "Contract #\n83911"
+        },
+        {
+          "bbox": [
+            434.4146728515625,
+            19.369991302490234,
+            595.9998168945312,
+            28.3699893951416
+          ],
+          "text": "Period\n09/2024"
+        },
+        {
+          "bbox": [
+            407.63067626953125,
+            34.169979095458984,
+            595.9998168945312,
+            43.169979095458984
+          ],
+          "text": "Statement ID\n520562"
+        },
+        {
+          "bbox": [
+            15.0,
+            725.0,
+            45.47000503540039,
+            735.0
+          ],
+          "text": "bitbird"
+        },
+        {
+          "bbox": [
+            15.0,
+            740.0,
+            102.25501251220703,
+            749.0
+          ],
+          "text": "1e de Riemerstraat 40"
+        },
+        {
+          "bbox": [
+            15.0,
+            753.7999877929688,
+            108.56401062011719,
+            762.7999877929688
+          ],
+          "text": "2513 Den Haag ZH - NL"
+        },
+        {
+          "bbox": [
+            15.0,
+            767.5999755859375,
+            121.95600891113281,
+            776.5999755859375
+          ],
+          "text": "Tax ID - NL857745141B01"
+        },
+        {
+          "bbox": [
+            303.1000061035156,
+            746.9750366210938,
+            308.8999938964844,
+            756.9750366210938
+          ],
+          "text": "3"
+        }
+      ],
+      "tables": [],
+      "statement_info": {
+        "client_name": "name",
+        "contract": "name"
+      },
+      "char_count": 1103,
+      "has_tables": false
+    },
+    {
+      "page_number": 5,
+      "text": "Statement Insights\nBreakdown by artist\nSan Holo\n100 %\n1.47 EUR\n6 146 units\nPayee name\nAndrew  Luce James Jr.\nContract name\nAndrew Luce\nContract #\n83911\nPeriod\n09/2024\nStatement ID\n520562\nbitbird\n1e de Riemerstraat 40\n2513 Den Haag ZH - NL\nTax ID - NL857745141B01\n4\n",
+      "text_blocks": [
+        {
+          "bbox": [
+            30.0,
+            92.00000762939453,
+            164.24000549316406,
+            108.00000762939453
+          ],
+          "text": "Statement Insights"
+        },
+        {
+          "bbox": [
+            40.0,
+            131.99998474121094,
+            130.66001892089844,
+            141.99998474121094
+          ],
+          "text": "Breakdown by artist"
+        },
+        {
+          "bbox": [
+            65.0,
+            154.3699951171875,
+            100.84700012207031,
+            174.7750244140625
+          ],
+          "text": "San Holo\n100 %"
+        },
+        {
+          "bbox": [
+            247.95199584960938,
+            154.3699951171875,
+            287.00006103515625,
+            174.7750244140625
+          ],
+          "text": "1.47 EUR\n6 146 units"
+        },
+        {
+          "bbox": [
+            17.0,
+            19.369991302490234,
+            237.63204956054688,
+            28.3699893951416
+          ],
+          "text": "Payee name\nAndrew  Luce James Jr."
+        },
+        {
+          "bbox": [
+            17.0,
+            34.169979095458984,
+            198.3200225830078,
+            43.169979095458984
+          ],
+          "text": "Contract name\nAndrew Luce"
+        },
+        {
+          "bbox": [
+            17.0,
+            48.970027923583984,
+            172.7420196533203,
+            57.970027923583984
+          ],
+          "text": "Contract #\n83911"
+        },
+        {
+          "bbox": [
+            434.4146728515625,
+            19.369991302490234,
+            595.9998168945312,
+            28.3699893951416
+          ],
+          "text": "Period\n09/2024"
+        },
+        {
+          "bbox": [
+            407.63067626953125,
+            34.169979095458984,
+            595.9998168945312,
+            43.169979095458984
+          ],
+          "text": "Statement ID\n520562"
+        },
+        {
+          "bbox": [
+            15.0,
+            725.0,
+            45.47000503540039,
+            735.0
+          ],
+          "text": "bitbird"
+        },
+        {
+          "bbox": [
+            15.0,
+            740.0,
+            102.25501251220703,
+            749.0
+          ],
+          "text": "1e de Riemerstraat 40"
+        },
+        {
+          "bbox": [
+            15.0,
+            753.7999877929688,
+            108.56401062011719,
+            762.7999877929688
+          ],
+          "text": "2513 Den Haag ZH - NL"
+        },
+        {
+          "bbox": [
+            15.0,
+            767.5999755859375,
+            121.95600891113281,
+            776.5999755859375
+          ],
+          "text": "Tax ID - NL857745141B01"
+        },
+        {
+          "bbox": [
+            303.1000061035156,
+            746.9750366210938,
+            308.8999938964844,
+            756.9750366210938
+          ],
+          "text": "4"
+        }
+      ],
+      "tables": [],
+      "statement_info": {
+        "client_name": "name",
+        "contract": "name"
+      },
+      "char_count": 265,
+      "has_tables": false
+    }
+  ],
+  "summary": {
+    "total_pages": 5,
+    "total_tables": 1,
+    "total_characters": 2372,
+    "pages_with_tables": 1,
+    "statement_info": {
+      "client_name": "name",
+      "contract": "name",
+      "amounts": {
+        "total": 1.47
+      }
+    }
+  },
+  "full_text": "Statement\nAndrew Luce\n09/2024\nAndrew  Luce James Jr.\n\n\n--- PAGE BREAK ---\n\nAndrew  Luce James Jr.\n3980 Hopevale Dr\n91403 Sherman Oaks\nUS\nDen Haag, October 10, 2024\nSubject: 09/2024\nDear Andrew\nHereby is your statement from 09/2024 for Andrew Luce\nLet us know if you have any questions.\nNOTE: statement run dated Aug, 02 2025 was mistakenly labeled as 06/2025, but in fact it is 07/2025\nPayee name\nAndrew  Luce James Jr.\nContract name\nAndrew Luce\nContract #\n83911\nPeriod\n09/2024\nStatement ID\n520562\nbitbird\n1e de Riemerstraat 40\n2513 Den Haag ZH - NL\nTax ID - NL857745141B01\n1\n\n\n--- PAGE BREAK ---\n\nStatement summary\n09/2024\nStatement income\n1.47 EUR\nRecouped costs (shared)\n0 EUR\nStatement subtotal\n1.47 EUR\nUnrecouped costs (shared)\n0 EUR\nGross artist income\nGross due to all payees combined within the contract\n1.47 EUR\nFinal balance due to payee\n1.47 EUR\nPayee name\nAndrew  Luce James Jr.\nContract name\nAndrew Luce\nContract #\n83911\nPeriod\n09/2024\nStatement ID\n520562\nbitbird\n1e de Riemerstraat 40\n2513 Den Haag ZH - NL\nTax ID - NL857745141B01\n2\n\n\n--- PAGE BREAK ---\n\nStatement Insights\nBreakdown by channel\nStreaming\n100 %  -  6 146 units\n1.47 EUR\n0.00023977 EUR  /  unit\nBreakdown by retailer\nSpotify\n95.15 %  -  6 024 units\n1.4 EUR\n0.00023275 EUR  /  unit\nSoundCloud\n3.11 %  -  137 units\n0.05 EUR\n0.00033418 EUR  /  unit\nYouTube\n1.17 %  -  22 units\n0.02 EUR\n0.00078038 EUR  /  unit\nTivo\n0.78 %  -  4 units\n0.01 EUR\n0.00286141 EUR  /  unit\nAllSaints Music Group\n0.78 %  -  1 unit\n0.01 EUR\n0.01144564 EUR  /  unit\nUSEN\n0.19 %  -  3 units\n0 EUR\n0.0009538 EUR  /  unit\nOthers\n-1.17 %  -  -45 units\n(0.02 EUR)\n0.00038152 EUR  /  unit\nBreakdown by track\nThe Future - Andrew Lu...\n100 %\n1.47 EUR\n6 146 units\nBreakdown by country\nUnited States\n75.92 %\n1.12 EUR\n4 426 units\nCanada\n5.44 %\n0.08 EUR\n473 units\nAustralia\n4.85 %\n0.07 EUR\n409 units\nGermany\n4.27 %\n0.06 EUR\n300 units\nUnited Kingdom\n4.27 %\n0.06 EUR\n206 units\nNew Zealand\n1.75 %\n0.03 EUR\n83 units\nOthers\n3.5 %\n0.05 EUR\n249 units\nPayee name\nAndrew  Luce James Jr.\nContract name\nAndrew Luce\nContract #\n83911\nPeriod\n09/2024\nStatement ID\n520562\nbitbird\n1e de Riemerstraat 40\n2513 Den Haag ZH - NL\nTax ID - NL857745141B01\n3\n\n\n--- PAGE BREAK ---\n\nStatement Insights\nBreakdown by artist\nSan Holo\n100 %\n1.47 EUR\n6 146 units\nPayee name\nAndrew  Luce James Jr.\nContract name\nAndrew Luce\nContract #\n83911\nPeriod\n09/2024\nStatement ID\n520562\nbitbird\n1e de Riemerstraat 40\n2513 Den Haag ZH - NL\nTax ID - NL857745141B01\n4\n"
+}
